@@ -208,5 +208,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>JavaScript</summary>
 	<ul>
 		<li><a href="https://css-tricks.com/understanding-async-await/">Understanding Async Await</a></li>
+		<li><a href="https://javascript.info/">JavaScript.info - The Modern JavaScript Tutorial</a></li>
 	</ul>
 </details>
