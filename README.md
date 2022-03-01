@@ -5,7 +5,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 ## Contents
 
 - [Books](#books)
-  
   - JavaScript
   - PHP
 
@@ -15,15 +14,15 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 <details>
     <summary>JavaScript</summary>
-    
-	- [Eloquent JavaScript](https://eloquentjavascript.net/)
-	
+	<ul>
+		<li><a href="https://eloquentjavascript.net/">Eloquent JavaScript</a></li>
+	</ul>
 </details>
 
 <details>
     <summary>PHP</summary>
-    
-	- [PHP The Right Way](https://phptherightway.com/)
-	
+	<ul>
+		<li><a href="https://phptherightway.com/">PHP The Right Way</a></li>
+	</ul>
 </details>
 
