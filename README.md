@@ -15,6 +15,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - PHP
   - TypeScript
 
+- [Explanations](#explanations)
+  - Algorithms
+
 - [Tutorials](#tutorials)
   - HTML & CSS
   - JavaScript
@@ -39,7 +42,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 
 
-# Courses
+## Courses
 
 <details>
     <summary>Computer Science</summary>
@@ -80,6 +83,19 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>TypeScript</summary>
 	<ul>
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU">TypeScript Basics by JavaBrains</a></li>
+	</ul>
+</details>
+
+
+
+## Explanations
+
+<details>
+    <summary>Algorithms</summary>
+	<ul>
+		<li><a href="https://github.com/TheAlgorithms/PHP">Algorithms implemented in PHP</a></li>
+		<li><a href="https://github.com/TheAlgorithms/Java">Algorithms implemented in Java</a></li>
+		<li><a href="https://github.com/TheAlgorithms/Javascript">Algorithms implemented in JavaScript</a></li>
 	</ul>
 </details>
 
