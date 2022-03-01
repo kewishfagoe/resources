@@ -28,6 +28,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Tools](#tools)
   - Color
   - Image Optimization
+  - Images
   - Performance
   - Responsive Design
   - SEO
@@ -159,6 +160,15 @@ A collection of resources/tools/courses/explanations and everything else I've co
 </details>
 
 <details>
+    <summary>Images</summary>
+	<ul>
+		<li><a href="https://unsplash.com/">Unsplash</a></li>
+		<li><a href="https://www.pexels.com/">Pexels</a></li>
+		<li><a href="https://pixabay.com/">Pixabay</a></li>
+	</ul>
+</details>
+
+<details>
     <summary>Performance</summary>
 	<ul>
 		<li><a href="https://web.dev/measure/">Measure tool by web.dev</a></li>
@@ -190,6 +200,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://www.internetingishard.com/html-and-css/">HTML & CSS Is Hard</a></li>
 		<li><a href="https://web.dev/learn/css/">Learn CSS by web.dev</a></li>
+		<li><a href="https://moderncss.dev/custom-select-styles-with-pure-css/">Custom Select Styles with Pure CSS by Stephanie Eckles</a></li>
 	</ul>
 </details>
 
