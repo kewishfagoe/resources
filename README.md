@@ -2,6 +2,8 @@
 
 A collection of resources/tools/courses/explanations and everything else I've come across that has been helpful to me.
 
+
+
 ## Contents
 
 - [Books](#books)
@@ -17,6 +19,11 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Explanations](#explanations)
   - Algorithms
+  
+- [Guides](#guides)
+  - Eleventy
+
+- [Interesting Reads](#interesting-reads)
 
 - [Tutorials](#tutorials)
   - HTML & CSS
@@ -96,6 +103,30 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/TheAlgorithms/PHP">Algorithms implemented in PHP</a></li>
 		<li><a href="https://github.com/TheAlgorithms/Java">Algorithms implemented in Java</a></li>
 		<li><a href="https://github.com/TheAlgorithms/Javascript">Algorithms implemented in JavaScript</a></li>
+	</ul>
+</details>
+
+
+
+## Guides
+
+<details>
+    <summary>Eleventy</summary>
+	<ul>
+		<li><a href="https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/">A Deep Dive Into Eleventy Static Site Generator</a></li>
+	</ul>
+</details>
+
+
+
+## Interesting Reads
+
+<details>
+    <summary>Interesting Reads</summary>
+	<ul>
+		<li><a href="https://critter.blog/2020/11/18/discipline-eats-motivation-for-breakfast/">Discipline eats motivation for breakfast</a></li>
+		<li><a href="http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/">What you need is discipline</a></li>
+		<li><a href="http://www.wisdomination.com/practical-discipline/">Practical discipline</a></li>
 	</ul>
 </details>
 
