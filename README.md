@@ -25,6 +25,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Interesting Reads](#interesting-reads)
 
+- [Tools](#tools)
+  - Color
+  - Image Optimization
+  - Performance
+  - Responsive Design
+  - SEO
+
 - [Tutorials](#tutorials)
   - HTML & CSS
   - JavaScript
@@ -127,6 +134,50 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://critter.blog/2020/11/18/discipline-eats-motivation-for-breakfast/">Discipline eats motivation for breakfast</a></li>
 		<li><a href="http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/">What you need is discipline</a></li>
 		<li><a href="http://www.wisdomination.com/practical-discipline/">Practical discipline</a></li>
+	</ul>
+</details>
+
+
+
+## Tools
+
+<details>
+    <summary>Color</summary>
+	<ul>
+		<li><a href="https://coolors.co/generate">Coolors - color palettes generator</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Image Optimization</summary>
+	<ul>
+		<li><a href="https://squoosh.app/">Squoosh</a></li>
+		<li><a href="https://tinypng.com/">TinyPNG</a></li>
+		<li><a href="https://jpeg.rocks/">JPEG.rocks - Privacy-aware JPEG optimizer</a></li>
+		<li><a href="http://jpeg-optimizer.com/">jpeg-optimizer</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Performance</summary>
+	<ul>
+		<li><a href="https://web.dev/measure/">Measure tool by web.dev</a></li>
+		<li><a href="https://pagespeed.web.dev/">PageSpeed Insights</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Responsive Design</summary>
+	<ul>
+		<li><a href=https://responsively.app/"">Responsively App</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>SEO</summary>
+	<ul>
+		<li><a href="https://metaseo.itsvg.in/">metaSEO - Generate meta tags</a></li>
+		<li><a href="https://unlighthouse.dev/">Unlighthouse</a></li>
 	</ul>
 </details>
 
