@@ -325,6 +325,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://icons.getbootstrap.com/">Bootstrap Icons</a></li>
 		<li><a href="https://heroicons.com/">heroicons</a></li>
+		<li><a href="https://flagicons.lipis.dev/">Country Flags in SVG</a></li>
 	</ul>
 </details>
 
