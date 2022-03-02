@@ -88,6 +88,22 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Computer Science</summary>
 	<ul>
 		<li><a href="https://github.com/ossu/computer-science">Open Source Society University</a></li>
+		<li><a href="https://craftinginterpreters.com/">Crafting Interpreters by Robert Nystrom</a></li>
+		<li><a href="https://browser.engineering/">Web Browser Engineering by Pavel Panchekha & Chris Harrelson</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Design</summary>
+	<ul>
+		<li><a href="https://www.degreeless.design/">Degreeless.design</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Eleventy</summary>
+	<ul>
+		<li><a href="https://learneleventyfromscratch.com/">Learn Eleventy From Scratch</a></li>
 	</ul>
 </details>
 
@@ -108,6 +124,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTYFJxC9NLJ7dSTI5Z1WWB6K">Introduction to JavaScript for Developers by JavaBrains</a></li>
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c">JavaScript Scopes and Closures In-depth by JavaBrains</a></li>
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u">JavaScript Objects and Prototypes In-depth by JavaBrains</a></li>
+		<li><a href="https://codecourse.com/courses/learn-alpine-js">Learn Alpine.js by Codecourse</a></li>
 	</ul>
 </details>
 
@@ -116,6 +133,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://laracasts.com/series/php-for-beginners">The PHP Practitioner by Laracasts</a></li>
 		<li><a href="https://laracasts.com/series/object-oriented-bootcamp-in-php">Object-Oriented Bootcamp by Laracasts</a></li>
+		<li><a href="https://laracasts.com/series/laravel-8-from-scratch">Laravel 8 From Scratch</a></li>
+		<li><a href="https://codecourse.com/courses/laravel-basics">Laravel Basics by Codecourse</a></li>
+		<li><a href="https://laracasts.com/series/build-modern-laravel-apps-using-inertia-js">Build Modern Laravel Apps Using Inertia.js</a></li>
 	</ul>
 </details>
 
@@ -123,6 +143,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>TypeScript</summary>
 	<ul>
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU">TypeScript Basics by JavaBrains</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Web Animation</summary>
+	<ul>
+		<li><a href="https://tilda.education/en/web-animation-course">Web Animation by Tilda</a></li>
 	</ul>
 </details>
 
@@ -167,7 +194,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://critter.blog/2020/11/18/discipline-eats-motivation-for-breakfast/">Discipline eats motivation for breakfast</a></li>
 		<li><a href="http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/">What you need is discipline</a></li>
 		<li><a href="http://www.wisdomination.com/practical-discipline/">Practical discipline</a></li>
-		<li><a href="https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01">Laziness does dot exist But unseen barriers do</a></li>
+		<li><a href="https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01">Laziness does not exist but unseen barriers do</a></li>
 	</ul>
 </details>
 
