@@ -16,10 +16,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Courses](#courses)
   - Computer Science
+  - Design
+  - Eleventy
   - Java
   - JavaScript
   - PHP
   - TypeScript
+  - Web Animation
 
 - [Explanations](#explanations)
   - Algorithms
@@ -33,8 +36,10 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Tools](#tools)
   - Accessibility
   - Color
+  - HTML & CSS
   - Image Optimization
   - Images
+  - Layout
   - Performance
   - Responsive Design
   - SEO
@@ -215,6 +220,18 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Color</summary>
 	<ul>
 		<li><a href="https://coolors.co/generate">Coolors - color palettes generator</a></li>
+		<li><a href="https://alwane.io/">Alwane - Extract CSS Colors</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>HTML & CSS</summary>
+	<ul>
+		<li><a href="https://www.joshwcomeau.com/shadow-palette/">Shadow Palette Generator</a></li>
+		<li><a href="https://css.glass/">css.glass</a></li>
+		<li><a href="https://csswizardry.com/ct/">ct.css</a></li>
+		<li><a href="https://hihayk.github.io/shaper/">Shaper</a></li>
+		<li><a href="https://ui-snippets.dev/">UI Snippets</a></li>
 	</ul>
 </details>
 
@@ -235,6 +252,14 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://unsplash.com/">Unsplash</a></li>
 		<li><a href="https://www.pexels.com/">Pexels</a></li>
 		<li><a href="https://pixabay.com/">Pixabay</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Layout</summary>
+	<ul>
+		<li><a href="https://grid.layoutit.com/">Layoutit!</a></li>
+		<li><a href="https://cssgrid-generator.netlify.app/">CSS Grid Generator by Sarah Drasner</a></li>
 	</ul>
 </details>
 
