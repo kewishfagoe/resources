@@ -246,6 +246,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/">What you need is discipline</a></li>
 		<li><a href="http://www.wisdomination.com/practical-discipline/">Practical discipline</a></li>
 		<li><a href="https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01">Laziness does not exist but unseen barriers do</a></li>
+		<li><a href="https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/">Why are hyperlinks blue?</a></li>
+		<li><a href="https://increment.com/planning/planning-for-momentum/">Planning for momentum</a></li>
+		<li><a href="https://ciechanow.ski/curves-and-surfaces/">Curves and Surfaces</a></li>
 	</ul>
 </details>
 
@@ -279,6 +282,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/saisandeepvaddi/ten-hands">Ten Hands</a></li>
 		<li><a href="https://www.codepng.app/">codepng</a></li>
 		<li><a href="https://lipsum.com/">lipsum</a></li>
+		<li><a href="https://github.com/ssleptsov/ninja-keys">Ninja Keys</a></li>
+		<li><a href="https://www.lightgalleryjs.com/">lightGallery</a></li>
 	</ul>
 </details>
 
@@ -359,6 +364,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://calibreapp.com/tools/core-web-vitals-checker">Core Web Vitals Checker</a></li>
 		<li><a href="https://webpagetest.org/">WebPageTest by Catchpoint</a></li>
 		<li><a href="https://perfbuddy.com/">PerfBuddy</a></li>
+		<li><a href="https://bundlephobia.com/">bundlephobia</a></li>
 	</ul>
 </details>
 
@@ -402,5 +408,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://css-tricks.com/understanding-async-await/">Understanding Async Await</a></li>
 		<li><a href="https://javascript.info/">JavaScript.info - The Modern JavaScript Tutorial</a></li>
+		<li><a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70?">Modern JavaScript Explained For Dinosaurs</a></li>
 	</ul>
 </details>
