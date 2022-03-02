@@ -181,6 +181,14 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Accessibility</summary>
 	<ul>
 		<li><a href="https://www.accessibility-developer-guide.com/">Accessibility Developer Guide</a></li>
+		<li><a href="https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/">A Complete Guide To HTML Email</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Design Systems</summary>
+	<ul>
+		<li><a href="https://leerob.io/blog/style-guides-component-libraries-design-systems">Everything I Know About Style Guides, Design Systems, and Component Libraries by Lee Robinson</a></li>
 	</ul>
 </details>
 
