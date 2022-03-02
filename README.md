@@ -34,6 +34,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Eleventy
   - Marketing
 
+- [Helpful Websites](#helpful-websites)
+
 - [Interesting Reads](#interesting-reads)
 
 - [Tools](#tools)
@@ -216,6 +218,19 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Marketing</summary>
 	<ul>
 		<li><a href="https://priceonomics.com/the-content-marketing-handbook/">The Content Marketing Handbook</a></li>
+	</ul>
+</details>
+
+
+
+## Helpful Websites
+
+<details>
+    <summary>Helpful Websites</summary>
+	<ul>
+		<li><a href="https://tiny-helpers.dev/">Tiny Helpers</a></li>
+		<li><a href="https://moderncss.dev/">moderncss.dev</a></li>
+		<li><a href="https://www.btw.so/open-source-alternatives">Open Source Alternatives</a></li>
 	</ul>
 </details>
 
