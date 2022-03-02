@@ -38,6 +38,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Interesting Reads](#interesting-reads)
 
+- [Inspiration](#inspiration)
+
 - [Tools](#tools)
   - Accessibility
   - CLI
@@ -256,6 +258,17 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://increment.com/planning/planning-for-momentum/">Planning for momentum</a></li>
 		<li><a href="https://ciechanow.ski/curves-and-surfaces/">Curves and Surfaces</a></li>
 		<li><a href="https://os.phil-opp.com/">Writing an OS in Rust by Philipp Oppermann</a></li>
+	</ul>
+</details>
+
+
+
+## Inspiration
+
+<details>
+    <summary>Inspiration</summary>
+	<ul>
+		<li><a href="https://www.dialup.net/windle/">Windle for Windows 3.1</a></li>
 	</ul>
 </details>
 
