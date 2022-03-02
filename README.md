@@ -135,6 +135,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://critter.blog/2020/11/18/discipline-eats-motivation-for-breakfast/">Discipline eats motivation for breakfast</a></li>
 		<li><a href="http://www.wisdomination.com/screw-motivation-what-you-need-is-discipline/">What you need is discipline</a></li>
 		<li><a href="http://www.wisdomination.com/practical-discipline/">Practical discipline</a></li>
+		<li><a href="https://humanparts.medium.com/laziness-does-not-exist-3af27e312d01">Laziness does dot exist But unseen barriers do</a></li>
 	</ul>
 </details>
 
