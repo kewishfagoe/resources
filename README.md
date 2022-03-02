@@ -407,6 +407,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://jgthms.com/web-design-in-4-minutes/">Web Design in 4 minutes</a></li>
 		<li><a href="https://yosracodes.hashnode.dev/how-i-make-css-art">How I Make CSS Art by Yosra Emad</a></li>
 		<li><a href="https://css-tricks.com/a-clever-sticky-footer-technique/">A Clever Sticky Footer Technique</a></li>
+		<li>The Process of Implementing A UI Design From Scratch by Ahmad Shadeed
+			<ul>
+				<li><a href="https://ishadeed.com/article/building-ui-design-scratch/">Part 1: Building The Header Element</a></li>
+				<li><a href="https://ishadeed.com/article/building-ui-design-scratch-part-2/">Part 2: Building The Hero Element</a></li>
+				<li><a href="https://ishadeed.com/article/building-ui-design-scratch-part-3/">Part 3: Building The Grid and Course Cards</a></li>
+			</ul>
+		</li>
 	</ul>
 </details>
 
