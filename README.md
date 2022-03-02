@@ -232,6 +232,10 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://tiny-helpers.dev/">Tiny Helpers</a></li>
 		<li><a href="https://moderncss.dev/">moderncss.dev</a></li>
 		<li><a href="https://www.btw.so/open-source-alternatives">Open Source Alternatives</a></li>
+		<li><a href="https://send.vis.ee/">Send</a></li>
+		<li><a href="https://wormhole.app/">Wormhole</a></li>
+		<li><a href="https://www.swisstransfer.com/en">SwissTransfer</a></li>
+		<li><a href="https://filesend.standardnotes.com/">SN FileSend</a></li>
 	</ul>
 </details>
 
@@ -400,6 +404,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.internetingishard.com/html-and-css/">HTML & CSS Is Hard</a></li>
 		<li><a href="https://web.dev/learn/css/">Learn CSS by web.dev</a></li>
 		<li><a href="https://moderncss.dev/custom-select-styles-with-pure-css/">Custom Select Styles with Pure CSS by Stephanie Eckles</a></li>
+		<li><a href="https://jgthms.com/web-design-in-4-minutes/">Web Design in 4 minutes</a></li>
+		<li><a href="https://yosracodes.hashnode.dev/how-i-make-css-art">How I Make CSS Art by Yosra Emad</a></li>
+		<li><a href="https://css-tricks.com/a-clever-sticky-footer-technique/">A Clever Sticky Footer Technique</a></li>
 	</ul>
 </details>
 
