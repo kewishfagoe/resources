@@ -144,6 +144,15 @@ A collection of resources/tools/courses/explanations and everything else I've co
 ## Tools
 
 <details>
+    <summary>Accessibility</summary>
+	<ul>
+		<li><a href="https://ffoodd.github.io/a11y.css/">a11y.css</a></li>
+		<li><a href="https://www.ibm.com/able/toolkit/tools/">IBM Equal Access Accessibility Checker</a></li>
+		<li><a href="https://khan.github.io/tota11y/">tota11y</a></li>
+	</ul>
+</details>
+
+<details>
     <summary>Color</summary>
 	<ul>
 		<li><a href="https://coolors.co/generate">Coolors - color palettes generator</a></li>
