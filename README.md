@@ -9,7 +9,11 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Books](#books)
   - JavaScript
   - PHP
-  
+
+- [Cheatsheets](#cheatsheets)
+  - HTML & CSS
+  - PHP
+
 - [Courses](#courses)
   - Computer Science
   - Java
@@ -54,6 +58,25 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>PHP</summary>
 	<ul>
 		<li><a href="https://phptherightway.com/">PHP The Right Way</a></li>
+	</ul>
+</details>
+
+
+
+## Cheatsheets
+
+<details>
+    <summary>HTML & CSS</summary>
+	<ul>
+		<li><a href="https://htmlreference.io/">HTMLreference.io</a></li>
+		<li><a href="https://tympanus.net/codrops/css_reference/">CSS Reference</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>PHP</summary>
+	<ul>
+		<li><a href="https://css-tricks.com/php-date-and-time-recipes/">PHP Date and Time Recipes</a></li>
 	</ul>
 </details>
 
