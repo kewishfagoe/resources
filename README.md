@@ -288,6 +288,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://lipsum.com/">lipsum</a></li>
 		<li><a href="https://github.com/ssleptsov/ninja-keys">Ninja Keys</a></li>
 		<li><a href="https://www.lightgalleryjs.com/">lightGallery</a></li>
+		<li><a href="https://github.com/louislam/uptime-kuma">Uptime Kuma</a></li>
 	</ul>
 </details>
 
