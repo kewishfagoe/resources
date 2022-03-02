@@ -38,6 +38,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Tools](#tools)
   - Accessibility
   - Color
+  - Development Utilities
   - Diagramming
   - HTML & CSS
   - Image Optimization
@@ -240,6 +241,18 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://coolors.co/generate">Coolors - color palettes generator</a></li>
 		<li><a href="https://alwane.io/">Alwane - Extract CSS Colors</a></li>
+		<li><a href="https://fffuel.co/cccolor/">cccolor</a></li>
+		<li><a href="https://randomcolor.design/">randomcolor.design</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Development Utilities</summary>
+	<ul>
+		<li><a href="https://showcode.app/">showcode.app</a></li>
+		<li><a href="https://github.com/saisandeepvaddi/ten-hands">Ten Hands</a></li>
+		<li><a href="https://www.codepng.app/">codepng</a></li>
+		<li><a href="https://lipsum.com/">lipsum</a></li>
 	</ul>
 </details>
 
@@ -271,6 +284,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://jpeg.rocks/">JPEG.rocks - Privacy-aware JPEG optimizer</a></li>
 		<li><a href="http://jpeg-optimizer.com/">jpeg-optimizer</a></li>
 		<li><a href="https://saerasoft.com/caesium/">Caesium Image Compressor</a></li>
+		<li><a href="https://github.com/antonreshetov/image-optimizer">Mac Only Image Optimizer</a></li>
 	</ul>
 </details>
 
@@ -280,6 +294,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://unsplash.com/">Unsplash</a></li>
 		<li><a href="https://www.pexels.com/">Pexels</a></li>
 		<li><a href="https://pixabay.com/">Pixabay</a></li>
+		<li><a href="https://doodleipsum.com/">Doodle Ipsum</a></li>
+		<li><a href="https://logoipsum.com/">Logo Ipsum</a></li>
 	</ul>
 </details>
 
@@ -296,6 +312,10 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://web.dev/measure/">Measure tool by web.dev</a></li>
 		<li><a href="https://pagespeed.web.dev/">PageSpeed Insights</a></li>
+		<li><a href="https://bundlers.tooling.report/">Bundlers Tooling Report</a></li>
+		<li><a href="https://calibreapp.com/tools/core-web-vitals-checker">Core Web Vitals Checker</a></li>
+		<li><a href="https://webpagetest.org/">WebPageTest by Catchpoint</a></li>
+		<li><a href="https://perfbuddy.com/">PerfBuddy</a></li>
 	</ul>
 </details>
 
