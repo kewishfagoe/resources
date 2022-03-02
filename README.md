@@ -29,7 +29,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
   
 - [Guides](#guides)
   - Accessibility
+  - Design Systems
   - Eleventy
+  - Marketing
 
 - [Interesting Reads](#interesting-reads)
 
@@ -196,6 +198,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Eleventy</summary>
 	<ul>
 		<li><a href="https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/">A Deep Dive Into Eleventy Static Site Generator</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Marketing</summary>
+	<ul>
+		<li><a href="https://priceonomics.com/the-content-marketing-handbook/">The Content Marketing Handbook</a></li>
 	</ul>
 </details>
 
