@@ -36,6 +36,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Tools](#tools)
   - Accessibility
   - Color
+  - Diagramming
   - HTML & CSS
   - Image Optimization
   - Images
@@ -43,6 +44,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Performance
   - Responsive Design
   - SEO
+  - UX
 
 - [Tutorials](#tutorials)
   - HTML & CSS
@@ -225,6 +227,15 @@ A collection of resources/tools/courses/explanations and everything else I've co
 </details>
 
 <details>
+    <summary>Diagramming</summary>
+	<ul>
+		<li><a href="https://excalidraw.com/">Excalidraw</a></li>
+		<li><a href="https://mermaid-js.github.io/mermaid/#/">Mermaid</a></li>
+		<li><a href="https://monodraw.helftone.com/">Monodraw</a></li>
+	</ul>
+</details>
+
+<details>
     <summary>HTML & CSS</summary>
 	<ul>
 		<li><a href="https://www.joshwcomeau.com/shadow-palette/">Shadow Palette Generator</a></li>
@@ -283,6 +294,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://metaseo.itsvg.in/">metaSEO - Generate meta tags</a></li>
 		<li><a href="https://unlighthouse.dev/">Unlighthouse</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>UX</summary>
+	<ul>
+		<li><a href="https://heypatterns.com/">Heypatterns</a></li>
 	</ul>
 </details>
 
