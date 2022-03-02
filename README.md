@@ -21,11 +21,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Algorithms
   
 - [Guides](#guides)
+  - Accessibility
   - Eleventy
 
 - [Interesting Reads](#interesting-reads)
 
 - [Tools](#tools)
+  - Accessibility
   - Color
   - Image Optimization
   - Images
