@@ -40,6 +40,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Tools](#tools)
   - Accessibility
+  - CLI
   - Color
   - Development Utilities
   - Diagramming
@@ -266,6 +267,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://ffoodd.github.io/a11y.css/">a11y.css</a></li>
 		<li><a href="https://www.ibm.com/able/toolkit/tools/">IBM Equal Access Accessibility Checker</a></li>
 		<li><a href="https://khan.github.io/tota11y/">tota11y</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>CLI</summary>
+	<ul>
+		<li><a href="https://github.com/muesli/duf">Disk Usage/Free Utility</a></li>
 	</ul>
 </details>
 
