@@ -45,6 +45,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Diagramming
   - Fonts
   - HTML & CSS
+  - Icons
   - Image Optimization
   - Images
   - Layout
@@ -307,6 +308,14 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://csswizardry.com/ct/">ct.css</a></li>
 		<li><a href="https://hihayk.github.io/shaper/">Shaper</a></li>
 		<li><a href="https://ui-snippets.dev/">UI Snippets</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Icons</summary>
+	<ul>
+		<li><a href="https://icons.getbootstrap.com/">Bootstrap Icons</a></li>
+		<li><a href="https://heroicons.com/">heroicons</a></li>
 	</ul>
 </details>
 
