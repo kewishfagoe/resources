@@ -255,6 +255,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://blog.mozilla.org/en/internet-culture/deep-dives/why-are-hyperlinks-blue/">Why are hyperlinks blue?</a></li>
 		<li><a href="https://increment.com/planning/planning-for-momentum/">Planning for momentum</a></li>
 		<li><a href="https://ciechanow.ski/curves-and-surfaces/">Curves and Surfaces</a></li>
+		<li><a href="https://os.phil-opp.com/">Writing an OS in Rust by Philipp Oppermann</a></li>
 	</ul>
 </details>
 
