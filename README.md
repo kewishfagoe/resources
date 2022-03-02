@@ -119,6 +119,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 ## Guides
 
 <details>
+    <summary>Accessibility</summary>
+	<ul>
+		<li><a href="https://www.accessibility-developer-guide.com/">Accessibility Developer Guide</a></li>
+	</ul>
+</details>
+
+<details>
     <summary>Eleventy</summary>
 	<ul>
 		<li><a href="https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/">A Deep Dive Into Eleventy Static Site Generator</a></li>
