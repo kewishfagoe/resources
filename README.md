@@ -30,6 +30,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Guides](#guides)
   - Accessibility
   - Design Systems
+  - Development
   - Eleventy
   - Marketing
 
@@ -193,6 +194,14 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Design Systems</summary>
 	<ul>
 		<li><a href="https://leerob.io/blog/style-guides-component-libraries-design-systems">Everything I Know About Style Guides, Design Systems, and Component Libraries by Lee Robinson</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Development</summary>
+	<ul>
+		<li><a href="https://semver.org/">Semantic Versioning 2.0.0</a></li>
+		<li><a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a></li>
 	</ul>
 </details>
 
