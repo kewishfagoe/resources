@@ -40,6 +40,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Color
   - Development Utilities
   - Diagramming
+  - Fonts
   - HTML & CSS
   - Image Optimization
   - Images
@@ -262,6 +263,15 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://excalidraw.com/">Excalidraw</a></li>
 		<li><a href="https://mermaid-js.github.io/mermaid/#/">Mermaid</a></li>
 		<li><a href="https://monodraw.helftone.com/">Monodraw</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Fonts</summary>
+	<ul>
+		<li><a href="https://github.com/rsms/inter/">Inter typeface family</a></li>
+		<li><a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono</a></li>
+		<li><a href="https://manropefont.com/">Manrope</a></li>
 	</ul>
 </details>
 
