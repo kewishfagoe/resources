@@ -416,5 +416,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://css-tricks.com/understanding-async-await/">Understanding Async Await</a></li>
 		<li><a href="https://javascript.info/">JavaScript.info - The Modern JavaScript Tutorial</a></li>
 		<li><a href="https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosaurs-f695e9747b70?">Modern JavaScript Explained For Dinosaurs</a></li>
+		<li><a href="https://jgthms.com/javascript-in-14-minutes/">JavaScript in 14 minutes by Jeremy Thomas</a></li>
 	</ul>
 </details>
