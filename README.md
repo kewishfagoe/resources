@@ -216,6 +216,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://semver.org/">Semantic Versioning 2.0.0</a></li>
 		<li><a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a></li>
+		<li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide</a></li>
+		<li><a href="https://github.com/kamranahmedse/developer-roadmap/">Developer Roadmap</a></li>
+		<li><a href="https://github.com/donnemartin/system-design-primer">System Design Primer</a></li>
 	</ul>
 </details>
 
@@ -320,6 +323,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.lightgalleryjs.com/">lightGallery</a></li>
 		<li><a href="https://github.com/louislam/uptime-kuma">Uptime Kuma</a></li>
 		<li><a href="https://github.com/terser/terser">terser</a></li>
+		<li><a href="https://github.com/public-apis/public-apis">A collective list of free APIs</a></li>
+		<li><a href="https://github.com/microsoft/PowerToys/">Microsoft PowerToys</a></li>
+		<li><a href="https://github.com/veler/DevToys">DevToys</a></li>
 	</ul>
 </details>
 
