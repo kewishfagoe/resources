@@ -76,6 +76,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>JavaScript</summary>
 	<ul>
 		<li><a href="https://eloquentjavascript.net/">Eloquent JavaScript</a></li>
+		<li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JavaScript</a></li>
 	</ul>
 </details>
 
