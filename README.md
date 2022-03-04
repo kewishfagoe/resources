@@ -380,6 +380,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://hihayk.github.io/shaper/">Shaper</a></li>
 		<li><a href="https://ui-snippets.dev/">UI Snippets</a></li>
 		<li><a href="https://www.cssui.dev/">CSSUI</a></li>
+		<li><a href="https://github.com/alvaromontoro/almond.css">almond.css</a></li>
 	</ul>
 </details>
 
