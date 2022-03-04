@@ -475,6 +475,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 				<li><a href="https://ishadeed.com/article/building-ui-design-scratch-part-3/">Part 3: Building The Grid and Course Cards</a></li>
 			</ul>
 		</li>
+		<li><a href="https://thinkdobecreate.com/articles/css-animating-newly-added-element/">Animating in a newly added element</a></li>
 	</ul>
 </details>
 
