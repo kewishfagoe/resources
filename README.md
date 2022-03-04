@@ -36,6 +36,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Design Systems
   - Development
   - Eleventy
+  - JavaScript
   - Marketing
 
 - [Helpful Websites](#helpful-websites)
@@ -65,6 +66,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Tutorials](#tutorials)
   - HTML & CSS
   - JavaScript
+  - Miscellaneous
 
 
 
@@ -182,6 +184,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners</a></li>
 		<li><a href="https://github.com/google/WebFundamentals">Web Fundamentals on DevSite</a></li>
+		<li><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a></li>
 	</ul>
 </details>
 
@@ -202,6 +205,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Fundamentals</summary>
 	<ul>
 		<li><a href="https://github.com/vasanthk/how-web-works">How The Web Works</a></li>
+		<li><a href="https://github.com/samdutton/simpl">Simplest possible examples of HTML, CSS and Javascript</a></li>
 	</ul>
 </details>
 
@@ -243,9 +247,11 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://semver.org/">Semantic Versioning 2.0.0</a></li>
 		<li><a href="https://keepachangelog.com/en/1.0.0/">Keep a Changelog</a></li>
-		<li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide</a></li>
 		<li><a href="https://github.com/kamranahmedse/developer-roadmap/">Developer Roadmap</a></li>
 		<li><a href="https://github.com/donnemartin/system-design-primer">System Design Primer</a></li>
+		<li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></li>
+		<li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview Handbook</a></li>
+		<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
 	</ul>
 </details>
 
@@ -253,6 +259,14 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Eleventy</summary>
 	<ul>
 		<li><a href="https://www.smashingmagazine.com/2021/03/eleventy-static-site-generator/">A Deep Dive Into Eleventy Static Site Generator</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>JavaScript</summary>
+	<ul>
+		<li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide</a></li>
+		<li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
 	</ul>
 </details>
 
@@ -522,5 +536,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://htmldom.dev/make-a-draggable-element/">Make a draggable element</a></li>
 		<li><a href="https://davidwalsh.name/detect-dark-mode-preference-with-javascript">Detect Dark Mode Preference with JavaScript</a></li>
 		<li><a href="https://tympanus.net/codrops/2022/03/04/creating-native-web-components/">Creating Native Web Components with the Minze JavaScript framework</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Miscellaneous</summary>
+	<ul>
+		<li><a href="https://github.com/danistefanovic/build-your-own-x">Build your own (insert technology here)</a></li>
+		<li><a href="https://github.com/gothinkster/realworld">Real world example apps</a></li>
 	</ul>
 </details>
