@@ -291,6 +291,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://wormhole.app/">Wormhole</a></li>
 		<li><a href="https://www.swisstransfer.com/en">SwissTransfer</a></li>
 		<li><a href="https://filesend.standardnotes.com/">SN FileSend</a></li>
+		<li><a href="https://degoogle.jmoore.dev/">degoogle</a></li>
 	</ul>
 </details>
 
