@@ -373,6 +373,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/muesli/duf">Disk Usage/Free Utility</a></li>
 		<li><a href="https://github.com/tldr-pages/tldr">tldr-pages</a></li>
 		<li><a href="https://jless.io/">JLess</a></li>
+		<li><a href="https://www.shell.how/">shell.how</a></li>
 	</ul>
 </details>
 
