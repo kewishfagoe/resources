@@ -379,6 +379,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://csswizardry.com/ct/">ct.css</a></li>
 		<li><a href="https://hihayk.github.io/shaper/">Shaper</a></li>
 		<li><a href="https://ui-snippets.dev/">UI Snippets</a></li>
+		<li><a href="https://www.cssui.dev/">CSSUI</a></li>
 	</ul>
 </details>
 
