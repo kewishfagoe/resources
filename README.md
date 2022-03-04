@@ -280,6 +280,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://os.phil-opp.com/">Writing an OS in Rust by Philipp Oppermann</a></li>
 		<li><a href="https://marketsplash.com/minimalism-in-graphic-design/">Mastering Simplicity</a></li>
 		<li><a href="https://iamschulz.com/writing-logic-in-css/">Writing Logic in CSS</a></li>
+		<li><a href="https://www.joshbochu.com/posts/confusion">Coding & Confusion</a></li>
 	</ul>
 </details>
 
