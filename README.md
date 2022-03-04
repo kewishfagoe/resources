@@ -38,6 +38,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Eleventy
   - JavaScript
   - Marketing
+  - PHP
 
 - [Helpful Websites](#helpful-websites)
 
@@ -276,6 +277,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Marketing</summary>
 	<ul>
 		<li><a href="https://priceonomics.com/the-content-marketing-handbook/">The Content Marketing Handbook</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>PHP</summary>
+	<ul>
+		<li><a href="https://flatlogic.com/blog/laravel-validation-guide/">Laravel Validation Guide</a></li>
 	</ul>
 </details>
 
