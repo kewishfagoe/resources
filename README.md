@@ -354,6 +354,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/rsms/inter/">Inter typeface family</a></li>
 		<li><a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono</a></li>
 		<li><a href="https://manropefont.com/">Manrope</a></li>
+		<li><a href="https://material.io/blog/roboto-serif">Roboto Serif</a></li>
 	</ul>
 </details>
 
