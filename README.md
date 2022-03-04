@@ -43,6 +43,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Tools](#tools)
   - Accessibility
+  - Charts
   - CLI
   - Color
   - Development Utilities
@@ -292,6 +293,15 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://ffoodd.github.io/a11y.css/">a11y.css</a></li>
 		<li><a href="https://www.ibm.com/able/toolkit/tools/">IBM Equal Access Accessibility Checker</a></li>
 		<li><a href="https://khan.github.io/tota11y/">tota11y</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Charts</summary>
+	<ul>
+		<li><a href="https://github.com/vizzuhq/vizzu-lib">Vizzu</a></li>
+		<li><a href="https://frappe.io/charts">Frappe Charts</a></li>
+		<li><a href="https://chartscss.org/">Charts.css</a></li>
 	</ul>
 </details>
 
