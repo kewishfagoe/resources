@@ -387,6 +387,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://randomcolor.design/">randomcolor.design</a></li>
 		<li><a href="https://huemint.com/">Huemint</a></li>
 		<li><a href="https://www.opensourcecolorsystem.design/">open source color system</a></li>
+		<li><a href="https://hue.tools/">hue.tools</a></li>
 	</ul>
 </details>
 
