@@ -23,6 +23,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - PHP
   - TypeScript
   - Web Animation
+  - Web Development
 
 - [Explanations](#explanations)
   - Algorithms
@@ -173,6 +174,14 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Web Animation</summary>
 	<ul>
 		<li><a href="https://tilda.education/en/web-animation-course">Web Animation by Tilda</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Web Development</summary>
+	<ul>
+		<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners</a></li>
+		<li><a href="https://github.com/google/WebFundamentals">Web Fundamentals on DevSite</a></li>
 	</ul>
 </details>
 
