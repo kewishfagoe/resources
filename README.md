@@ -327,6 +327,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://pudding.cool/2022/02/plain/">What makes writing more readable?</a></li>
 		<li><a href="https://sive.rs/plaintext">Write plain text files</a></li>
 		<li><a href="https://builtformars.com/case-studies/gmail">The imperfections of Gmail</a></li>
+		<li><a href="https://sparkbox.com/foundry/what_is_it_like_to_work_with_sparkbox_onboarding_iterating_offboarding_process">Client Journey: Onboarding, Iterating, and Offboarding</a></li>
 	</ul>
 </details>
 
