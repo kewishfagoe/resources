@@ -320,6 +320,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>CLI</summary>
 	<ul>
 		<li><a href="https://github.com/muesli/duf">Disk Usage/Free Utility</a></li>
+		<li><a href="https://github.com/tldr-pages/tldr">tldr-pages</a></li>
 	</ul>
 </details>
 
