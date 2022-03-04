@@ -30,6 +30,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   
 - [Guides](#guides)
   - Accessibility
+  - CSS
   - Design Systems
   - Development
   - Eleventy
@@ -203,6 +204,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://www.accessibility-developer-guide.com/">Accessibility Developer Guide</a></li>
 		<li><a href="https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/">A Complete Guide To HTML Email</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>CSS</summary>
+	<ul>
+		<li><a href="https://css-tricks.com/css-cascade-layers/">A Complete Guide to CSS Cascade Layers</a></li>
 	</ul>
 </details>
 
