@@ -466,6 +466,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://heypatterns.com/">Heypatterns</a></li>
 		<li><a href="https://open-ui.org/">Open UI</a></li>
+		<li><a href="https://www.uidesign.tips/ux-tips">UX Tips</a></li>
 	</ul>
 </details>
 
@@ -490,6 +491,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 			</ul>
 		</li>
 		<li><a href="https://thinkdobecreate.com/articles/css-animating-newly-added-element/">Animating in a newly added element</a></li>
+		<li><a href="https://www.uidesign.tips/ui-tips">UI Tips</a></li>
 	</ul>
 </details>
 
