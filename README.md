@@ -280,6 +280,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Inspiration</summary>
 	<ul>
 		<li><a href="https://www.dialup.net/windle/">Windle for Windows 3.1</a></li>
+		<li><a href="https://oss.love/">oss.love</a></li>
 	</ul>
 </details>
 
