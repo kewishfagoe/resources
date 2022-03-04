@@ -453,6 +453,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>UX</summary>
 	<ul>
 		<li><a href="https://heypatterns.com/">Heypatterns</a></li>
+		<li><a href="https://open-ui.org/">Open UI</a></li>
 	</ul>
 </details>
 
