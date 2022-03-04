@@ -117,6 +117,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Design</summary>
 	<ul>
 		<li><a href="https://www.degreeless.design/">Degreeless.design</a></li>
+		<li><a href="https://www.uxdatabase.io/free-product-design-course">Free self-taught product design course</a></li>
 	</ul>
 </details>
 
