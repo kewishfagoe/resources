@@ -279,6 +279,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://ciechanow.ski/curves-and-surfaces/">Curves and Surfaces</a></li>
 		<li><a href="https://os.phil-opp.com/">Writing an OS in Rust by Philipp Oppermann</a></li>
 		<li><a href="https://marketsplash.com/minimalism-in-graphic-design/">Mastering Simplicity</a></li>
+		<li><a href="https://iamschulz.com/writing-logic-in-css/">Writing Logic in CSS</a></li>
 	</ul>
 </details>
 
@@ -291,6 +292,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://www.dialup.net/windle/">Windle for Windows 3.1</a></li>
 		<li><a href="https://oss.love/">oss.love</a></li>
+		<li><a href="https://paint.withdiagram.com/">paint.withdiagram.com</a></li>
+		<li><a href="https://jesse-zhou.com/">Jesse's Ramen</a></li>
+		<li><a href="https://microwaver59.com/">microwaver59</a></li>
 	</ul>
 </details>
 
@@ -332,6 +336,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://alwane.io/">Alwane - Extract CSS Colors</a></li>
 		<li><a href="https://fffuel.co/cccolor/">cccolor</a></li>
 		<li><a href="https://randomcolor.design/">randomcolor.design</a></li>
+		<li><a href="https://huemint.com/">Huemint</a></li>
 	</ul>
 </details>
 
@@ -358,6 +363,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://excalidraw.com/">Excalidraw</a></li>
 		<li><a href="https://mermaid-js.github.io/mermaid/#/">Mermaid</a></li>
 		<li><a href="https://monodraw.helftone.com/">Monodraw</a></li>
+		<li><a href="https://www.tldraw.com/">tldraw</a></li>
 	</ul>
 </details>
 
@@ -440,7 +446,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 <details>
     <summary>Responsive Design</summary>
 	<ul>
-		<li><a href=https://responsively.app/"">Responsively App</a></li>
+		<li><a href="https://responsively.app/">Responsively App</a></li>
 	</ul>
 </details>
 
