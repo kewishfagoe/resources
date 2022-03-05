@@ -303,6 +303,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://filesend.standardnotes.com/">SN FileSend</a></li>
 		<li><a href="https://degoogle.jmoore.dev/">degoogle</a></li>
 		<li><a href="https://hirestack.ai/interview-questions-generator">AI generated questions and answers</a></li>
+		<li><a href="https://11ty.rocks/">11ty Rocks!</a></li>
 	</ul>
 </details>
 
