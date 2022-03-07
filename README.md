@@ -235,6 +235,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>CSS</summary>
 	<ul>
 		<li><a href="https://css-tricks.com/css-cascade-layers/">A Complete Guide to CSS Cascade Layers</a></li>
+		<li><a href="https://css-tricks.com/a-complete-guide-to-dark-mode-on-the-web/">A Complete Guide to Dark Mode on the Web</a></li>
 	</ul>
 </details>
 
