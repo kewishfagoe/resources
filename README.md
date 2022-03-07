@@ -65,6 +65,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - UX
 
 - [Tutorials](#tutorials)
+  - Eleventy
   - HTML & CSS
   - JavaScript
   - Miscellaneous
@@ -528,6 +529,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 
 ## Tutorials
+
+<details>
+    <summary>Eleventy</summary>
+	<ul>
+		<li><a href="https://danabyerly.com/notes/upgrading-to-eleventy-1-0-0/">Upgrading to Eleventy 1.0.0</a></li>
+	</ul>
+</details>
 
 <details>
     <summary>HTML & CSS</summary>
