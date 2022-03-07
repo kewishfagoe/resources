@@ -535,6 +535,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Eleventy</summary>
 	<ul>
 		<li><a href="https://danabyerly.com/notes/upgrading-to-eleventy-1-0-0/">Upgrading to Eleventy 1.0.0</a></li>
+		<li><a href="https://danabyerly.com/articles/manually-splitting-css-files-in-eleventy/">Manually splitting CSS files in Eleventy</a></li>
 	</ul>
 </details>
 
