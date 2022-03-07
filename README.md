@@ -412,6 +412,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a></li>
 		<li><a href="https://api-diff.io/">API Diff</a></li>
 		<li><a href="https://lyricsum.com/">Lyricsum</a></li>
+		<li><a href="https://utopia.fyi/">Utopia - Fluid Responsive Design</a></li>
 	</ul>
 </details>
 
