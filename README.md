@@ -588,6 +588,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://davidwalsh.name/detect-dark-mode-preference-with-javascript">Detect Dark Mode Preference with JavaScript</a></li>
 		<li><a href="https://tympanus.net/codrops/2022/03/04/creating-native-web-components/">Creating Native Web Components with the Minze JavaScript framework</a></li>
 		<li><a href="https://github.com/dwyl/learn-tdd">A brief introduction to Test Driven Development (TDD) in JavaScript</a></li>
+		<li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
 	</ul>
 </details>
 
