@@ -347,6 +347,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://sparkbox.com/foundry/what_is_it_like_to_work_with_sparkbox_onboarding_iterating_offboarding_process">Client Journey: Onboarding, Iterating, and Offboarding</a></li>
 		<li><a href="https://web.dev/interop-2022/">Interop 2022</a></li>
 		<li><a href="https://martinfowler.com/articles/bottlenecks-of-scaleups/">Bottlenecks of Scaleups</a></li>
+		<li><a href="https://css-tricks.com/embrace-the-platform/">Embrace the Platform</a></li>
 	</ul>
 </details>
 
