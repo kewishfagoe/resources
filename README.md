@@ -28,6 +28,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Explanations](#explanations)
   - Algorithms
   - Fundamentals
+  - Java
   - JavaScript Concepts
   
 - [Guides](#guides)
@@ -210,6 +211,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://github.com/vasanthk/how-web-works">How The Web Works</a></li>
 		<li><a href="https://github.com/samdutton/simpl">Simplest possible examples of HTML, CSS and Javascript</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Java</summary>
+	<ul>
+		<li><a href="https://javarevisited.blogspot.com/2022/03/how-autowiring-of-beans-works-in-spring.html">How Autowiring of Beans works in Spring</a></li>
 	</ul>
 </details>
 
