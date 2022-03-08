@@ -70,6 +70,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - HTML & CSS
   - JavaScript
   - Miscellaneous
+  - PHP
 
 
 
@@ -606,5 +607,12 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://github.com/danistefanovic/build-your-own-x">Build your own (insert technology here)</a></li>
 		<li><a href="https://github.com/gothinkster/realworld">Real world example apps</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>PHP</summary>
+	<ul>
+		<li><a href="https://spatie.be/videos/testing-laravel-with-pest/testing-the-homepage">Testing the homepage of a Laravel app using Pest</a></li>
 	</ul>
 </details>
