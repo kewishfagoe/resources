@@ -573,6 +573,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		</li>
 		<li><a href="https://thinkdobecreate.com/articles/css-animating-newly-added-element/">Animating in a newly added element</a></li>
 		<li><a href="https://www.uidesign.tips/ui-tips">UI Tips</a></li>
+		<li><a href="https://github.com/AllThingsSmitty/css-protips">CSS Protips</a></li>
 	</ul>
 </details>
 
