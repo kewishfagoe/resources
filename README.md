@@ -267,6 +267,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/jwasham/coding-interview-university">Coding Interview University</a></li>
 		<li><a href="https://github.com/yangshun/front-end-interview-handbook">Front End Interview Handbook</a></li>
 		<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
+		<li><a href="https://github.com/sindresorhus/awesome">Curated list of IT Topics</a></li>
 	</ul>
 </details>
 
