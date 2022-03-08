@@ -614,5 +614,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>PHP</summary>
 	<ul>
 		<li><a href="https://spatie.be/videos/testing-laravel-with-pest/testing-the-homepage">Testing the homepage of a Laravel app using Pest</a></li>
+		<li><a href="https://rias.be/blog/running-phpunit-tests-in-parallel-using-github-actions">Running PHPUnit tests in parallel using GitHub actions</a></li>
 	</ul>
 </details>
