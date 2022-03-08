@@ -431,6 +431,12 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://utopia.fyi/">Utopia - Fluid Responsive Design</a></li>
 		<li><a href="https://tortoisegit.org/">TortoiseGit - Windows Git Client</a></li>
 		<li><a href="https://kod.so/">kod.so - Beautiful Code Screenshots</a></li>
+		<li>Eleventy + Lit
+			<ul>
+				<li><a href="https://lit.dev/blog/2022-02-07-eleventy/">Announcing a new Lit Labs Eleventy plugin for static rendering of Lit components</a></li>
+				<li><a href="https://github.com/lit/lit/tree/main/packages/labs/eleventy-plugin-lit">GitHub Repo for the plugin</a></li>
+			</ul>
+		</li>
 	</ul>
 </details>
 
