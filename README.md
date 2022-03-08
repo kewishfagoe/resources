@@ -309,6 +309,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://11ty.rocks/">11ty Rocks!</a></li>
 		<li><a href="https://smolcss.dev/">SmolCSS</a></li>
 		<li><a href="https://gridbyexample.com/">Grid by example</a></li>
+		<li><a href="https://codeawesome.io/">Codeawesome</a></li>
 	</ul>
 </details>
 
