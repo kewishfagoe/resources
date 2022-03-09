@@ -11,6 +11,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - PHP
 
 - [Cheatsheets](#cheatsheets)
+  - Git
   - HTML & CSS
   - PHP
 
@@ -94,6 +95,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 
 ## Cheatsheets
+
+<details>
+    <summary>Git</summary>
+	<ul>
+		<li><a href="https://dangitgit.com/en">Dangit, Git!?!</a></li>
+	</ul>
+</details>
 
 <details>
     <summary>HTML & CSS</summary>
