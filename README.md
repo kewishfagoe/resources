@@ -53,6 +53,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Charts
   - CLI
   - Color
+  - CSS Libraries & Frameworks
   - Development Utilities
   - Diagramming
   - Fonts
@@ -419,6 +420,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://huemint.com/">Huemint</a></li>
 		<li><a href="https://www.opensourcecolorsystem.design/">open source color system</a></li>
 		<li><a href="https://hue.tools/">hue.tools</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>CSS Libraries & Frameworks</summary>
+	<ul>
+		<li><a href="https://github.com/xz/new.css">new.css</a></li>
 	</ul>
 </details>
 
