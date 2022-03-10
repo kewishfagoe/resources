@@ -22,6 +22,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Java
   - JavaScript
   - PHP
+  - Rust
   - TypeScript
   - Web Animation
   - Web Development
@@ -177,6 +178,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://laracasts.com/series/laravel-8-from-scratch">Laravel 8 From Scratch</a></li>
 		<li><a href="https://codecourse.com/courses/laravel-basics">Laravel Basics by Codecourse</a></li>
 		<li><a href="https://laracasts.com/series/build-modern-laravel-apps-using-inertia-js">Build Modern Laravel Apps Using Inertia.js</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Rust</summary>
+	<ul>
+		<li><a href="https://github.com/rust-lang/rust-by-example">Rust by Example</a></li>
 	</ul>
 </details>
 
