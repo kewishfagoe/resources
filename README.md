@@ -359,6 +359,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://martinfowler.com/articles/bottlenecks-of-scaleups/">Bottlenecks of Scaleups</a></li>
 		<li><a href="https://css-tricks.com/embrace-the-platform/">Embrace the Platform</a></li>
 		<li><a href="https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/">Building Web Layouts For Dual-Screen And Foldable Devices</a></li>
+		<li><a href="https://www.swyx.io/css-100-bytes">100 Bytes of CSS to look great everywhere</a></li>
 	</ul>
 </details>
 
