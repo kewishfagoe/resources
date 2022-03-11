@@ -470,6 +470,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 			</ul>
 		</li>
 		<li><a href="https://desktop.github.com/">GitHub Desktop Client</a></li>
+		<li><a href="https://www.debugbear.com/resource-hint-validator">Resource Hint Validator</a></li>
 	</ul>
 </details>
 
