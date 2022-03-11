@@ -310,6 +310,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Marketing</summary>
 	<ul>
 		<li><a href="https://priceonomics.com/the-content-marketing-handbook/">The Content Marketing Handbook</a></li>
+		<li><a href="https://www.smashingmagazine.com/2022/03/guide-mobile-app-marketing/">A Complete Guide To Mobile App Marketing</a></li>
 	</ul>
 </details>
 
