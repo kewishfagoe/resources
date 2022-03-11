@@ -371,6 +371,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.smashingmagazine.com/2022/03/building-web-layouts-dual-screen-foldable-devices/">Building Web Layouts For Dual-Screen And Foldable Devices</a></li>
 		<li><a href="https://www.swyx.io/css-100-bytes">100 Bytes of CSS to look great everywhere</a></li>
 		<li><a href="https://www.abeautifulsite.net/posts/css-parts-inspired-by-bem/">CSS Parts Inspired by BEM</a></li>
+		<li><a href="https://jvns.ca/blog/2022/03/10/how-to-use-undocumented-web-apis/">How to use undocumented web APIs</a></li>
 	</ul>
 </details>
 
