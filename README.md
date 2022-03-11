@@ -435,6 +435,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/tldr-pages/tldr">tldr-pages</a></li>
 		<li><a href="https://jless.io/">JLess</a></li>
 		<li><a href="https://www.shell.how/">shell.how</a></li>
+		<li><a href="https://github.com/yashsinghcodes/wik">WIK</a></li>
 	</ul>
 </details>
 
