@@ -487,6 +487,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a></li>
 		<li><a href="https://privacybadger.org/">Privacy Badger</a></li>
 		<li><a href="https://github.com/mozilla/contain-facebook">Facebook Container</a></li>
+		<li><a href="https://archive.ph/">archive.ph</a></li>
 	</ul>
 </details>
 
