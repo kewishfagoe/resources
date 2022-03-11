@@ -42,6 +42,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - JavaScript
   - Marketing
   - PHP
+  - UX
 
 - [Helpful Websites](#helpful-websites)
 
@@ -316,6 +317,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>PHP</summary>
 	<ul>
 		<li><a href="https://flatlogic.com/blog/laravel-validation-guide/">Laravel Validation Guide</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>UX</summary>
+	<ul>
+		<li><a href="https://www.uxmatters.com/mt/archives/2022/03/optimizing-a-web-site-for-googles-new-ux-criteria.php">Optimizing a Web Site for Google's New UX Criteria</a></li>
 	</ul>
 </details>
 
