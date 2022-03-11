@@ -57,6 +57,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - CSS Libraries & Frameworks
   - Development Utilities
   - Diagramming
+  - Extensions
   - Fonts
   - HTML & CSS
   - Icons
@@ -455,7 +456,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/public-apis/public-apis">A collective list of free APIs</a></li>
 		<li><a href="https://github.com/microsoft/PowerToys/">Microsoft PowerToys</a></li>
 		<li><a href="https://github.com/veler/DevToys">DevToys</a></li>
-		<li><a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a></li>
 		<li><a href="https://api-diff.io/">API Diff</a></li>
 		<li><a href="https://lyricsum.com/">Lyricsum</a></li>
 		<li><a href="https://utopia.fyi/">Utopia - Fluid Responsive Design</a></li>
@@ -478,6 +478,15 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://mermaid-js.github.io/mermaid/#/">Mermaid</a></li>
 		<li><a href="https://monodraw.helftone.com/">Monodraw</a></li>
 		<li><a href="https://www.tldraw.com/">tldraw</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Extensions</summary>
+	<ul>
+		<li><a href="https://github.com/gildas-lormeau/SingleFile">SingleFile</a></li>
+		<li><a href="https://privacybadger.org/">Privacy Badger</a></li>
+		<li><a href="https://github.com/mozilla/contain-facebook">Facebook Container</a></li>
 	</ul>
 </details>
 
