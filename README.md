@@ -466,6 +466,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 				<li><a href="https://github.com/lit/lit/tree/main/packages/labs/eleventy-plugin-lit">GitHub Repo for the plugin</a></li>
 			</ul>
 		</li>
+		<li><a href="https://desktop.github.com/">GitHub Desktop Client</a></li>
 	</ul>
 </details>
 
