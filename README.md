@@ -514,6 +514,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.jetbrains.com/lp/mono/">JetBrains Mono</a></li>
 		<li><a href="https://manropefont.com/">Manrope</a></li>
 		<li><a href="https://material.io/blog/roboto-serif">Roboto Serif</a></li>
+		<li><a href="https://www.fontsquirrel.com/tools/webfont-generator">Webfont Generator</a></li>
+		<li><a href="https://www.fontfacer.io/">Fontfacer.io</a></li>
 	</ul>
 </details>
 
