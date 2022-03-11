@@ -397,6 +397,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://jesse-zhou.com/">Jesse's Ramen</a></li>
 		<li><a href="https://microwaver59.com/">microwaver59</a></li>
 		<li><a href="https://personalsit.es/">personalsit.es</a></li>
+		<li><a href="https://umamiland.withgoogle.com/en">Umami Land</a></li>
 	</ul>
 </details>
 
