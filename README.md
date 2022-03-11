@@ -401,6 +401,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://personalsit.es/">personalsit.es</a></li>
 		<li><a href="https://umamiland.withgoogle.com/en">Umami Land</a></li>
 		<li><a href="https://jant.fr/">Jantana Hennard</a></li>
+		<li><a href="https://patrickheng.com/">Patrick Heng</a></li>
 	</ul>
 </details>
 
