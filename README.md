@@ -384,6 +384,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.nngroup.com/articles/alternatives-pagination-listing-pages/">Alternatives to Pagination on Product-Listing Pages</a></li>
 		<li><a href="https://open-web-advocacy.org/">Open Web Advocacy</a></li>
 		<li><a href="https://webkit.org/blog/12303/css-variables-web-inspector/">Taming CSS Variables with Web Inspector</a></li>
+		<li><a href="https://r.bluethl.net/how-to-design-better-apis">How to design better APIs</a></li>
 	</ul>
 </details>
 
