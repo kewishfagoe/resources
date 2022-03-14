@@ -491,6 +491,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://desktop.github.com/">GitHub Desktop Client</a></li>
 		<li><a href="https://www.debugbear.com/resource-hint-validator">Resource Hint Validator</a></li>
 		<li><a href="https://bmsvieira.github.io/lwder.js/demo/index.html">lwder.js</a></li>
+		<li><a href="https://stylojs.com/">Stylo</a></li>
 	</ul>
 </details>
 
