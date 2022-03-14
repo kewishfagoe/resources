@@ -652,6 +652,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.uidesign.tips/ui-tips">UI Tips</a></li>
 		<li><a href="https://github.com/AllThingsSmitty/css-protips">CSS Protips</a></li>
 		<li><a href="https://stackdiary.com/useful-css-tricks/">10 Useful CSS Tricks for Front-end Developers</a></li>
+		<li><a href="https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs">How to Favicon</a></li>
 	</ul>
 </details>
 
