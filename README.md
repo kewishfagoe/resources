@@ -632,6 +632,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Database</summary>
 	<ul>
 		<li><a href="https://sive.rs/clean1">Database triggers to clean text inputs</a></li>
+		<li><a href="https://sive.rs/api01">Database functions to wrap logic and SQL queries</a></li>
 	</ul>
 </details>
 
