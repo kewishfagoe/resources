@@ -389,6 +389,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.smashingmagazine.com/2022/03/improving-ci-cd-flow-application/">Improving The CI/CD Flow For Your Application</a></li>
 		<li><a href="https://critter.blog/2022/03/11/whats-in-your-zone-of-genius/">What's in your zone of genius?</a></li>
 		<li><a href="https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/">Things the CSS Spec Folks Got Right</a></li>
+		<li><a href="https://iamschulz.com/basic-components-how-to-framework-your-site/">How to framework your site</a></li>
 	</ul>
 </details>
 
