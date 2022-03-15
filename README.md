@@ -669,6 +669,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/AllThingsSmitty/css-protips">CSS Protips</a></li>
 		<li><a href="https://stackdiary.com/useful-css-tricks/">10 Useful CSS Tricks for Front-end Developers</a></li>
 		<li><a href="https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs">How to Favicon</a></li>
+		<li><a href="https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/">A look at the dialog element's super powers</a></li>
 	</ul>
 </details>
 
