@@ -391,6 +391,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://blog.jim-nielsen.com/2022/things-the-css-spec-folks-got-right/">Things the CSS Spec Folks Got Right</a></li>
 		<li><a href="https://iamschulz.com/basic-components-how-to-framework-your-site/">How to framework your site</a></li>
 		<li><a href="https://daverupert.com/2022/03/15-minute-fix-vs-30-day-fix/">The 15 minute fix vs the 30 day fix</a></li>
+		<li><a href="https://blog.jim-nielsen.com/2022/inline-all-the-things/">Inline All The Things</a></li>
 	</ul>
 </details>
 
