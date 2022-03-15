@@ -452,6 +452,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://jless.io/">JLess</a></li>
 		<li><a href="https://www.shell.how/">shell.how</a></li>
 		<li><a href="https://github.com/yashsinghcodes/wik">WIK</a></li>
+		<li><a href="https://github.com/franciscop/legally">legally</a></li>
 	</ul>
 </details>
 
