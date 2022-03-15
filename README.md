@@ -675,6 +675,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.stefanjudis.com/blog/a-look-at-the-dialog-elements-super-powers/">A look at the dialog element's super powers</a></li>
 		<li><a href="https://www.stefanjudis.com/today-i-learned/how-to-preload-responsive-images-with-imagesizes-and-imagesrcset/">How to preload responsive images with imagesizes and imagesrcset</a></li>
 		<li><a href="https://www.scottohara.me//blog/2022/02/19/custom-clear-buttons.html">Making a custom clear text field button</a></li>
+		<li><a href="https://www.stefanjudis.com/snippets/how-to-style-and-define-the-color-of-radio-and-checkbox-inputs/">How to style radio and checkbox inputs with accent-color</a></li>
 	</ul>
 </details>
 
