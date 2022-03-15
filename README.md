@@ -393,6 +393,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://daverupert.com/2022/03/15-minute-fix-vs-30-day-fix/">The 15 minute fix vs the 30 day fix</a></li>
 		<li><a href="https://blog.jim-nielsen.com/2022/inline-all-the-things/">Inline All The Things</a></li>
 		<li><a href="https://gomakethings.com/how-to-make-mpas-that-are-as-fast-as-spas/">How to make MPAs that are as fast as SPAs</a></li>
+		<li><a href="https://alexsexton.com/blog/2014/11/the-monty-hall-rewrite/">The Monty Hall Rewrite</a></li>
 	</ul>
 </details>
 
