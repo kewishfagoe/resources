@@ -71,6 +71,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - UX
 
 - [Tutorials](#tutorials)
+  - Database
   - Eleventy
   - HTML & CSS
   - JavaScript
@@ -626,6 +627,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 
 ## Tutorials
+
+<details>
+    <summary>Database</summary>
+	<ul>
+		<li><a href="https://sive.rs/clean1">Database triggers to clean text inputs</a></li>
+	</ul>
+</details>
 
 <details>
     <summary>Eleventy</summary>
