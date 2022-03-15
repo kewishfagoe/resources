@@ -694,6 +694,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/danistefanovic/build-your-own-x">Build your own (insert technology here)</a></li>
 		<li><a href="https://github.com/gothinkster/realworld">Real world example apps</a></li>
 		<li><a href="https://www.youtube.com/watch?v=soGRyl9ztjI">What is JWT authorization really about</a></li>
+		<li><a href="https://www.youtube.com/watch?v=ggSyF1SVFr4">Vim Basics in 8 Minutes</a></li>
 	</ul>
 </details>
 
