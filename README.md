@@ -400,6 +400,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/">Webmentions: Enabling Better Communication on the Internet</a></li>
 		<li><a href="https://alistapart.com/article/dao/">A Dao of Web Design</a></li>
 		<li><a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html">Why software projects take longer than you think: a statistical model</a></li>
+		<li><a href="https://socket.dev/blog/inside-node-modules">What's Really Going On Inside Your node_modules Folder?</a></li>
 	</ul>
 </details>
 
