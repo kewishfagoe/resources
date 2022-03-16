@@ -352,6 +352,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://stackshare.io/stacks">Stackshare</a></li>
 		<li><a href="https://www.toools.design/">toools.design</a></li>
 		<li><a href="https://a11ysupport.io/">a11ysupport.io</a></li>
+		<li><a href="https://devtoolstips.org/">Devtool Tips</a></li>
 	</ul>
 </details>
 
