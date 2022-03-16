@@ -715,6 +715,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.youtube.com/watch?v=ggSyF1SVFr4">Vim Basics in 8 Minutes</a></li>
 		<li><a href="https://tetralogical.com/blog/2021/12/24/browsing-with-assistive-technology-videos/">Browsing with assistive technology videos</a></li>
 		<li><a href="https://aaronparecki.com/2018/06/30/11/your-first-webmention">Sending your First Webmention from Scratch</a></li>
+		<li><a href="https://www.stefanjudis.com/today-i-learned/package-json-values-are-accessible-in-npm-yarn-scripts/">Package.json values are accessible in npm/yarn scripts</a></li>
 	</ul>
 </details>
 
