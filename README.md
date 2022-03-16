@@ -398,6 +398,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://alexsexton.com/blog/2014/11/the-monty-hall-rewrite/">The Monty Hall Rewrite</a></li>
 		<li><a href="https://alistapart.com/article/webmentions-enabling-better-communication-on-the-internet/">Webmentions: Enabling Better Communication on the Internet</a></li>
 		<li><a href="https://alistapart.com/article/dao/">A Dao of Web Design</a></li>
+		<li><a href="https://erikbern.com/2019/04/15/why-software-projects-take-longer-than-you-think-a-statistical-model.html">Why software projects take longer than you think: a statistical model</a></li>
 	</ul>
 </details>
 
