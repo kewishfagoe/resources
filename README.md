@@ -634,6 +634,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://open-ui.org/">Open UI</a></li>
 		<li><a href="https://www.uidesign.tips/ux-tips">UX Tips</a></li>
 		<li><a href="https://twitter.com/i/events/994601867987619840">Refactoring UI Design Tips</a></li>
+		<li><a href="https://devtoolstips.org/tips/en/track-focused-element/">Detect the element with focus at any time</a></li>
 	</ul>
 </details>
 
