@@ -511,6 +511,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://bmsvieira.github.io/lwder.js/demo/index.html">lwder.js</a></li>
 		<li><a href="https://stylojs.com/">Stylo</a></li>
 		<li><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a></li>
+		<li><a href="https://github.com/mjmlio/mjml">mjml.io</a></li>
 	</ul>
 </details>
 
