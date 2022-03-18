@@ -233,6 +233,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/vasanthk/how-web-works">How The Web Works</a></li>
 		<li><a href="https://github.com/samdutton/simpl">Simplest possible examples of HTML, CSS and Javascript</a></li>
 		<li><a href="https://github.com/jlevy/the-art-of-command-line">The Art of Command Line</a></li>
+		<li><a href="https://www.youtube.com/watch?v=-Wi-Fip_il4">What Is ARIA Even For?</a></li>
 	</ul>
 </details>
 
