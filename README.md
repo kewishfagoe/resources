@@ -259,6 +259,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://www.accessibility-developer-guide.com/">Accessibility Developer Guide</a></li>
 		<li><a href="https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/">A Complete Guide To HTML Email</a></li>
+		<li><a href="https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/">A Designer's Guide to Documenting Accessibility & User Interactions</a></li>
 	</ul>
 </details>
 
