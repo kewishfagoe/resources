@@ -405,6 +405,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://socket.dev/blog/inside-node-modules">What's Really Going On Inside Your node_modules Folder?</a></li>
 		<li><a href="https://almanac.io/docs/ceo-user-guide-qgrX6JybtClEKUEGt96x5sMlzQLmRwPL">A user guide to working with the Almanac CEO</a></li>
 		<li><a href="https://whistlr.info/2021/in-defence-of-dialog/">In Defence Of Dialog</a></li>
+		<li><a href="https://markdotto.com/2022/03/16/dialog-element/">Fun with the dialog element</a></li>
 	</ul>
 </details>
 
