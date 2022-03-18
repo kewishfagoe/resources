@@ -696,6 +696,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.scottohara.me//blog/2022/02/19/custom-clear-buttons.html">Making a custom clear text field button</a></li>
 		<li><a href="https://www.stefanjudis.com/snippets/how-to-style-and-define-the-color-of-radio-and-checkbox-inputs/">How to style radio and checkbox inputs with accent-color</a></li>
 		<li><a href="https://www.youtube.com/watch?v=TAB_v6yBXIE">Create a popup modal the SUPER EASY way</a></li>
+		<li><a href="https://web.dev/building-a-loading-bar-component/">Building a loading bar component</a></li>
 	</ul>
 </details>
 
