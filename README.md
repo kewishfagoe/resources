@@ -706,6 +706,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/dwyl/learn-tdd">A brief introduction to Test Driven Development (TDD) in JavaScript</a></li>
 		<li><a href="https://github.com/30-seconds/30-seconds-of-code">30 seconds of code</a></li>
 		<li><a href="https://gomakethings.com/how-to-create-a-search-page-for-a-static-website-with-vanilla-js/">How to create a search page for a static website with vanilla JS</a></li>
+		<li><a href="https://www.smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/">How To Make A Drag-and-Drop File Uploader With Vue.js 3</a></li>
 	</ul>
 </details>
 
