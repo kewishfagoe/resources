@@ -424,6 +424,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://patrickheng.com/">Patrick Heng</a></li>
 		<li><a href="https://therace.montblanclegend.com/">The Race</a></li>
 		<li><a href="https://goodthings.melanie-richards.com/">Good Things</a></li>
+		<li><a href="https://tympanus.net/codrops/2022/03/15/expanding-rounded-menu-animation/">Expanding Rounded Menu Animation</a></li>
 	</ul>
 </details>
 
