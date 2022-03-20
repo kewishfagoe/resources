@@ -64,6 +64,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Icons
   - Image Optimization
   - Images
+  - JavaScript Libraries & Frameworks
   - Layout
   - Performance
   - Responsive Design
@@ -499,8 +500,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/saisandeepvaddi/ten-hands">Ten Hands</a></li>
 		<li><a href="https://www.codepng.app/">codepng</a></li>
 		<li><a href="https://lipsum.com/">lipsum</a></li>
-		<li><a href="https://github.com/ssleptsov/ninja-keys">Ninja Keys</a></li>
-		<li><a href="https://www.lightgalleryjs.com/">lightGallery</a></li>
 		<li><a href="https://github.com/louislam/uptime-kuma">Uptime Kuma</a></li>
 		<li><a href="https://github.com/terser/terser">terser</a></li>
 		<li><a href="https://github.com/public-apis/public-apis">A collective list of free APIs</a></li>
@@ -519,8 +518,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		</li>
 		<li><a href="https://desktop.github.com/">GitHub Desktop Client</a></li>
 		<li><a href="https://www.debugbear.com/resource-hint-validator">Resource Hint Validator</a></li>
-		<li><a href="https://bmsvieira.github.io/lwder.js/demo/index.html">lwder.js</a></li>
-		<li><a href="https://stylojs.com/">Stylo</a></li>
 		<li><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a></li>
 		<li><a href="https://github.com/mjmlio/mjml">mjml.io</a></li>
 	</ul>
@@ -603,6 +600,16 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://pixabay.com/">Pixabay</a></li>
 		<li><a href="https://doodleipsum.com/">Doodle Ipsum</a></li>
 		<li><a href="https://logoipsum.com/">Logo Ipsum</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>JavaScript Libraries & Frameworks</summary>
+	<ul>
+		<li><a href="https://www.lightgalleryjs.com/">lightGallery</a></li>
+		<li><a href="https://github.com/ssleptsov/ninja-keys">Ninja Keys</a></li>
+		<li><a href="https://bmsvieira.github.io/lwder.js/demo/index.html">lwder.js</a></li>
+		<li><a href="https://github.com/papyrs/stylo">Stylo</a></li>
 	</ul>
 </details>
 
