@@ -612,6 +612,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/papyrs/stylo">Stylo</a></li>
 		<li><a href="https://github.com/GalleriaJS/galleria">GalleriaJS</a></li>
 		<li><a href="https://github.com/dimsemenov/PhotoSwipe">PhotoSwipe</a></li>
+		<li><a href="https://github.com/nolimits4web/swiper">Swiper</a></li>
 	</ul>
 </details>
 
