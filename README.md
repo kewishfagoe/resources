@@ -610,6 +610,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/ssleptsov/ninja-keys">Ninja Keys</a></li>
 		<li><a href="https://bmsvieira.github.io/lwder.js/demo/index.html">lwder.js</a></li>
 		<li><a href="https://github.com/papyrs/stylo">Stylo</a></li>
+		<li><a href="https://github.com/GalleriaJS/galleria">GalleriaJS</a></li>
 	</ul>
 </details>
 
