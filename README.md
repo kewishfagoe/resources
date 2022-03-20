@@ -486,6 +486,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>CSS Libraries & Frameworks</summary>
 	<ul>
 		<li><a href="https://github.com/xz/new.css">new.css</a></li>
+		<li><a href="https://watercss.kognise.dev/">Water.css</a></li>
 	</ul>
 </details>
 
