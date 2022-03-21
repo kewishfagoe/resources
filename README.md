@@ -520,6 +520,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.debugbear.com/resource-hint-validator">Resource Hint Validator</a></li>
 		<li><a href="https://github.com/Eloston/ungoogled-chromium">ungoogled-chromium</a></li>
 		<li><a href="https://github.com/mjmlio/mjml">mjml.io</a></li>
+		<li><a href="https://herotofu.com/solutions/forms-library">HTML Forms Library</a></li>
 	</ul>
 </details>
 
