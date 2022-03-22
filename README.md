@@ -626,6 +626,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/dimsemenov/PhotoSwipe">PhotoSwipe</a></li>
 		<li><a href="https://github.com/nolimits4web/swiper">Swiper</a></li>
 		<li><a href="https://github.com/Pikaday/Pikaday">Pikaday, A refreshing JavaScript Datepicker</a></li>
+		<li><a href="https://github.com/matthewp/corset">Corset - bind JavaScript to HTML</a></li>
 	</ul>
 </details>
 
