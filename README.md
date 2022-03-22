@@ -32,6 +32,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Fundamentals
   - Java
   - JavaScript Concepts
+  - PHP
   
 - [Guides](#guides)
   - Accessibility
@@ -249,6 +250,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>JavaScript Concepts</summary>
 	<ul>
 		<li><a href="https://github.com/leonardomso/33-js-concepts">33 js concepts</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>PHP</summary>
+	<ul>
+		<li><a href="https://torquemag.io/2022/03/wordpress-loop-explained/">The WordPress Loop Explained</a></li>
 	</ul>
 </details>
 
