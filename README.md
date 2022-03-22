@@ -498,6 +498,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://watercss.kognise.dev/">Water.css</a></li>
 		<li><a href="https://github.com/andybrewer/mvp/">MVP.css</a></li>
 		<li><a href="https://github.com/picocss/pico">Pico.css</a></li>
+		<li><a href="https://github.com/uimini/uimini">Uimini</a></li>
 	</ul>
 </details>
 
