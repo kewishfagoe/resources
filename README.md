@@ -417,6 +417,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://whistlr.info/2021/in-defence-of-dialog/">In Defence Of Dialog</a></li>
 		<li><a href="https://markdotto.com/2022/03/16/dialog-element/">Fun with the dialog element</a></li>
 		<li><a href="https://2ality.com/2022/03/type-annotations-first-look.html">First look: adding type annotations to JavaScript</a></li>
+		<li><a href="https://patchstack.com/whitepaper/the-state-of-wordpress-security-in-2021/">State Of WordPress Security In 2021</a></li>
 	</ul>
 </details>
 
