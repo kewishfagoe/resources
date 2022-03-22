@@ -610,6 +610,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://pixabay.com/">Pixabay</a></li>
 		<li><a href="https://doodleipsum.com/">Doodle Ipsum</a></li>
 		<li><a href="https://logoipsum.com/">Logo Ipsum</a></li>
+		<li><a href="https://www.magiceraser.io/">Magic Eraser</a></li>
 	</ul>
 </details>
 
