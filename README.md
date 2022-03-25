@@ -478,6 +478,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/yashsinghcodes/wik">WIK</a></li>
 		<li><a href="https://github.com/franciscop/legally">legally</a></li>
 		<li><a href="https://github.com/ruilisi/css-checker">CSS Checker</a></li>
+		<li><a href="https://github.com/spatie/visit">Visit</a></li>
 	</ul>
 </details>
 
