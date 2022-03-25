@@ -542,6 +542,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/AykutSarac/jsonvisio.com">JSON Visio</a></li>
 		<li><a href="https://github.com/hoppscotch/hoppscotch">Hoppscotch</a></li>
 		<li><a href="https://github.com/lapce/lapce">Lapse Code Editor</a></li>
+		<li><a href="https://tweetlet.net/">Tweetlet</a></li>
 	</ul>
 </details>
 
