@@ -692,6 +692,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://sive.rs/clean1">Database triggers to clean text inputs</a></li>
 		<li><a href="https://sive.rs/api01">Database functions to wrap logic and SQL queries</a></li>
 		<li><a href="https://www.digitalocean.com/community/tutorials/how-to-work-with-dates-and-times-in-sql">How To Work with Dates and Times in SQL</a></li>
+		<li><a href="https://tray2.se/posts/database-design">The value of a good database model</a></li>
 	</ul>
 </details>
 
