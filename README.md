@@ -368,6 +368,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://a11ysupport.io/">a11ysupport.io</a></li>
 		<li><a href="https://devtoolstips.org/">Devtool Tips</a></li>
 		<li><a href="https://developer.mozilla.org/en-US/docs/Learn">MDN Learning Area</a></li>
+		<li><a href="https://letsbuildui.dev/">letsbuildui.dev</a></li>
 	</ul>
 </details>
 
@@ -585,6 +586,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://ui-snippets.dev/">UI Snippets</a></li>
 		<li><a href="https://www.cssui.dev/">CSSUI</a></li>
 		<li><a href="https://github.com/alvaromontoro/almond.css">almond.css</a></li>
+		<li><a href="https://github.com/ruilisi/css-checker">css-checker</a></li>
 		<li><a href="https://github.com/ruilisi/css-checker">css-checker</a></li>
 	</ul>
 </details>
