@@ -538,6 +538,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://herotofu.com/solutions/forms-library">HTML Forms Library</a></li>
 		<li><a href="https://github.com/AykutSarac/jsonvisio.com">JSON Visio</a></li>
 		<li><a href="https://github.com/hoppscotch/hoppscotch">Hoppscotch</a></li>
+		<li><a href="https://lapce.dev/">Lapse Code Editor</a></li>
 	</ul>
 </details>
 
