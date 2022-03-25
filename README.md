@@ -545,6 +545,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://mermaid-js.github.io/mermaid/#/">Mermaid</a></li>
 		<li><a href="https://monodraw.helftone.com/">Monodraw</a></li>
 		<li><a href="https://www.tldraw.com/">tldraw</a></li>
+		<li><a href="https://github.com/rough-stuff/rough">Rough.js</a></li>
 	</ul>
 </details>
 
