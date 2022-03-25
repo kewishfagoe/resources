@@ -759,6 +759,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://gomakethings.com/how-to-create-a-search-page-for-a-static-website-with-vanilla-js/">How to create a search page for a static website with vanilla JS</a></li>
 		<li><a href="https://www.smashingmagazine.com/2022/03/drag-drop-file-uploader-vuejs-3/">How To Make A Drag-and-Drop File Uploader With Vue.js 3</a></li>
 		<li><a href="https://www.raymondcamden.com/2022/03/14/building-table-sorting-and-pagination-in-javascript">Building Table Sorting and Pagination in JavaScript</a></li>
+		<li><a href="https://webinuse.com/detect-when-a-user-leaves-the-page-using-javascript/">Detect when a user leaves a page using JavaScript</a></li>
 	</ul>
 </details>
 
