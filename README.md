@@ -257,6 +257,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>PHP</summary>
 	<ul>
 		<li><a href="https://torquemag.io/2022/03/wordpress-loop-explained/">The WordPress Loop Explained</a></li>
+		<li><a href="https://tray2.se/posts/sqlerrm">Common SQL errors for Laravel Developers</a></li>
 	</ul>
 </details>
 
