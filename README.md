@@ -749,6 +749,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://web.dev/building-a-loading-bar-component/">Building a loading bar component</a></li>
 		<li><a href="https://ishadeed.com/article/aligning-content-different-wrappers/">Aligning Content In Different Wrappers</a></li>
 		<li><a href="https://letsbuildui.dev/articles/building-a-heatmap-chart-component">Building a Heatmap Chart Component</a></li>
+		<li><a href="https://web.dev/learn/forms/">Learn Forms by web.dev</a></li>
 	</ul>
 </details>
 
