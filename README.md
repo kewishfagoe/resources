@@ -666,6 +666,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://webpagetest.org/">WebPageTest by Catchpoint</a></li>
 		<li><a href="https://perfbuddy.com/">PerfBuddy</a></li>
 		<li><a href="https://bundlephobia.com/">bundlephobia</a></li>
+		<li><a href="https://gtmetrix.com/">GTmetrix</a></li>
+		<li><a href="https://tools.pingdom.com/">Pingdom Website Speed Test</a></li>
 	</ul>
 </details>
 
