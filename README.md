@@ -370,6 +370,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://developer.mozilla.org/en-US/docs/Learn">MDN Learning Area</a></li>
 		<li><a href="https://letsbuildui.dev/">letsbuildui.dev</a></li>
 		<li><a href="https://www.opensourcealternative.to/">opensourcealternative.to</a></li>
+		<li><a href="https://designresources.io/">designresources.io</a></li>
 	</ul>
 </details>
 
