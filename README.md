@@ -675,7 +675,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 <details>
     <summary>PHP</summary>
 	<ul>
-		<li><a href="https://versionpress.com/">VersionPress</a></li>
+		<li><a href="https://richtabor.com/wabi/">Wabi - a WordPress block theme</a></li>
 	</ul>
 </details>
 
