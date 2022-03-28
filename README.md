@@ -68,6 +68,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - JavaScript Libraries & Frameworks
   - Layout
   - Performance
+  - PHP
   - Responsive Design
   - SEO
   - UX
@@ -668,6 +669,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://bundlephobia.com/">bundlephobia</a></li>
 		<li><a href="https://gtmetrix.com/">GTmetrix</a></li>
 		<li><a href="https://tools.pingdom.com/">Pingdom Website Speed Test</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>PHP</summary>
+	<ul>
+		<li><a href="https://versionpress.com/">VersionPress</a></li>
 	</ul>
 </details>
 
