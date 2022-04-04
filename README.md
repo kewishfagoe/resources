@@ -375,6 +375,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://letsbuildui.dev/">letsbuildui.dev</a></li>
 		<li><a href="https://www.opensourcealternative.to/">opensourcealternative.to</a></li>
 		<li><a href="https://designresources.io/">designresources.io</a></li>
+		<li><a href="https://free-for.dev/">free-for.dev</a></li>
+		<li><a href="https://freestuff.dev/">freestuff.dev</a></li>
 	</ul>
 </details>
 
