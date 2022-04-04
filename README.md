@@ -456,6 +456,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://goodthings.melanie-richards.com/">Good Things</a></li>
 		<li><a href="https://tympanus.net/codrops/2022/03/15/expanding-rounded-menu-animation/">Expanding Rounded Menu Animation</a></li>
 		<li><a href="https://bestwebsite.gallery/">bestwebsite.gallery</a></li>
+		<li><a href="https://cssnectar.com/">cssnectar</a></li>
 	</ul>
 </details>
 
