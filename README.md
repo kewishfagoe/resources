@@ -377,6 +377,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://designresources.io/">designresources.io</a></li>
 		<li><a href="https://free-for.dev/">free-for.dev</a></li>
 		<li><a href="https://freestuff.dev/">freestuff.dev</a></li>
+		<li><a href="https://github.com/melanierichards/just-build-websites">Some ideas for websites you can build</a></li>
 	</ul>
 </details>
 
