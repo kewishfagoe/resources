@@ -437,6 +437,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://kentcdodds.com/blog/javascript-to-know-for-react">JavaScript to Know for React</a></li>
 		<li><a href="http://iq0.com/notes/deep.nesting.html">Reading Code From Top to Bottom</a></li>
 		<li><a href="https://maggieappleton.com/reactpotato">Drawing the Invisible: React Explained in Five Visual Metaphors</a></li>
+		<li><a href="https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history">Firefox UI UX history</a></li>
 	</ul>
 </details>
 
