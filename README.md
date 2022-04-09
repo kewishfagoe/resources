@@ -124,6 +124,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>PHP</summary>
 	<ul>
 		<li><a href="https://css-tricks.com/php-date-and-time-recipes/">PHP Date and Time Recipes</a></li>
+		<li><a href="https://dnlytras.com/blog/modern-php/">Modern PHP Features</a></li>
 	</ul>
 </details>
 
