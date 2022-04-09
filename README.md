@@ -533,6 +533,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/picocss/pico">Pico.css</a></li>
 		<li><a href="https://github.com/uimini/uimini">Uimini</a></li>
 		<li><a href="https://www.cirrus-ui.com/">cirrus-ui</a></li>
+		<li><a href="https://github.com/Selekkt/skelet">Skelet.css</a></li>
 	</ul>
 </details>
 
