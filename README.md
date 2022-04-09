@@ -520,6 +520,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.opensourcecolorsystem.design/">open source color system</a></li>
 		<li><a href="https://hue.tools/">hue.tools</a></li>
 		<li><a href="https://fffuel.co/pppalette/">pppalette</a></li>
+		<li><a href="https://www.color-morph.com/">color-morph</a></li>
 	</ul>
 </details>
 
