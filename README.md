@@ -262,6 +262,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://torquemag.io/2022/03/wordpress-loop-explained/">The WordPress Loop Explained</a></li>
 		<li><a href="https://tray2.se/posts/sqlerrm">Common SQL errors for Laravel Developers</a></li>
 		<li><a href="https://fullsiteediting.com/lessons/theme-json-typography-options/">WordPress theme.json typography options</a></li>
+		<li><a href="https://refactoring.guru/design-patterns/php">Design Patterns in PHP</a></li>
 	</ul>
 </details>
 
