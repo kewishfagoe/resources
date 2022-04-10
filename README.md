@@ -441,6 +441,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://maggieappleton.com/reactpotato">Drawing the Invisible: React Explained in Five Visual Metaphors</a></li>
 		<li><a href="https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history">Firefox UI UX history</a></li>
 		<li><a href="https://www.joshwcomeau.com/css/understanding-layout-algorithms/">Understanding Layout Algorithms</a></li>
+		<li><a href="https://ui.dev/async-javascript-from-callbacks-to-promises-to-async-await">Async JavaScript: From Callbacks, to Promises, to Async/Await</a></li>
 	</ul>
 </details>
 
@@ -508,6 +509,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/franciscop/legally">legally</a></li>
 		<li><a href="https://github.com/ruilisi/css-checker">CSS Checker</a></li>
 		<li><a href="https://github.com/spatie/visit">Visit</a></li>
+		<li><a href="https://github.com/egoist/dum">dum</a></li>
 	</ul>
 </details>
 
