@@ -51,6 +51,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Inspiration](#inspiration)
 
+- [Tips And Tricks](#tips-and-tricks)
+
 - [Tools](#tools)
   - Accessibility
   - Charts
@@ -474,6 +476,17 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.siteinspire.com/">siteinspire</a></li>
 		<li><a href="https://melanie-richards.com/">Melanie Richards</a></li>
 		<li><a href="https://robinpayot.com/">Robin Payot</a></li>
+	</ul>
+</details>
+
+
+
+## Tips And Tricks
+
+<details>
+    <summary>Eleventy</summary>
+	<ul>
+		<li><a href="https://danabyerly.com/notes/upgrading-to-eleventy-1-0-0/">Upgrading Eleventy</a></li>
 	</ul>
 </details>
 
