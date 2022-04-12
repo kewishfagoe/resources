@@ -381,6 +381,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://freestuff.dev/">freestuff.dev</a></li>
 		<li><a href="https://github.com/melanierichards/just-build-websites">Some ideas for websites you can build</a></li>
 		<li><a href="https://open-wc.org/">Open Web Components</a></li>
+		<li><a href="https://modern-web.dev/">Modern Web</a></li>
 	</ul>
 </details>
 
