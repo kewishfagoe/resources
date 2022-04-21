@@ -448,6 +448,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/black7375/Firefox-UI-Fix/wiki/%5BArticle%5D-0.-Firefox-UI-UX-history">Firefox UI UX history</a></li>
 		<li><a href="https://www.joshwcomeau.com/css/understanding-layout-algorithms/">Understanding Layout Algorithms</a></li>
 		<li><a href="https://ui.dev/async-javascript-from-callbacks-to-promises-to-async-await">Async JavaScript: From Callbacks, to Promises, to Async/Await</a></li>
+		<li><a href="https://www.builder.io/blog/hydration-is-pure-overhead">Hydration is Pure Overhead</a></li>
 	</ul>
 </details>
 
