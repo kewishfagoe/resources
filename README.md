@@ -327,6 +327,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://github.com/airbnb/javascript">Airbnb JavaScript Style Guide</a></li>
 		<li><a href="https://github.com/ryanmcdermott/clean-code-javascript">Clean Code JavaScript</a></li>
+		<li><a href="https://www.joshwcomeau.com/javascript/terminal-for-js-devs/">The Front-End Developer's Guide to the Terminal</a></li>
 	</ul>
 </details>
 
