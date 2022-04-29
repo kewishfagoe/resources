@@ -600,6 +600,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://validator.w3.org/feed/">W3C Feed Validation Service</a></li>
 		<li><a href="https://www.ladle.dev/">ladle.dev</a></li>
 		<li><a href="https://tooling.one/">tooling.one</a></li>
+		<li><a href="https://www.screely.com/">Screely - Generate Website Mockups</a></li>
 	</ul>
 </details>
 
