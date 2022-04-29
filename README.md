@@ -705,6 +705,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.agnosticui.com/">AgnosticUI</a></li>
 		<li><a href="https://www.vantajs.com/">Vanta.js</a></li>
 		<li><a href="https://rocket.modern-web.dev/">Rocket</a></li>
+		<li><a href="https://adonisjs.com/">AdonisJS - web framework for Node.js</a></li>
 	</ul>
 </details>
 
