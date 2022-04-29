@@ -704,6 +704,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/matthewp/corset">Corset - bind JavaScript to HTML</a></li>
 		<li><a href="https://www.agnosticui.com/">AgnosticUI</a></li>
 		<li><a href="https://www.vantajs.com/">Vanta.js</a></li>
+		<li><a href="https://rocket.modern-web.dev/">Rocket</a></li>
 	</ul>
 </details>
 
