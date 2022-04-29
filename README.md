@@ -386,6 +386,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/melanierichards/just-build-websites">Some ideas for websites you can build</a></li>
 		<li><a href="https://open-wc.org/">Open Web Components</a></li>
 		<li><a href="https://modern-web.dev/">Modern Web</a></li>
+		<li><a href="https://components.ai/">components.ai</a></li>
 	</ul>
 </details>
 
@@ -679,6 +680,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://pixabay.com/">Pixabay</a></li>
 		<li><a href="https://doodleipsum.com/">Doodle Ipsum</a></li>
 		<li><a href="https://logoipsum.com/">Logo Ipsum</a></li>
+		<li><a href="https://www.magiceraser.io/">Magic Eraser</a></li>
 		<li><a href="https://www.magiceraser.io/">Magic Eraser</a></li>
 	</ul>
 </details>
