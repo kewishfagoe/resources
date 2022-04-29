@@ -532,6 +532,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/spatie/visit">Visit</a></li>
 		<li><a href="https://github.com/egoist/dum">dum</a></li>
 		<li><a href="https://www.warp.dev/">Warp - Terminal</a></li>
+		<li><a href="https://sampler.dev/">sampler.dev</a></li>
 	</ul>
 </details>
 
