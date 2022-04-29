@@ -387,6 +387,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://open-wc.org/">Open Web Components</a></li>
 		<li><a href="https://modern-web.dev/">Modern Web</a></li>
 		<li><a href="https://components.ai/">components.ai</a></li>
+		<li><a href="https://www.bedrock-layout.dev/">bedrock-layout.dev</a></li>
 	</ul>
 </details>
 
