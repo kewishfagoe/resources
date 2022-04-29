@@ -598,6 +598,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://modern-web.dev/docs/dev-server/overview/">Web Dev Server</a></li>
 		<li><a href="https://github.com/lando/lando">Lando</a></li>
 		<li><a href="https://validator.w3.org/feed/">W3C Feed Validation Service</a></li>
+		<li><a href="https://www.ladle.dev/">ladle.dev</a></li>
 	</ul>
 </details>
 
