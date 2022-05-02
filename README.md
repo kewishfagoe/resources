@@ -458,6 +458,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.builder.io/blog/hydration-is-pure-overhead">Hydration is Pure Overhead</a></li>
 		<li><a href="https://www.pzuraq.com/blog/four-eras-of-javascript-frameworks">Four Eras of JavaScript Frameworks</a></li>
 		<li><a href="https://stackoverflow.blog/2022/04/11/the-complete-guide-to-protecting-your-apis-with-oauth2/">The complete guide to protecting your APIs with OAuth2 (part 1)</a></li>
+		<li><a href="https://matthiasott.com/notes/css-has-a-parent-selector-now">CSS :has( ) A Parent Selector Now</a></li>
 	</ul>
 </details>
 
