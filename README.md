@@ -257,6 +257,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://github.com/leonardomso/33-js-concepts">33 js concepts</a></li>
 		<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures">JavaScript Closures</a></li>
+		<li><a href="https://jrsinclair.com/articles/2022/javascript-function-composition-whats-the-big-deal/">JavaScript function composition: What's the big deal?</a></li>
 	</ul>
 </details>
 
