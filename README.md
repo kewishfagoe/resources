@@ -833,6 +833,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://gomakethings.com/how-to-break-an-image-out-of-its-parent-container-with-css/">How to break an image out of its parent container with CSS</a></li>
 		<li><a href="https://stackdiary.com/css-math-functions/">How to Use CSS Math Functions</a></li>
 		<li><a href="https://web.dev/building-a-dialog-component/">Building a dialog component</a></li>
+		<li><a href="https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/">Picture perfect images with the modern img element</a></li>
 	</ul>
 </details>
 
