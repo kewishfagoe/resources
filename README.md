@@ -393,6 +393,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://components.ai/">components.ai</a></li>
 		<li><a href="https://www.bedrock-layout.dev/">bedrock-layout.dev</a></li>
 		<li><a href="https://www.joshwcomeau.com/operator-lookup/">Operator Lookup</a></li>
+		<li><a href="https://indieblog.page/">indieblog.page</a></li>
 	</ul>
 </details>
 
