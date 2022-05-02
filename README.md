@@ -485,6 +485,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.siteinspire.com/">siteinspire</a></li>
 		<li><a href="https://melanie-richards.com/">Melanie Richards</a></li>
 		<li><a href="https://robinpayot.com/">Robin Payot</a></li>
+		<li><a href="https://tympanus.net/codrops/2022/04/16/awesome-demos-roundup-20/">Awesome Demos Roundup #20</a></li>
 	</ul>
 </details>
 
