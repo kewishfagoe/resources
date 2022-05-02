@@ -313,6 +313,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a></li>
 		<li><a href="https://github.com/sindresorhus/awesome">Curated list of IT Topics</a></li>
 		<li><a href="https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/">The Ultimate Guide To Push Notifications For Developers</a></li>
+		<li><a href="https://sourabhbajaj.com/mac-setup/">macOS Setup Guide</a></li>
 	</ul>
 </details>
 
