@@ -657,6 +657,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/alvaromontoro/almond.css">almond.css</a></li>
 		<li><a href="https://github.com/ruilisi/css-checker">css-checker</a></li>
 		<li><a href="https://whatthetag.com/#/">What the tag ?!</a></li>
+		<li><a href="https://shapecatcher.com/">shapecatcher</a></li>
 	</ul>
 </details>
 
