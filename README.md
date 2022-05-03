@@ -7,6 +7,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 ## Contents
 
 - [Books](#books)
+  - Design
   - JavaScript
   - PHP
 
@@ -89,6 +90,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 
 ## Books
+
+<details>
+    <summary>Design</summary>
+	<ul>
+		<li><a href="https://resilientwebdesign.com/">Resilient web design</a></li>
+	</ul>
+</details>
 
 <details>
     <summary>JavaScript</summary>
