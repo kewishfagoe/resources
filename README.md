@@ -478,6 +478,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://moderncss.dev/contextual-spacing-for-intrinsic-web-design/">Contextual Spacing For Intrinsic Web Design</a></li>
 		<li><a href="https://css.oddbird.net/toggles/explainer/">CSS Toggles Explainer & Proposal</a></li>
 		<li><a href="https://www.bram.us/2022/04/22/progressive-enhancement-and-html-forms-use-formdata/">Progressive Enhancement and HTML Forms</a></li>
+		<li><a href="https://blog.jim-nielsen.com/2022/progressively-enhanced-builds/">Progressively Enhanced Builds</a></li>
 	</ul>
 </details>
 
