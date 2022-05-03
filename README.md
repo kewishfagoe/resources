@@ -303,6 +303,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://learncssgrid.com/">Learn CSS Grid</a></li>
 		<li><a href="https://codeguide.co/">Standards for developing consistent, flexible, and sustainable HTML and CSS</a></li>
 		<li><a href="https://cube.fyi/">CUBE CSS is a CSS methodology that's orientated towards simplicity, pragmatism and consistency</a></li>
+		<li><a href="https://stackdiary.com/centering-in-css/">A Practical Guide to Centering in CSS</a></li>
 	</ul>
 </details>
 
