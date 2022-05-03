@@ -600,6 +600,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.cirrus-ui.com/">cirrus-ui</a></li>
 		<li><a href="https://github.com/Selekkt/skelet">Skelet.css</a></li>
 		<li><a href="https://tailblocks.cc/">tailblocks.cc</a></li>
+		<li><a href="https://github.com/markmead/hyperui">HyperUI</a></li>
 	</ul>
 </details>
 
