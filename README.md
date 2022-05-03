@@ -586,6 +586,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://cssgradient.io/">cssgradient.io</a></li>
 		<li><a href="https://brandcolors.net/">brandcolors.net</a></li>
 		<li><a href="https://reasonable.work/colors/">Reasonable Colors</a></li>
+		<li><a href="https://hypercolor.dev/">Hypercolor</a></li>
 	</ul>
 </details>
 
