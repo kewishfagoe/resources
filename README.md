@@ -406,6 +406,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.joshwcomeau.com/operator-lookup/">Operator Lookup</a></li>
 		<li><a href="https://indieblog.page/">indieblog.page</a></li>
 		<li><a href="https://gridless.design/">gridless.design</a></li>
+		<li><a href="https://www.insanelyusefulwebsites.com/">Insanely Useful Websites</a></li>
 	</ul>
 </details>
 
