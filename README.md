@@ -752,6 +752,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://adonisjs.com/">AdonisJS - web framework for Node.js</a></li>
 		<li><a href="https://highlightjs.org/">highlight.js</a></li>
 		<li><a href="https://github.com/LuanRT/YouTube.js">YouTube.js</a></li>
+		<li><a href="https://www.hyperjs.dev/">HyperJS</a></li>
 	</ul>
 </details>
 
