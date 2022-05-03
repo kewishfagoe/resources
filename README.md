@@ -464,6 +464,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://matthiasott.com/notes/css-has-a-parent-selector-now">CSS :has( ) A Parent Selector Now</a></li>
 		<li><a href="https://daverupert.com/2022/04/7-web-component-tricks/">7 Web Component Tricks</a></li>
 		<li><a href="https://www.bram.us/2022/04/20/the-future-of-css-css-toggles/">The Future of CSS: CSS Toggles</a></li>
+		<li><a href="https://moderncss.dev/contextual-spacing-for-intrinsic-web-design/">Contextual Spacing For Intrinsic Web Design</a></li>
 	</ul>
 </details>
 
