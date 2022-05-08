@@ -410,6 +410,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://indieblog.page/">indieblog.page</a></li>
 		<li><a href="https://gridless.design/">gridless.design</a></li>
 		<li><a href="https://www.insanelyusefulwebsites.com/">Insanely Useful Websites</a></li>
+		<li><a href="https://justgoodthemes.com/">Just Good Themes</a></li>
+		<li><a href="https://jamstackthemes.dev/">Jamstack Themes</a></li>
 	</ul>
 </details>
 
