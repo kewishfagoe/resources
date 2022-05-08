@@ -899,6 +899,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://stackdiary.com/css-math-functions/">How to Use CSS Math Functions</a></li>
 		<li><a href="https://web.dev/building-a-dialog-component/">Building a dialog component</a></li>
 		<li><a href="https://stackoverflow.blog/2022/03/28/picture-perfect-images-with-the-modern-element/">Picture perfect images with the modern img element</a></li>
+		<li><a href="https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking/">Deep Dive into Text Wrapping and Word Breaking</a></li>
 	</ul>
 </details>
 
