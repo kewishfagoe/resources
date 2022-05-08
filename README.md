@@ -484,6 +484,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://blog.jim-nielsen.com/2022/progressively-enhanced-builds/">Progressively Enhanced Builds</a></li>
 		<li><a href="https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/">How to Find Great Developers By Having Them Read Code</a></li>
 		<li><a href="https://ciechanow.ski/mechanical-watch/">Mechanical Watch</a></li>
+		<li><a href="https://cpojer.net/posts/building-a-javascript-bundler">Building a JavaScript Bundler</a></li>
 	</ul>
 </details>
 
