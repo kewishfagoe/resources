@@ -55,6 +55,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 - [Talks](#talks)
 
 - [Tips And Tricks](#tips-and-tricks)
+  - Development
+  - Eleventy
 
 - [Tools](#tools)
   - Accessibility
@@ -531,6 +533,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 
 ## Tips And Tricks
+
+<details>
+    <summary>Development</summary>
+	<ul>
+		<li><a href="https://kevincox.ca/2022/05/06/rss-feed-best-practices/">RSS Feed Best Practices</a></li>
+	</ul>
+</details>
 
 <details>
     <summary>Eleventy</summary>
