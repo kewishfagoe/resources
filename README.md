@@ -487,6 +487,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://freakingrectangle.com/2022/04/15/how-to-freaking-hire-great-developers/">How to Find Great Developers By Having Them Read Code</a></li>
 		<li><a href="https://ciechanow.ski/mechanical-watch/">Mechanical Watch</a></li>
 		<li><a href="https://cpojer.net/posts/building-a-javascript-bundler">Building a JavaScript Bundler</a></li>
+		<li><a href="https://infrequently.org/2022/05/performance-management-maturity/">A Management Maturity Model for Performance</a></li>
 	</ul>
 </details>
 
