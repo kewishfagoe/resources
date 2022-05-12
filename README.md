@@ -853,6 +853,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://benmyers.dev/blog/fix-low-contrast-text/">How to Fix Your Low-Contrast Text</a></li>
 		<li><a href="https://hidde.blog/common-a11y-issues/">Common accessibility issues that you can fix today</a></li>
+		<li><a href="https://speckyboy.com/testing-your-website-screen-reader/">How to Start Testing Your Website with a Screen Reader</a></li>
 	</ul>
 </details>
 
