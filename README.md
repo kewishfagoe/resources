@@ -669,6 +669,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.screely.com/">Screely - Generate Website Mockups</a></li>
 		<li><a href="https://chalk.ist/">chalk.ist</a></li>
 		<li><a href="https://www.arraybuilder.com/">arraybuilder</a></li>
+		<li><a href="https://github.com/massCodeIO/massCode">massCode - A free and open source code snippets manager</a></li>
 	</ul>
 </details>
 
