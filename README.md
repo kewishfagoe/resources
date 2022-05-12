@@ -852,6 +852,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Accessibility</summary>
 	<ul>
 		<li><a href="https://benmyers.dev/blog/fix-low-contrast-text/">How to Fix Your Low-Contrast Text</a></li>
+		<li><a href="https://hidde.blog/common-a11y-issues/">Common accessibility issues that you can fix today</a></li>
 	</ul>
 </details>
 
