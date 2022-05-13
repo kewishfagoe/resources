@@ -718,6 +718,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.fontfacer.io/">Fontfacer.io</a></li>
 		<li><a href="https://github.com/majodev/google-webfonts-helper/">google-webfonts-helper</a></li>
 		<li><a href="https://www.layoutgridcalculator.com/typographic-scale/">A Typographic Scale Calculator</a></li>
+		<li><a href="https://material.io/blog/roboto-flex">Roboto Flex</a></li>
 	</ul>
 </details>
 
