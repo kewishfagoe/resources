@@ -524,6 +524,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://tympanus.net/codrops/2022/04/16/awesome-demos-roundup-20/">Awesome Demos Roundup #20</a></li>
 		<li><a href="https://cal.sharats.me/">Just a Calendar</a></li>
 		<li><a href="https://david-hckh.com/">David Heckhoff</a></li>
+		<li><a href="https://kirschberg.co.nz/">David Kirschberg</a></li>
 	</ul>
 </details>
 
