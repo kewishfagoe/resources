@@ -190,6 +190,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZ_LyvzfrndUOkIvOF4y-_c">JavaScript Scopes and Closures In-depth by JavaBrains</a></li>
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTaflXUL0v3TSm86nodn0c_u">JavaScript Objects and Prototypes In-depth by JavaBrains</a></li>
 		<li><a href="https://codecourse.com/courses/learn-alpine-js">Learn Alpine.js by Codecourse</a></li>
+		<li><a href="https://laracasts.com/series/learn-vue-3-step-by-step">Learn Vue 3: Step by Step</a></li>
 	</ul>
 </details>
 
