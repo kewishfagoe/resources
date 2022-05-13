@@ -527,6 +527,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://cal.sharats.me/">Just a Calendar</a></li>
 		<li><a href="https://david-hckh.com/">David Heckhoff</a></li>
 		<li><a href="https://kirschberg.co.nz/">David Kirschberg</a></li>
+		<li><a href="https://zulu.longines.com/">zulu.longines.com</a></li>
 	</ul>
 </details>
 
