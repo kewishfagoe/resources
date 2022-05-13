@@ -314,6 +314,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://leerob.io/blog/style-guides-component-libraries-design-systems">Everything I Know About Style Guides, Design Systems, and Component Libraries by Lee Robinson</a></li>
 		<li><a href="https://stackoverflow.design/">Stacks</a></li>
+		<li><a href="https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/">Building a Design System from scratch</a></li>
 	</ul>
 </details>
 
