@@ -793,6 +793,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.hyperjs.dev/">HyperJS</a></li>
 		<li><a href="https://github.com/ruilisi/fortune-sheet">FortuneSheet</a></li>
 		<li><a href="https://github.com/Wikifox/wikifox.js">wikifox.js</a></li>
+		<li><a href="https://github.com/studio-freight/lenis">lenis smooth scroll</a></li>
 	</ul>
 </details>
 
