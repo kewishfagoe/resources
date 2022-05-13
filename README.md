@@ -493,6 +493,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://alistapart.com/article/redefine-success-first/">Designers, (Re)define Success First</a></li>
 		<li><a href="https://web.dev/state-of-css-2022/">State of CSS 2022</a></li>
 		<li><a href="https://tsh.io/state-of-frontend/#report">State of Frontend 2022</a></li>
+		<li><a href="https://sprucecss.com/blog/writing-better-css">Writing Better CSS</a></li>
 	</ul>
 </details>
 
