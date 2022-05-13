@@ -491,6 +491,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://infrequently.org/2022/05/performance-management-maturity/">A Management Maturity Model for Performance</a></li>
 		<li><a href="https://sparkbox.com/foundry/design_system_makeup_design_system_layers_parts_of_a_design_system">The Anatomy of a Design System</a></li>
 		<li><a href="https://alistapart.com/article/redefine-success-first/">Designers, (Re)define Success First</a></li>
+		<li><a href="https://web.dev/state-of-css-2022/">State of CSS 2022</a></li>
 	</ul>
 </details>
 
