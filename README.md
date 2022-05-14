@@ -753,6 +753,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://mdb.pushkaryadav.in/">MDB - badges for your projects</a></li>
 		<li><a href="https://github.com/tandpfun/skill-icons">Skill Icons</a></li>
 		<li><a href="https://github.com/tabler/tabler-icons">tabler icons</a></li>
+		<li><a href="https://fonts.google.com/icons">Material Symbols</a></li>
 	</ul>
 </details>
 
