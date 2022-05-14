@@ -417,6 +417,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.insanelyusefulwebsites.com/">Insanely Useful Websites</a></li>
 		<li><a href="https://justgoodthemes.com/">Just Good Themes</a></li>
 		<li><a href="https://jamstackthemes.dev/">Jamstack Themes</a></li>
+		<li><a href="https://dopeui.co/">dopeui.co</a></li>
 	</ul>
 </details>
 
