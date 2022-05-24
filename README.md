@@ -903,6 +903,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://danabyerly.com/notes/upgrading-to-eleventy-1-0-0/">Upgrading to Eleventy 1.0.0</a></li>
 		<li><a href="https://danabyerly.com/articles/manually-splitting-css-files-in-eleventy/">Manually splitting CSS files in Eleventy</a></li>
 		<li><a href="https://11ty.rocks/posts/ignore-11ty-files-with-environment-variables/">Ignore Eleventy Files With Environment Variables</a></li>
+		<li><a href="https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrJ1R1qEf8CCEpV3GgbJGNr">Create an Eleventy Static Site Generator Theme from a Free HTML Theme</a></li>
 	</ul>
 </details>
 
