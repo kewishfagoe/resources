@@ -30,6 +30,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Explanations](#explanations)
   - Algorithms
+  - Eleventy
   - Fundamentals
   - Java
   - JavaScript Concepts
@@ -247,6 +248,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/TheAlgorithms/PHP">Algorithms implemented in PHP</a></li>
 		<li><a href="https://github.com/TheAlgorithms/Java">Algorithms implemented in Java</a></li>
 		<li><a href="https://github.com/TheAlgorithms/Javascript">Algorithms implemented in JavaScript</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Eleventy</summary>
+	<ul>
+		<li><a href="https://benmyers.dev/blog/eleventy-data-cascade/">I Finally Understand Eleventy's Data Cascade</a></li>
 	</ul>
 </details>
 
