@@ -508,6 +508,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://tsh.io/state-of-frontend/#report">State of Frontend 2022</a></li>
 		<li><a href="https://sprucecss.com/blog/writing-better-css">Writing Better CSS</a></li>
 		<li><a href="https://www.iamli.am/blog/future-of-interface">A New Future for the Interface</a></li>
+		<li><a href="https://www.trysmudford.com/blog/eleventy-design-system/">Building a design system with Eleventy</a></li>
 	</ul>
 </details>
 
