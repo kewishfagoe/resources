@@ -656,6 +656,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/markmead/hyperui">HyperUI</a></li>
 		<li><a href="https://tailwind-ecommerce.com/">Tailwind E-commerce</a></li>
 		<li><a href="https://bootstrap-ecommerce.com/">Bootstrap E-commerce</a></li>
+		<li><a href="https://dohliam.github.io/dropin-minimal-css/">Drop-in Minimal CSS</a></li>
 	</ul>
 </details>
 
