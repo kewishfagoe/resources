@@ -510,6 +510,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://sprucecss.com/blog/writing-better-css">Writing Better CSS</a></li>
 		<li><a href="https://www.iamli.am/blog/future-of-interface">A New Future for the Interface</a></li>
 		<li><a href="https://www.trysmudford.com/blog/eleventy-design-system/">Building a design system with Eleventy</a></li>
+		<li><a href="https://polypane.app/blog/where-is-has-new-css-selectors-that-make-your-life-easier/">New CSS selectors that make your life easier</a></li>
 	</ul>
 </details>
 
