@@ -796,6 +796,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://logoipsum.com/">Logo Ipsum</a></li>
 		<li><a href="https://www.magiceraser.io/">Magic Eraser</a></li>
 		<li><a href="https://undraw.co/">unDraw</a></li>
+		<li><a href="https://vectorwiki.com/">VectorWiki</a></li>
 	</ul>
 </details>
 
