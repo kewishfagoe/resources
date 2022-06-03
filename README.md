@@ -779,6 +779,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="http://jpeg-optimizer.com/">jpeg-optimizer</a></li>
 		<li><a href="https://saerasoft.com/caesium/">Caesium Image Compressor</a></li>
 		<li><a href="https://github.com/antonreshetov/image-optimizer">Mac Only Image Optimizer</a></li>
+		<li><a href="https://www.shrink.media/">shrink.media</a></li>
 	</ul>
 </details>
 
