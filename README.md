@@ -235,6 +235,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners</a></li>
 		<li><a href="https://github.com/google/WebFundamentals">Web Fundamentals on DevSite</a></li>
 		<li><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a></li>
+		<li><a href="https://www.sherpa.guide/">sherpa.guide</a></li>
 	</ul>
 </details>
 
