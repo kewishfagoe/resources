@@ -873,6 +873,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://metaseo.itsvg.in/">metaSEO - Generate meta tags</a></li>
 		<li><a href="https://unlighthouse.dev/">Unlighthouse</a></li>
 		<li><a href="https://opengrph.blockscribers.com/">OpenGrph</a></li>
+		<li><a href="https://socialimagemaker.io/">socialimagemaker</a></li>
 	</ul>
 </details>
 
