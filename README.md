@@ -831,6 +831,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/studio-freight/lenis">lenis smooth scroll</a></li>
 		<li><a href="https://github.com/chakra-ui/zag">ZagJS</a></li>
 		<li><a href="https://github.com/alephjs/aleph.js">aleph.js</a></li>
+		<li><a href="https://xsgames.co/xsalert/">XSAlert</a></li>
 	</ul>
 </details>
 
