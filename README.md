@@ -514,6 +514,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://polypane.app/blog/where-is-has-new-css-selectors-that-make-your-life-easier/">New CSS selectors that make your life easier</a></li>
 		<li><a href="https://www.robinwieruch.de/web-applications/">Web Applications 101</a></li>
 		<li><a href="https://www.crunchydata.com/blog/demystifying-database-performance-for-developers">Demystifying Database Performance for Developers</a></li>
+		<li><a href="https://thefocuscourse.com/8-week-work-schedule/">The Blanc Media 8-Week Work Cycle with Sabbaticals</a></li>
 	</ul>
 </details>
 
