@@ -583,6 +583,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Eleventy</summary>
 	<ul>
 		<li><a href="https://danabyerly.com/notes/upgrading-to-eleventy-1-0-0/">Upgrading Eleventy</a></li>
+		<li><a href="https://www.aleksandrhovhannisyan.com/blog/useful-11ty-filters/">A Set of Useful 11ty Filters</a></li>
 	</ul>
 </details>
 
