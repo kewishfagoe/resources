@@ -576,6 +576,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://kevincox.ca/2022/05/06/rss-feed-best-practices/">RSS Feed Best Practices</a></li>
 		<li><a href="https://blog.aloni.org/posts/proper-use-of-git-tags/">Proper use of Git tags</a></li>
 		<li><a href="https://martinjoo.dev/35-eloquent-recipes">35 Laravel Eloquent Recipes</a></li>
+		<li><a href="https://www.aleksandrhovhannisyan.com/blog/limiting-memory-usage-in-wsl-2/">Limiting Memory Usage in WSL 2</a></li>
 	</ul>
 </details>
 
