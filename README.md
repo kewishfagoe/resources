@@ -517,6 +517,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.crunchydata.com/blog/demystifying-database-performance-for-developers">Demystifying Database Performance for Developers</a></li>
 		<li><a href="https://thefocuscourse.com/8-week-work-schedule/">The Blanc Media 8-Week Work Cycle with Sabbaticals</a></li>
 		<li><a href="https://jvns.ca/blog/2022/05/12/sqlite-utils--a-nice-way-to-import-data-into-sqlite/">sqlite-utils: a nice way to import data into SQLite for analysis</a></li>
+		<li><a href="https://www.stackbit.com/blog/content-stats-eleventy/">Compiling Content Stats for a JAMstack Site Using Eleventy</a></li>
 	</ul>
 </details>
 
