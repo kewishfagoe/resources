@@ -838,6 +838,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/alephjs/aleph.js">aleph.js</a></li>
 		<li><a href="https://xsgames.co/xsalert/">XSAlert</a></li>
 		<li><a href="https://github.com/grid-js/gridjs">Grid.js</a></li>
+		<li><a href="https://auto-animate.formkit.com/">AutoAnimate</a></li>
 	</ul>
 </details>
 
