@@ -796,6 +796,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/antonreshetov/image-optimizer">Mac Only Image Optimizer</a></li>
 		<li><a href="https://www.shrink.media/">shrink.media</a></li>
 		<li><a href="https://bulkimagecompressor.com/">Bulk Image Compressor</a></li>
+		<li><a href="https://github.com/woltapp/blurhash">blurhash</a></li>
 	</ul>
 </details>
 
