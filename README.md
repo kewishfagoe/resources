@@ -588,6 +588,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://danabyerly.com/notes/upgrading-to-eleventy-1-0-0/">Upgrading Eleventy</a></li>
 		<li><a href="https://www.aleksandrhovhannisyan.com/blog/useful-11ty-filters/">A Set of Useful 11ty Filters</a></li>
 		<li><a href="https://www.seanmcp.com/articles/logging-with-eleventy-and-nunjucks/">Logging with Eleventy and Nunjucks</a></li>
+		<li><a href="https://11ty.rocks/eleventyjs/tags/">11ty Filters for Tags</a></li>
 	</ul>
 </details>
 
