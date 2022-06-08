@@ -429,6 +429,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://jamstackthemes.dev/">Jamstack Themes</a></li>
 		<li><a href="https://dopeui.co/">dopeui.co</a></li>
 		<li><a href="https://qlndr.io/">QlndR.io</a></li>
+		<li><a href="https://vueuse.org/">VueUse.org</a></li>
 	</ul>
 </details>
 
