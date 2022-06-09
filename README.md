@@ -556,6 +556,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://kirschberg.co.nz/">David Kirschberg</a></li>
 		<li><a href="https://zulu.longines.com/">zulu.longines.com</a></li>
 		<li><a href="https://zzetao.github.io/awesome-github-profile/">Awesome Github Profile</a></li>
+		<li><a href="https://abduzeedo.com/uiux-design-paygo">UI/UX Design for PayGO</a></li>
 	</ul>
 </details>
 
