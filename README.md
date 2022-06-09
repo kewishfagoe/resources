@@ -726,6 +726,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://markdit.com/new-doc">Markdit</a></li>
 		<li><a href="https://set.visualistapp.com/">Visualist Moodboarding</a></li>
 		<li><a href="https://www.commands.dev/">commands.dev</a></li>
+		<li><a href="https://umbrel.com/">Umbrel</a></li>
 	</ul>
 </details>
 
