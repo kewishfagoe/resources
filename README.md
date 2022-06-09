@@ -521,6 +521,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://jvns.ca/blog/2022/05/12/sqlite-utils--a-nice-way-to-import-data-into-sqlite/">sqlite-utils: a nice way to import data into SQLite for analysis</a></li>
 		<li><a href="https://www.stackbit.com/blog/content-stats-eleventy/">Compiling Content Stats for a JAMstack Site Using Eleventy</a></li>
 		<li><a href="https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/">Mobile-First CSS: Is It Time for a Rethink?</a></li>
+		<li><a href="https://jlzych.com/2022/06/06/on-creativity-my-modest-guide-to-being-more-creative/">On Creativity: My modest guide to being more creative</a></li>
 	</ul>
 </details>
 
