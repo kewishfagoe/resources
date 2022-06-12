@@ -432,6 +432,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://vueuse.org/">VueUse.org</a></li>
 		<li><a href="https://github.com/tmcw/systemfontstack">systemfontstack.com</a></li>
 		<li><a href="https://webhighlighter.com/">webhighlighter.com</a></li>
+		<li><a href="https://www.ethicaldesignresources.com/">ethicaldesignresources.com</a></li>
 	</ul>
 </details>
 
