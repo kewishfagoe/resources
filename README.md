@@ -617,6 +617,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/KittyGiraudel/a11y-dialog">a11y-dialog</a></li>
 		<li><a href="https://contrast-grid.eightshapes.com/">Contrast Grid</a></li>
 		<li><a href="https://webaccessibilitychecklist.com/">Web Accessibility Checklist</a></li>
+		<li><a href="https://www.w3.org/WAI/ARIA/apg/patterns/">ARIA Authoring Practices Guide (APG)</a></li>
 	</ul>
 </details>
 
