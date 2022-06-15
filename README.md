@@ -817,6 +817,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.shrink.media/">shrink.media</a></li>
 		<li><a href="https://bulkimagecompressor.com/">Bulk Image Compressor</a></li>
 		<li><a href="https://github.com/woltapp/blurhash">blurhash</a></li>
+		<li><a href="https://depositphotos.com/bgremover.html">bgremover</a></li>
 	</ul>
 </details>
 
