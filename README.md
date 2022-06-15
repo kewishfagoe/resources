@@ -434,6 +434,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://webhighlighter.com/">webhighlighter.com</a></li>
 		<li><a href="https://www.ethicaldesignresources.com/">ethicaldesignresources.com</a></li>
 		<li><a href="https://beta.sayhello.so/">beta.sayhello.so</a></li>
+		<li><a href="https://www.nosignup.tools/">nosignup.tools</a></li>
 	</ul>
 </details>
 
