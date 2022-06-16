@@ -528,6 +528,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://alistapart.com/article/mobile-first-css-is-it-time-for-a-rethink/">Mobile-First CSS: Is It Time for a Rethink?</a></li>
 		<li><a href="https://jlzych.com/2022/06/06/on-creativity-my-modest-guide-to-being-more-creative/">On Creativity: My modest guide to being more creative</a></li>
 		<li><a href="http://sophieshepherd.com/2017/06/14/learning-to-be-chill.html">The Road to Burnout is Paved With Context Switching</a></li>
+		<li><a href="https://addyosmani.com/blog/software-engineering-soft-parts/">Software Engineering - The Soft Parts</a></li>
 	</ul>
 </details>
 
