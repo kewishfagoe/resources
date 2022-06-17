@@ -688,6 +688,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://bootstrap-ecommerce.com/">Bootstrap E-commerce</a></li>
 		<li><a href="https://dohliam.github.io/dropin-minimal-css/">Drop-in Minimal CSS</a></li>
 		<li><a href="https://github.com/htmlstreamofficial/preline">Preline UI</a></li>
+		<li><a href="https://github.com/bigskysoftware/missing">missing.style</a></li>
 	</ul>
 </details>
 
