@@ -743,6 +743,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.commands.dev/">commands.dev</a></li>
 		<li><a href="https://umbrel.com/">Umbrel</a></li>
 		<li><a href="https://www.paddle.com/">Paddle</a></li>
+		<li><a href="https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode">ERD Editor</a></li>
 	</ul>
 </details>
 
