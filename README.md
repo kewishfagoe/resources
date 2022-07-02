@@ -438,6 +438,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://untools.co/">untools.co</a></li>
 		<li><a href="https://c3css.com/">c3css.com</a></li>
 		<li><a href="https://html.spec.whatwg.org/dev/">HTML Living Standard Document</a></li>
+		<li><a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines</a></li>
 	</ul>
 </details>
 
