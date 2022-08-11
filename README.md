@@ -931,6 +931,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://unlighthouse.dev/">Unlighthouse</a></li>
 		<li><a href="https://opengrph.blockscribers.com/">OpenGrph</a></li>
 		<li><a href="https://socialimagemaker.io/">socialimagemaker</a></li>
+		<li><a href="https://metatags.io/">metatags.io</a></li>
 	</ul>
 </details>
 
