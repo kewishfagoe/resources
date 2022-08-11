@@ -696,6 +696,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/htmlstreamofficial/preline">Preline UI</a></li>
 		<li><a href="https://github.com/bigskysoftware/missing">missing.style</a></li>
 		<li><a href="https://github.com/saadeghi/daisyui">daisyUI</a></li>
+		<li><a href="https://github.com/tabler/tabler">Tabler Dashboard UI Kit</a></li>
 	</ul>
 </details>
 
