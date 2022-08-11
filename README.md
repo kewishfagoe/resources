@@ -533,6 +533,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="http://sophieshepherd.com/2017/06/14/learning-to-be-chill.html">The Road to Burnout is Paved With Context Switching</a></li>
 		<li><a href="https://addyosmani.com/blog/software-engineering-soft-parts/">Software Engineering - The Soft Parts</a></li>
 		<li><a href="https://eugeneyan.com/writing/15-5/">Why You Should Write Weekly 15-5s</a></li>
+		<li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a></li>
 	</ul>
 </details>
 
