@@ -854,6 +854,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://vectorwiki.com/">VectorWiki</a></li>
 		<li><a href="https://www.reshot.com/">Reshot</a></li>
 		<li><a href="https://wordpress.org/photos/">WordPress Photos Directory</a></li>
+		<li><a href="https://github.com/DMarby/picsum-photos">picsum.photos</a></li>
 	</ul>
 </details>
 
