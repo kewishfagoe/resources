@@ -884,6 +884,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://auto-animate.formkit.com/">AutoAnimate</a></li>
 		<li><a href="https://partytown.builder.io/">Partytown</a></li>
 		<li><a href="https://github.com/LeaVerou/color.js">Color.js</a></li>
+		<li><a href="https://cookienotice.js.org/">cookienotice.js.org</a></li>
 	</ul>
 </details>
 
