@@ -752,6 +752,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://marketplace.visualstudio.com/items?itemName=dineug.vuerd-vscode">ERD Editor</a></li>
 		<li><a href="https://github.com/sabrogden/Ditto">Ditto Clipboard</a></li>
 		<li><a href="https://ssl-config.mozilla.org/">Mozilla SSL Configuration Generator</a></li>
+		<li><a href="https://servefolder.dev/">servefolder.dev</a></li>
 	</ul>
 </details>
 
