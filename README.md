@@ -840,6 +840,9 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/woltapp/blurhash">blurhash</a></li>
 		<li><a href="https://depositphotos.com/bgremover.html">bgremover</a></li>
 		<li><a href="https://www.responsivebreakpoints.com/">Responsive Image Breakpoints Generator</a></li>
+		<li><a href="https://bulkresizephotos.com/en">bulkresizephotos</a></li>
+		<li><a href="https://fengyuanchen.github.io/compressorjs/">Compressor.js</a></li>
+		<li><a href="https://imagecompressor.com/">Optimizilla</a></li>
 	</ul>
 </details>
 
