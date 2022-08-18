@@ -892,6 +892,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://cookienotice.js.org/">cookienotice.js.org</a></li>
 		<li><a href="https://github.com/nextui-org/nextui">NextUI</a></li>
 		<li><a href="https://barebones.wearethreebears.co.uk/">BareBones</a></li>
+		<li><a href="https://github.com/bigskysoftware/htmx">htmx.org</a></li>
 	</ul>
 </details>
 
