@@ -345,6 +345,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.smashingmagazine.com/2022/04/guide-push-notifications-developers/">The Ultimate Guide To Push Notifications For Developers</a></li>
 		<li><a href="https://sourabhbajaj.com/mac-setup/">macOS Setup Guide</a></li>
 		<li><a href="https://www.sitepoint.com/cron-jobs/">Cron Jobs: A Comprehensive Guide</a></li>
+		<li><a href="https://github.com/Kristories/awesome-guidelines">Awesome Guidelines</a></li>
 	</ul>
 </details>
 
