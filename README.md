@@ -888,7 +888,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://partytown.builder.io/">Partytown</a></li>
 		<li><a href="https://github.com/LeaVerou/color.js">Color.js</a></li>
 		<li><a href="https://cookienotice.js.org/">cookienotice.js.org</a></li>
-		<li><a href="https://nextui.org/">NextUI</a></li>
+		<li><a href="https://github.com/nextui-org/nextui">NextUI</a></li>
 	</ul>
 </details>
 
@@ -920,6 +920,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>PHP</summary>
 	<ul>
 		<li><a href="https://richtabor.com/wabi/">Wabi - a WordPress block theme</a></li>
+		<li><a href="https://wordpress.org/plugins/create-block-theme/">Create Block Theme Plugin</a></li>
 	</ul>
 </details>
 
