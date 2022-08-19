@@ -1035,6 +1035,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://codersblock.com/blog/deep-dive-into-text-wrapping-and-word-breaking/">Deep Dive into Text Wrapping and Word Breaking</a></li>
 		<li><a href="https://ishadeed.com/article/learn-css-subgrid/">Learn CSS Subgrid</a></li>
 		<li><a href="https://wdrfree.com/249/how-to-create-a-purecss-tabs-navigation">How to create a PureCSS Tabs Navigation</a></li>
+		<li><a href="https://jakearchibald.com/2022/img-aspect-ratio/">Avoiding img layout shifts</a></li>
 	</ul>
 </details>
 
