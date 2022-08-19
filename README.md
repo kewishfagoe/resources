@@ -536,6 +536,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://eugeneyan.com/writing/15-5/">Why You Should Write Weekly 15-5s</a></li>
 		<li><a href="http://www.catb.org/~esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a></li>
 		<li><a href="https://history.user-interface.io/">The history of user interfaces</a></li>
+		<li><a href="https://css-tricks.com/technical-writing-for-developers/">Technical Writing for Developers</a></li>
 	</ul>
 </details>
 
