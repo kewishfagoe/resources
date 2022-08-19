@@ -385,6 +385,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>UX</summary>
 	<ul>
 		<li><a href="https://www.uxmatters.com/mt/archives/2022/03/optimizing-a-web-site-for-googles-new-ux-criteria.php">Optimizing a Web Site for Google's New UX Criteria</a></li>
+		<li><a href="https://makeitclear.com/insight/ux-ui-tips-a-guide-to-search-inputs">UX/ UI tips: A guide to search inputs</a></li>
 	</ul>
 </details>
 
