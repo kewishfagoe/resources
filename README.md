@@ -370,6 +370,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://priceonomics.com/the-content-marketing-handbook/">The Content Marketing Handbook</a></li>
 		<li><a href="https://www.smashingmagazine.com/2022/03/guide-mobile-app-marketing/">A Complete Guide To Mobile App Marketing</a></li>
+		<li><a href="https://www.developermarkepear.com/blog/paid-advertising-developer-marketing">How to advertise to developers: deep dive into paid developer marketing</a></li>
 	</ul>
 </details>
 
