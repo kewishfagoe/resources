@@ -768,6 +768,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://servefolder.dev/">servefolder.dev</a></li>
 		<li><a href="https://www.autoregex.xyz/">autoregex.xyz</a></li>
 		<li><a href="https://upgraderoo.janez.tech/">upgraderoo.janez.tech</a></li>
+		<li><a href="https://github.com/siddharthroy12/recoded">recoded.netlify.app</a></li>
 	</ul>
 </details>
 
