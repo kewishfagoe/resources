@@ -1073,6 +1073,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.raymondcamden.com/2022/03/14/building-table-sorting-and-pagination-in-javascript">Building Table Sorting and Pagination in JavaScript</a></li>
 		<li><a href="https://webinuse.com/detect-when-a-user-leaves-the-page-using-javascript/">Detect when a user leaves a page using JavaScript</a></li>
 		<li><a href="https://www.raymondcamden.com/2022/05/02/building-table-sorting-and-pagination-in-alpinejs">Building Table Sorting and Pagination in Alpine.js</a></li>
+		<li><a href="https://daily-dev-tips.com/posts/javascript-object-destructuring-tips/">JavaScript object destructuring tips</a></li>
 	</ul>
 </details>
 
