@@ -544,6 +544,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://css-tricks.com/technical-writing-for-developers/">Technical Writing for Developers</a></li>
 		<li><a href="https://developer.chrome.com/blog/has-m105/">:has(): the family selector</a></li>
 		<li><a href="https://jfmengels.net/optimizing-javascript-is-hard/">Optimizing for JavaScript is hard</a></li>
+		<li><a href="https://elisehe.in/2022/07/19/the-fun-in-accessibility">Where's the fun in accessibility?</a></li>
 	</ul>
 </details>
 
