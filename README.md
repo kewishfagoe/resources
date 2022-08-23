@@ -1012,6 +1012,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://11ty.rocks/posts/ignore-11ty-files-with-environment-variables/">Ignore Eleventy Files With Environment Variables</a></li>
 		<li><a href="https://www.youtube.com/playlist?list=PLOSLUtJ_J3rrJ1R1qEf8CCEpV3GgbJGNr">Create an Eleventy Static Site Generator Theme from a Free HTML Theme</a></li>
 		<li><a href="https://www.aleksandrhovhannisyan.com/blog/eleventy-build-info/">Add Build Info to an 11ty Site</a></li>
+		<li><a href="https://www.mikeaparicio.com/posts/2022-08-19-nested-navigation-in-eleventy/">Nested navigation in Eleventy</a></li>
 	</ul>
 </details>
 
