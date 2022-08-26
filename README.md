@@ -589,6 +589,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/ui-buttons/core">ui-buttons.web.app</a></li>
 		<li><a href="https://terrain-warp.vercel.app/">terrain-warp.vercel.app</a></li>
 		<li><a href="https://www.wowpage.io/">wowpage.io</a></li>
+		<li><a href="https://github.com/codrops/FullscreenScroll/">Fullscreen Scrolling Slideshow</a></li>
 	</ul>
 </details>
 
