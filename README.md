@@ -561,6 +561,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://jfmengels.net/optimizing-javascript-is-hard/">Optimizing for JavaScript is hard</a></li>
 		<li><a href="https://elisehe.in/2022/07/19/the-fun-in-accessibility">Where's the fun in accessibility?</a></li>
 		<li><a href="https://www.colepeters.dev/posts/an-introduction-to-constraint-based-design-systems">An Introduction to Constraint Based Design Systems</a></li>
+		<li><a href="https://www.joshwcomeau.com/react/why-react-re-renders/">Why React Re-Renders</a></li>
 	</ul>
 </details>
 
