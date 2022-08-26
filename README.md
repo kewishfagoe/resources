@@ -239,6 +239,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/google/WebFundamentals">Web Fundamentals on DevSite</a></li>
 		<li><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a></li>
 		<li><a href="https://www.sherpa.guide/">sherpa.guide</a></li>
+		<li><a href="https://www.youtube.com/playlist?list=PLzMcBGfZo4-nUIIMsz040W_X-03QH5c5h">Linux for Programmers</a></li>
 	</ul>
 </details>
 
@@ -277,7 +278,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/samdutton/simpl">Simplest possible examples of HTML, CSS and Javascript</a></li>
 		<li><a href="https://github.com/jlevy/the-art-of-command-line">The Art of Command Line</a></li>
 		<li><a href="https://www.youtube.com/watch?v=-Wi-Fip_il4">What Is ARIA Even For?</a></li>
-		<li><a href="https://webhooks.fyi/">webhooks.fyi</a></li>
+		<li><a href="https://github.com/ngrok/webhooks.fyi">webhooks.fyi</a></li>
 	</ul>
 </details>
 
