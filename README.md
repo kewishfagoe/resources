@@ -941,6 +941,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/nearform/lyra">lyrajs.io</a></li>
 		<li><a href="https://github.com/open-source-labs/Svelvet">svelvet.io</a></li>
 		<li><a href="https://github.com/pacocoursey/cmdk">cmdk.paco.me</a></li>
+		<li><a href="https://github.com/ncase/nutshell">ncase.me/nutshell</a></li>
 	</ul>
 </details>
 
