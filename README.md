@@ -30,6 +30,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Explanations](#explanations)
   - Algorithms
+  - Databases
   - Eleventy
   - Fundamentals
   - Java
@@ -250,6 +251,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/TheAlgorithms/PHP">Algorithms implemented in PHP</a></li>
 		<li><a href="https://github.com/TheAlgorithms/Java">Algorithms implemented in Java</a></li>
 		<li><a href="https://github.com/TheAlgorithms/Javascript">Algorithms implemented in JavaScript</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Databases</summary>
+	<ul>
+		<li><a href="https://architecturenotes.co/redis/">Redis Explained</a></li>
 	</ul>
 </details>
 
