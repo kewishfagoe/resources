@@ -601,6 +601,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.wowpage.io/">wowpage.io</a></li>
 		<li><a href="https://github.com/codrops/FullscreenScroll/">Fullscreen Scrolling Slideshow</a></li>
 		<li><a href="https://web.dev/creative-list-styling/">Creative list styling</a></li>
+		<li><a href="https://neal.fun/design-the-next-iphone/">Design the next iPhone</a></li>
 	</ul>
 </details>
 
@@ -841,6 +842,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://whatthetag.com/#/">What the tag ?!</a></li>
 		<li><a href="https://shapecatcher.com/">shapecatcher</a></li>
 		<li><a href="https://onedivloaders.vercel.app/">one div loaders</a></li>
+		<li><a href="https://mediaquery.style/">mediaquery.style</a></li>
 	</ul>
 </details>
 
