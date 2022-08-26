@@ -261,6 +261,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://architecturenotes.co/redis/">Redis Explained</a></li>
 		<li><a href="https://architecturenotes.co/things-you-should-know-about-databases/">Things You Should Know About Databases</a></li>
+		<li><a href="https://planetscale.com/blog/how-do-database-indexes-work">How do database indexes work?</a></li>
 	</ul>
 </details>
 
