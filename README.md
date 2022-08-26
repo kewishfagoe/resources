@@ -258,6 +258,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Databases</summary>
 	<ul>
 		<li><a href="https://architecturenotes.co/redis/">Redis Explained</a></li>
+		<li><a href="https://architecturenotes.co/things-you-should-know-about-databases/">Things You Should Know About Databases</a></li>
 	</ul>
 </details>
 
