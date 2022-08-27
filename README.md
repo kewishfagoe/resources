@@ -719,7 +719,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 <details>
     <summary>CSS Libraries & Frameworks</summary>
 	<ul>
-		<li><a href="https://github.com/xz/new.css">new.css</a></li>
+		<li><a href="https://github.com/xz/new.css">newcss.net</a></li>
 		<li><a href="https://watercss.kognise.dev/">Water.css</a></li>
 		<li><a href="https://github.com/andybrewer/mvp/">MVP.css</a></li>
 		<li><a href="https://github.com/picocss/pico">Pico.css</a></li>
@@ -735,6 +735,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/bigskysoftware/missing">missing.style</a></li>
 		<li><a href="https://github.com/saadeghi/daisyui">daisyUI</a></li>
 		<li><a href="https://github.com/tabler/tabler">Tabler Dashboard UI Kit</a></li>
+		<li><a href="https://github.com/kevquirk/simple.css">simplecss.org</a></li>
 	</ul>
 </details>
 
