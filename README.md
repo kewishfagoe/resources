@@ -714,6 +714,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://color-name-generator.com/">Color Name Generator</a></li>
 		<li><a href="https://goodpalette.io/">goodpalette</a></li>
 		<li><a href="https://mdigi.tools/color-shades/">Color Shades Generator</a></li>
+		<li><a href="https://fffuel.co/hhhue/">hhhue</a></li>
 	</ul>
 </details>
 
