@@ -462,6 +462,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.w3.org/TR/WCAG21/">Web Content Accessibility Guidelines</a></li>
 		<li><a href="https://you.com/code">you.com/code</a></li>
 		<li><a href="https://github.com/PaulKinlan/classless-css-demo">classless-css-demo.deno.dev</a></li>
+		<li><a href="https://playsearch.kaki87.net/">playsearch</a></li>
 	</ul>
 </details>
 
