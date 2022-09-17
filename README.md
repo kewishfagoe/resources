@@ -568,6 +568,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://kinduff.com/2021/11/22/the-debug-diary/">The Debug Diary</a></li>
 		<li><a href="http://wiki.c2.com/?CodeForTheMaintainer">Code For The Maintainer</a></li>
 		<li><a href="https://joelhooks.com/developer-portfolio">Crafting a Business Oriented Developer Portfolio that Stands Out</a></li>
+		<li><a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">Readme Driven Development</a></li>
 	</ul>
 </details>
 
