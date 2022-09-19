@@ -616,6 +616,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://web.dev/creative-list-styling/">Creative list styling</a></li>
 		<li><a href="https://neal.fun/design-the-next-iphone/">Design the next iPhone</a></li>
 		<li><a href="https://marvel.ladataviz.com/">marvel.ladataviz.com</a></li>
+		<li><a href="https://nicepage.com/website-design">nicepage</a></li>
 	</ul>
 </details>
 
