@@ -77,6 +77,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Images
   - JavaScript Libraries & Frameworks
   - Layout
+  - Miscellaneous
   - Performance
   - PHP
   - Responsive Design
@@ -972,6 +973,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://grid.layoutit.com/">Layoutit!</a></li>
 		<li><a href="https://cssgrid-generator.netlify.app/">CSS Grid Generator by Sarah Drasner</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Miscellaneous</summary>
+	<ul>
+		<li><a href="https://www.winmd5.com/">WinMD5Free</a></li>
 	</ul>
 </details>
 
