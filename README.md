@@ -980,6 +980,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Miscellaneous</summary>
 	<ul>
 		<li><a href="https://www.winmd5.com/">WinMD5Free</a></li>
+		<li><a href="https://raylin.wordpress.com/downloads/md5-sha-1-checksum-utility/">MD5 & SHA Checksum Utility</a></li>
 	</ul>
 </details>
 
