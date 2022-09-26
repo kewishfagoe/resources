@@ -322,6 +322,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.smashingmagazine.com/2021/04/complete-guide-html-email-templates-tools/">A Complete Guide To HTML Email</a></li>
 		<li><a href="https://stephaniewalter.design/blog/a-designers-guide-to-documenting-accessibility-user-interactions/">A Designer's Guide to Documenting Accessibility & User Interactions</a></li>
 		<li><a href="https://www.a11ymatters.com/pattern/mobile-nav/">Accessible Mobile Navigation</a></li>
+		<li><a href="https://www.smashingmagazine.com/2022/09/wai-aria-guide/">Making Sense Of WAI-ARIA</a></li>
 	</ul>
 </details>
 
