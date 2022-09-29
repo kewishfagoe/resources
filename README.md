@@ -10,6 +10,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Design
   - JavaScript
   - PHP
+  - Web
 
 - [Cheatsheets](#cheatsheets)
   - Git
@@ -117,6 +118,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>PHP</summary>
 	<ul>
 		<li><a href="https://phptherightway.com/">PHP The Right Way</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Web</summary>
+	<ul>
+		<li><a href="https://almanac.httparchive.org/en/2022/">Web Almanac</a></li>
 	</ul>
 </details>
 
