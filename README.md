@@ -1122,6 +1122,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://wdrfree.com/249/how-to-create-a-purecss-tabs-navigation">How to create a PureCSS Tabs Navigation</a></li>
 		<li><a href="https://jakearchibald.com/2022/img-aspect-ratio/">Avoiding img layout shifts</a></li>
 		<li><a href="https://www.aleksandrhovhannisyan.com/blog/image-carousel-tutorial/">Creating an Accessible Image Carousel</a></li>
+		<li><a href="https://web.dev/learn/html/">Learn HTML by web.dev</a></li>
 	</ul>
 </details>
 
