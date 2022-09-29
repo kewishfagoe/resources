@@ -1156,5 +1156,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://spatie.be/videos/testing-laravel-with-pest/testing-the-homepage">Testing the homepage of a Laravel app using Pest</a></li>
 		<li><a href="https://rias.be/blog/running-phpunit-tests-in-parallel-using-github-actions">Running PHPUnit tests in parallel using GitHub actions</a></li>
 		<li><a href="https://www.famethemes.com/blog/stop-spam-comments-wordpress/">How to Stop Spam Comments in WordPress</a></li>
+		<li><a href="https://bootcamp.laravel.com/">Laravel Bootcamp</a></li>
 	</ul>
 </details>
