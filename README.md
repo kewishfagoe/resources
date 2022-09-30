@@ -864,6 +864,12 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/majodev/google-webfonts-helper/">google-webfonts-helper</a></li>
 		<li><a href="https://www.layoutgridcalculator.com/typographic-scale/">A Typographic Scale Calculator</a></li>
 		<li><a href="https://material.io/blog/roboto-flex">Roboto Flex</a></li>
+		<li>figtree
+			<ul>
+				<li><a href="https://www.erikdkennedy.com/projects/figtree.html">figtree sans serif</a></li>
+				<li><a href="https://github.com/erikdkennedy/figtree">GitHub Repo for figtree</a></li>
+			</ul>
+		</li>
 	</ul>
 </details>
 
