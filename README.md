@@ -580,6 +580,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://joelhooks.com/developer-portfolio">Crafting a Business Oriented Developer Portfolio that Stands Out</a></li>
 		<li><a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">Readme Driven Development</a></li>
 		<li><a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi">QR codes</a></li>
+		<li><a href="https://mcfunley.com/choose-boring-technology">Choose Boring Technology</a></li>
 	</ul>
 </details>
 
