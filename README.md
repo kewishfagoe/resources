@@ -987,6 +987,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/ncase/nutshell">ncase.me/nutshell</a></li>
 		<li><a href="https://github.com/mathiasbynens/he">he - html entity encoder/decoder</a></li>
 		<li><a href="https://github.com/PuruVJ/neodrag">neodrag</a></li>
+		<li><a href="https://github.com/ardeora/solid-toast">solid-toast.com</a></li>
 	</ul>
 </details>
 
