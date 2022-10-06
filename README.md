@@ -825,6 +825,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://upgraderoo.janez.tech/">upgraderoo.janez.tech</a></li>
 		<li><a href="https://github.com/siddharthroy12/recoded">recoded.netlify.app</a></li>
 		<li><a href="https://github.com/thedaviddias/Front-End-Checklist">frontendchecklist.io</a></li>
+		<li><a href="https://github.com/parcel-bundler/lightningcss">lightningcss.dev</a></li>
 	</ul>
 </details>
 
