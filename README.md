@@ -828,6 +828,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/parcel-bundler/lightningcss">lightningcss.dev</a></li>
 		<li><a href="https://github.com/AykutSarac/jsoncrack.com">jsoncrack.com</a></li>
 		<li><a href="https://github.com/ageddesi/Mocked-API">mocked-api.dev</a></li>
+		<li><a href="https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator">fluid-type-scale.com</a></li>
 	</ul>
 </details>
 
