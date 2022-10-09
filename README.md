@@ -581,6 +581,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://tom.preston-werner.com/2010/08/23/readme-driven-development.html">Readme Driven Development</a></li>
 		<li><a href="https://typefully.com/DanHollick/qr-codes-T7tLlNi">QR codes</a></li>
 		<li><a href="https://mcfunley.com/choose-boring-technology">Choose Boring Technology</a></li>
+		<li><a href="https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/">Website Load Time Statistics: Why Speed Matters</a></li>
 	</ul>
 </details>
 
