@@ -1019,6 +1019,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://raylin.wordpress.com/downloads/md5-sha-1-checksum-utility/">MD5 & SHA Checksum Utility</a></li>
 		<li><a href="https://www.motionity.app/">motionity.app</a></li>
 		<li><a href="https://penpot.app/">penpot.app</a></li>
+		<li><a href="https://github.com/coroot/coroot">coroot</a></li>
 	</ul>
 </details>
 
