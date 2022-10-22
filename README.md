@@ -882,6 +882,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 				<li><a href="https://github.com/erikdkennedy/figtree">GitHub Repo for figtree</a></li>
 			</ul>
 		</li>
+		<li><a href="https://brailleinstitute.org/freefont">Atkinson Hyperlegible Font</a></li>
 	</ul>
 </details>
 
