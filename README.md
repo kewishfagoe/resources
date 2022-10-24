@@ -918,6 +918,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/feathericons/feather">feathericons.com</a></li>
 		<li><a href="https://iconer.app/">iconer.app</a></li>
 		<li><a href="https://github.com/hfg-gmuend/openmoji">openmoji.org</a></li>
+		<li><a href="https://github.com/planetabhi/sargam-icons">sargamicons.com</a></li>
 	</ul>
 </details>
 
