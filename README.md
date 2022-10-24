@@ -883,6 +883,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 			</ul>
 		</li>
 		<li><a href="https://brailleinstitute.org/freefont">Atkinson Hyperlegible Font</a></li>
+		<li><a href="https://screenspan.net/fallback">Fallback Font Generator</a></li>
 	</ul>
 </details>
 
