@@ -1046,6 +1046,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://richtabor.com/wabi/">Wabi - a WordPress block theme</a></li>
 		<li><a href="https://wordpress.org/plugins/create-block-theme/">Create Block Theme Plugin</a></li>
+		<li><a href="https://andersnoren.se/themes/bjork/">Bjork - WordPress Block Theme</a></li>
 	</ul>
 </details>
 
