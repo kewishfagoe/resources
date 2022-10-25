@@ -649,6 +649,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 	<ul>
 		<li><a href="https://talks.jensimmons.com/videos/h0XWcf">Everything You Know About Web Design Just Changed</a></li>
 		<li><a href="https://www.youtube.com/watch?v=TqfbAXCCVwE">Building Resilient Frontend Architecture</a></li>
+		<li><a href="https://www.youtube.com/watch?v=iG9CE55wbtY">Do schools kill creativity?</a></li>
 	</ul>
 </details>
 
