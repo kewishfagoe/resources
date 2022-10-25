@@ -583,6 +583,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://mcfunley.com/choose-boring-technology">Choose Boring Technology</a></li>
 		<li><a href="https://www.websitebuilderexpert.com/building-websites/website-load-time-statistics/">Website Load Time Statistics: Why Speed Matters</a></li>
 		<li><a href="https://www.smashingmagazine.com/2022/10/sustainable-web-development-strategies-organization/">Sustainable Web Development Strategies Within An Organization</a></li>
+		<li><a href="https://web.dev/new-patterns-for-amazing-apps/">New patterns for amazing apps</a></li>
 	</ul>
 </details>
 
