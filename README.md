@@ -636,6 +636,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.saaa.am/">saaa.am</a></li>
 		<li><a href="https://www.creativesouth.com/">creativesouth.com</a></li>
 		<li><a href="https://www.rose-island.co/">rose-island.co</a></li>
+		<li><a href="https://chainzoku.io/">chainzoku.io</a></li>
 	</ul>
 </details>
 
