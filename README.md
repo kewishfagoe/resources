@@ -232,6 +232,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>TypeScript</summary>
 	<ul>
 		<li><a href="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTanfgsbnFzfWUhhAz3tIezU">TypeScript Basics by JavaBrains</a></li>
+		<li><a href="https://www.totaltypescript.com/tutorials/beginners-typescript">Beginner's TypeScript</a></li>
 	</ul>
 </details>
 
