@@ -842,6 +842,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/AleksandrHovhannisyan/fluid-type-scale-calculator">fluid-type-scale.com</a></li>
 		<li><a href="https://www.websitecarbon.com/">Website Carbon calculator</a></li>
 		<li><a href="https://reqres.in/">reqres.in</a></li>
+		<li><a href="https://stackbricks.app/">stackbricks.app</a></li>
 	</ul>
 </details>
 
