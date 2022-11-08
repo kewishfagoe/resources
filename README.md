@@ -37,7 +37,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Java
   - JavaScript Concepts
   - PHP
-  
+
 - [Guides](#guides)
   - Accessibility
   - CSS
@@ -475,6 +475,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/PaulKinlan/classless-css-demo">classless-css-demo.deno.dev</a></li>
 		<li><a href="https://playsearch.kaki87.net/">playsearch</a></li>
 		<li><a href="https://www.canidev.tools/">canidev.tools</a></li>
+		<li><a href="https://component.gallery/">component.gallery</a></li>
 	</ul>
 </details>
 
