@@ -476,6 +476,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://playsearch.kaki87.net/">playsearch</a></li>
 		<li><a href="https://www.canidev.tools/">canidev.tools</a></li>
 		<li><a href="https://component.gallery/">component.gallery</a></li>
+		<li><a href="https://github.com/brettchalupa/projectbook">projectbook.code.brettchalupa.com</a></li>
 	</ul>
 </details>
 
