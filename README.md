@@ -590,6 +590,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://web.dev/new-patterns-for-amazing-apps/">New patterns for amazing apps</a></li>
 		<li><a href="https://pencilandpaper.io/articles/ux-pattern-drag-and-drop/">Drag and Drop UX Best Practices</a></li>
 		<li><a href="https://maggieappleton.com/programming-portals">Programming Portals</a></li>
+		<li><a href="https://hidde.blog/dialog-modal-popover-differences/">Dialog Modal Popover Differences</a></li>
 	</ul>
 </details>
 
