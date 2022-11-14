@@ -592,6 +592,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://maggieappleton.com/programming-portals">Programming Portals</a></li>
 		<li><a href="https://hidde.blog/dialog-modal-popover-differences/">Dialog Modal Popover Differences</a></li>
 		<li><a href="https://frontendmastery.com/posts/the-evolution-of-scalable-css/">The evolution of scalable CSS</a></li>
+		<li><a href="https://www.nngroup.com/articles/hostile-error-messages/">Hostile Patterns in Error Messages</a></li>
 	</ul>
 </details>
 
