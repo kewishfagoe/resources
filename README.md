@@ -317,6 +317,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://tray2.se/posts/sqlerrm">Common SQL errors for Laravel Developers</a></li>
 		<li><a href="https://fullsiteediting.com/lessons/theme-json-typography-options/">WordPress theme.json typography options</a></li>
 		<li><a href="https://refactoring.guru/design-patterns/php">Design Patterns in PHP</a></li>
+		<li><a href="https://planetscale.com/blog/laravels-safety-mechanisms">Laravel’s safety mechanisms</a></li>
 	</ul>
 </details>
 
