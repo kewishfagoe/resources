@@ -1055,6 +1055,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://content-parser.com/">content-parser.com</a></li>
 		<li><a href="https://www.ezcv.pro/">ezcv.pro</a></li>
 		<li><a href="https://github.com/octokatherine/readme.so">readme.so</a></li>
+		<li><a href="https://github.com/xmichelo/Beeftext">beeftext.org</a></li>
 	</ul>
 </details>
 
