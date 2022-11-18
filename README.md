@@ -480,6 +480,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://component.gallery/">component.gallery</a></li>
 		<li><a href="https://github.com/brettchalupa/projectbook">projectbook.code.brettchalupa.com</a></li>
 		<li><a href="https://www.sqlteaching.com/">sqlteaching.com</a></li>
+		<li><a href="https://endoflife.date/">endoflife.date</a></li>
 	</ul>
 </details>
 
