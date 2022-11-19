@@ -599,6 +599,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.nngroup.com/articles/hostile-error-messages/">Hostile Patterns in Error Messages</a></li>
 		<li><a href="https://ralphammer.com/the-creative-switch/">The Creative Switch</a></li>
 		<li><a href="https://blog.nateliason.com/p/fermenting-great-ideas">The Art of Fermenting Great Ideas</a></li>
+		<li><a href="https://www.hanselman.com/blog/your-words-are-wasted">Your words are wasted</a></li>
 	</ul>
 </details>
 
