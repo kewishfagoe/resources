@@ -602,6 +602,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://ralphammer.com/the-creative-switch/">The Creative Switch</a></li>
 		<li><a href="https://blog.nateliason.com/p/fermenting-great-ideas">The Art of Fermenting Great Ideas</a></li>
 		<li><a href="https://www.hanselman.com/blog/your-words-are-wasted">Your words are wasted</a></li>
+        <li><a href="https://www.smashingmagazine.com/2022/11/optimizing-vue-app/">Optimizing A Vue App</a></li>
 	</ul>
 </details>
 
