@@ -659,6 +659,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.studiorhe.com/">studiorhe.com</a></li>
 		<li><a href="https://www.aboutgropius.com/">aboutgropius.com</a></li>
 		<li><a href="https://lenis.studiofreight.com/">lenis.studiofreight.com</a></li>
+		<li><a href="https://abduzeedo.com/e-commerce-web-design-and-ux-estrid">E-commerce Web Design and UX for Estrid</a></li>
 	</ul>
 </details>
 
