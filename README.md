@@ -867,6 +867,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://reqres.in/">reqres.in</a></li>
 		<li><a href="https://stackbricks.app/">stackbricks.app</a></li>
 		<li><a href="https://restcountries.com/">restcountries.com</a></li>
+		<li><a href="https://github.com/backstage/backstage">backstage.io</a></li>
 	</ul>
 </details>
 
