@@ -356,6 +356,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/">Building a Design System from scratch</a></li>
 		<li><a href="https://cloudscape.design/">cloudscape.design</a></li>
 		<li><a href="https://thedesignsystem.guide/">thedesignsystem.guide</a></li>
+		<li><a href="https://principles.design/">principles.design</a></li>
 	</ul>
 </details>
 
