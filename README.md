@@ -608,6 +608,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.tpgi.com/the-anatomy-of-visually-hidden/">The anatomy of visually-hidden</a></li>
         <li><a href="https://blog.nateliason.com/p/de-atomization-is-the-secret-to-happiness">De-Atomization is the Secret to Happiness</a></li>
         <li><a href="https://fhur.me/posts/collapsing-knowledge">Knowledge is like a house of cards</a></li>
+        <li><a href="https://openai.com/blog/chatgpt/">Optimizing Language Models for Dialogue</a></li>
 	</ul>
 </details>
 
