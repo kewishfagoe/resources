@@ -1051,6 +1051,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/tremorlabs/tremor">tremor.so</a></li>
 		<li><a href="https://github.com/olivernn/lunr.js">lunrjs.com</a></li>
 		<li><a href="https://github.com/LyraSearch/lyra">docs.lyrasearch.io</a></li>
+		<li><a href="https://github.com/epicmaxco/vuestic-ui/">vuestic.dev</a></li>
 	</ul>
 </details>
 
