@@ -610,6 +610,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://fhur.me/posts/collapsing-knowledge">Knowledge is like a house of cards</a></li>
         <li><a href="https://openai.com/blog/chatgpt/">Optimizing Language Models for Dialogue</a></li>
         <li><a href="https://img.ly/blog/ultimate-guide-to-ffmpeg/">FFmpeg - The Ultimate Guide</a></li>
+        <li><a href="https://tyler.cafe/foundational_skills">Foundational skills</a></li>
 	</ul>
 </details>
 
