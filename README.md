@@ -762,6 +762,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>CMS</summary>
 	<ul>
 		<li><a href="https://github.com/strapi/strapi">strapi.io</a></li>
+		<li><a href="https://github.com/payloadcms/payload">payloadcms.com</a></li>
 	</ul>
 </details>
 
