@@ -65,6 +65,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
   - Accessibility
   - Charts
   - CLI
+  - CMS
   - Color
   - CSS Libraries & Frameworks
   - Database
@@ -754,6 +755,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/sindresorhus/cpy-cli">cpy-cli</a></li>
 		<li><a href="https://github.com/extrawurst/gitui">GitUI</a></li>
 		<li><a href="https://www.npmjs.com/package/depcheck">depcheck</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>CMS</summary>
+	<ul>
+		<li><a href="https://github.com/strapi/strapi">strapi.io</a></li>
 	</ul>
 </details>
 
