@@ -1117,6 +1117,12 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://wordpress.org/plugins/create-block-theme/">Create Block Theme Plugin</a></li>
 		<li><a href="https://andersnoren.se/themes/bjork/">Bjork - WordPress Block Theme</a></li>
 		<li><a href="https://briangardner.com/themes/design-mode/">Design Mode WordPress Theme</a></li>
+        <li>Syntax-highlighting Code Block Plugin
+			<ul>
+				<li><a href="https://wordpress.org/plugins/syntax-highlighting-code-block/">Syntax-highlighting Code Block (with Server-side Rendering)</a></li>
+				<li><a href="https://github.com/westonruter/syntax-highlighting-code-block">GitHub Repo for the plugin</a></li>
+			</ul>
+		</li>
 	</ul>
 </details>
 
