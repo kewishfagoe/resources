@@ -812,6 +812,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/saadeghi/daisyui">daisyUI</a></li>
 		<li><a href="https://github.com/tabler/tabler">Tabler Dashboard UI Kit</a></li>
 		<li><a href="https://github.com/kevquirk/simple.css">simplecss.org</a></li>
+		<li><a href="https://www.ripple-ui.com/">ripple-ui.com</a></li>
 	</ul>
 </details>
 
