@@ -486,6 +486,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://endoflife.date/">endoflife.date</a></li>
 		<li><a href="https://fedi.tips/">fedi.tips</a></li>
 		<li><a href="https://uiverse.io/">uiverse.io</a></li>
+		<li><a href="https://localfonts.xyz/">localfonts.xyz</a></li>
 	</ul>
 </details>
 
