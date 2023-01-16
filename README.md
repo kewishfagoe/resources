@@ -1280,5 +1280,6 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.famethemes.com/blog/stop-spam-comments-wordpress/">How to Stop Spam Comments in WordPress</a></li>
 		<li><a href="https://bootcamp.laravel.com/">Laravel Bootcamp</a></li>
 		<li><a href="https://css-tricks.com/getting-started-with-wordpress-block-development/">Getting Started With WordPress Block Development</a></li>
+		<li><a href="https://www.thomas.io/how-to-store-hours-in-a-database">How to store hours in a database in PHP</a></li>
 	</ul>
 </details>
