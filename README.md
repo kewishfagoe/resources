@@ -1095,6 +1095,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/xmichelo/Beeftext">beeftext.org</a></li>
 		<li><a href="http://www.uderzo.it/main_products/space_sniffer/index.html">SpaceSniffer</a></li>
 		<li><a href="https://github.com/tweetback/tweetback">tweetback</a></li>
+		<li><a href="https://podcast.adobe.com/enhance">Adobe Podcast Enhance Speech</a></li>
 	</ul>
 </details>
 
