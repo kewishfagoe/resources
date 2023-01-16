@@ -1130,6 +1130,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 				<li><a href="https://github.com/westonruter/syntax-highlighting-code-block">GitHub Repo for the plugin</a></li>
 			</ul>
 		</li>
+		<li><a href="https://wpturbo.dev/generators/">WordPress Generators</a></li>
 	</ul>
 </details>
 
