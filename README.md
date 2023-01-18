@@ -7,6 +7,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 ## Contents
 
 - [Books](#books)
+  - Databases
   - Design
   - JavaScript
   - PHP
@@ -98,6 +99,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 
 ## Books
+
+<details>
+    <summary>Databases</summary>
+	<ul>
+		<li><a href="https://use-the-index-luke.com/">SQL Indexing and Tuning e-Book</a></li>
+	</ul>
+</details>
 
 <details>
     <summary>Design</summary>
