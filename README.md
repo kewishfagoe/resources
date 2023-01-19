@@ -624,6 +624,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://img.ly/blog/ultimate-guide-to-ffmpeg/">FFmpeg - The Ultimate Guide</a></li>
         <li><a href="https://tyler.cafe/foundational_skills">Foundational skills</a></li>
         <li><a href="https://visualizevalue.com/blogs/feed/how-to-build-leverage">How to Build Leverage from Scratch</a></li>
+        <li><a href="https://blog.jim-nielsen.com/2022/select-the-right-tool/">Select The Right Tool For The Job</a></li>
 	</ul>
 </details>
 
