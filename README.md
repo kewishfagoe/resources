@@ -1113,6 +1113,14 @@ A collection of resources/tools/courses/explanations and everything else I've co
 			<ul>
 				<li><a href="https://www.flowlauncher.com/">flowlauncher.com</a></li>
 				<li><a href="https://github.com/Flow-Launcher/Flow.Launcher">GitHub Repo</a></li>
+				<li><a href="https://www.youtube.com/watch?v=fBwbovCrvMQ">Video Explanation</a></li>
+			</ul>
+		</li>
+		<li>Script Kit
+			<ul>
+				<li><a href="https://www.scriptkit.com/">scriptkit.com</a></li>
+				<li><a href="https://github.com/johnlindquist/kit">GitHub Repo</a></li>
+				<li><a href="https://www.youtube.com/watch?v=C14MSrJGGBg">Video Explanation</a></li>
 			</ul>
 		</li>
 	</ul>
