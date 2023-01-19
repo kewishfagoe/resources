@@ -1109,6 +1109,12 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="http://www.uderzo.it/main_products/space_sniffer/index.html">SpaceSniffer</a></li>
 		<li><a href="https://github.com/tweetback/tweetback">tweetback</a></li>
 		<li><a href="https://podcast.adobe.com/enhance">Adobe Podcast Enhance Speech</a></li>
+		<li>Flow Launcher
+			<ul>
+				<li><a href="https://www.flowlauncher.com/">flowlauncher.com</a></li>
+				<li><a href="https://github.com/Flow-Launcher/Flow.Launcher">GitHub Repo</a></li>
+			</ul>
+		</li>
 	</ul>
 </details>
 
