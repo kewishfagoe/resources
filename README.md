@@ -1123,6 +1123,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 				<li><a href="https://www.youtube.com/watch?v=C14MSrJGGBg">Video Explanation</a></li>
 			</ul>
 		</li>
+		<li><a href="https://github.com/NickeManarin/ScreenToGif/">screentogif.com</a></li>
 	</ul>
 </details>
 
