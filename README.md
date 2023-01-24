@@ -1084,6 +1084,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/epicmaxco/vuestic-ui/">vuestic.dev</a></li>
 		<li><a href="https://github.com/mantinedev/mantine">mantine.dev</a></li>
 		<li><a href="https://github.com/fiduswriter/Simple-DataTables">fiduswriter.github.io/Simple-DataTables</a></li>
+		<li><a href="https://github.com/analogjs/analog">analogjs.org</a></li>
 	</ul>
 </details>
 
