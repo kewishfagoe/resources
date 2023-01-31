@@ -1088,6 +1088,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/fiduswriter/Simple-DataTables">fiduswriter.github.io/Simple-DataTables</a></li>
 		<li><a href="https://github.com/analogjs/analog">analogjs.org</a></li>
 		<li><a href="https://github.com/fkhadra/react-toastify">react-toastify</a></li>
+		<li><a href="https://github.com/timolins/react-hot-toast">react-hot-toast.com</a></li>
 	</ul>
 </details>
 
