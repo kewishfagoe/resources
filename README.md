@@ -1090,6 +1090,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/fkhadra/react-toastify">react-toastify</a></li>
 		<li><a href="https://github.com/timolins/react-hot-toast">react-hot-toast.com</a></li>
 		<li><a href="https://github.com/Pikaday/Pikaday">pikaday.com</a></li>
+		<li><a href="https://github.com/moment/luxon/">moment.github.io/luxon</a></li>
 	</ul>
 </details>
 
