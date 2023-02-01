@@ -778,6 +778,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/strapi/strapi">strapi.io</a></li>
 		<li><a href="https://github.com/payloadcms/payload">payloadcms.com</a></li>
 		<li><a href="https://github.com/directus/directus">directus.io</a></li>
+		<li><a href="https://github.com/pocketbase/pocketbase">pocketbase.io</a></li>
 	</ul>
 </details>
 
