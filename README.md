@@ -1142,6 +1142,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		</li>
 		<li><a href="https://github.com/NickeManarin/ScreenToGif/">screentogif.com</a></li>
 		<li><a href="http://master-seeker.com/home">MasterSeeker - Fast File Search Engine</a></li>
+		<li><a href="https://whatwhat.app">WhatWhat - Translation App</a></li>
 	</ul>
 </details>
 
