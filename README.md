@@ -1028,6 +1028,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://fengyuanchen.github.io/compressorjs/">Compressor.js</a></li>
 		<li><a href="https://imagecompressor.com/">Optimizilla</a></li>
 		<li><a href="https://palette.fm/">Colorize Pictures</a></li>
+		<li><a href="https://github.com/jakearchibald/svgomg">jakearchibald.github.io/svgomg/</a></li>
 	</ul>
 </details>
 
