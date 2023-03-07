@@ -497,6 +497,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://localfonts.xyz/">localfonts.xyz</a></li>
 		<li><a href="https://unicopy.cc/">unicopy.cc</a></li>
 		<li><a href="https://unshorten.it/">unshorten.it</a></li>
+		<li><a href="https://www.phind.com/">phind.com</a></li>
 	</ul>
 </details>
 
