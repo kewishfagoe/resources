@@ -913,6 +913,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://onecompiler.com/php">OneCompiler</a></li>
 		<li><a href="https://app.codeimage.dev/">app.codeimage.dev</a></li>
 		<li><a href="https://github.com/localtunnel/localtunnel">localtunnel.me</a></li>
+		<li><a href="https://upptime.js.org/">upptime.js.org</a></li>
 	</ul>
 </details>
 
