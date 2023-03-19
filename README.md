@@ -629,6 +629,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://blog.jim-nielsen.com/2022/select-the-right-tool/">Select The Right Tool For The Job</a></li>
         <li><a href="https://www.swyx.io/create-luck">How to Create Luck</a></li>
         <li><a href="https://ncase.me/remember/">How to remember anything forever-ish</a></li>
+        <li><a href="https://fs.blog/why-write/">Why Write?</a></li>
 	</ul>
 </details>
 
