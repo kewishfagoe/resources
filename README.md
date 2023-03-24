@@ -499,6 +499,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://unshorten.it/">unshorten.it</a></li>
 		<li><a href="https://www.phind.com/">phind.com</a></li>
 		<li><a href="https://www.futureoftech.org/">futureoftech.org</a></li>
+		<li><a href="https://github.com/OWASP/CheatSheetSeries">cheatsheetseries.owasp.org</a></li>
 	</ul>
 </details>
 
