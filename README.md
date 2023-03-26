@@ -993,6 +993,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://onedivloaders.vercel.app/">one div loaders</a></li>
 		<li><a href="https://mediaquery.style/">mediaquery.style</a></li>
 		<li><a href="https://tokens.layoutit.com/">Design Tokens Generator</a></li>
+		<li><a href="https://chrisburnell.com/clamp-calculator/">clamp() Calculator</a></li>
 	</ul>
 </details>
 
