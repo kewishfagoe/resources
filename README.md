@@ -501,6 +501,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.futureoftech.org/">futureoftech.org</a></li>
 		<li><a href="https://github.com/OWASP/CheatSheetSeries">cheatsheetseries.owasp.org</a></li>
 		<li><a href="https://typetrials.com/">typetrials.com</a></li>
+		<li><a href="https://github.com/anastasiaprh/product-design-roadmap">product-design-roadmap.com</a></li>
 	</ul>
 </details>
 
