@@ -642,6 +642,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.swyx.io/create-luck">How to Create Luck</a></li>
         <li><a href="https://ncase.me/remember/">How to remember anything forever-ish</a></li>
         <li><a href="https://fs.blog/why-write/">Why Write?</a></li>
+        <li><a href="https://www.smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/">A Case Study Of Migrating A Headless CMS System</a></li>
 	</ul>
 </details>
 
