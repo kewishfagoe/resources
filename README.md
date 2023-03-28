@@ -703,6 +703,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://whimsical.club/">whimsical.club</a></li>
 		<li><a href="https://leebyron.com/4000/">leebyron.com/4000/</a></li>
 		<li><a href="https://lowww.directory/">lowww.directory</a></li>
+		<li><a href="https://lowwwcarbon.com/">lowwwcarbon.com</a></li>
 	</ul>
 </details>
 
