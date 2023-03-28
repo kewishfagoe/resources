@@ -20,6 +20,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 
 - [Courses](#courses)
   - Computer Science
+  - Database
   - Design
   - Eleventy
   - Java
@@ -177,6 +178,13 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://browser.engineering/">Web Browser Engineering by Pavel Panchekha & Chris Harrelson</a></li>
 		<li><a href="https://linuxfromscratch.org/">Linux From Scratch</a></li>
 		<li><a href="https://www.karanpratapsingh.com/courses/system-design">System Design</a></li>
+	</ul>
+</details>
+
+<details>
+    <summary>Database</summary>
+	<ul>
+		<li><a href="https://planetscale.com/courses/mysql-for-developers/introduction/course-introduction">MySQL for Developers</a></li>
 	</ul>
 </details>
 
