@@ -1130,6 +1130,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/Pikaday/Pikaday">pikaday.com</a></li>
 		<li><a href="https://github.com/moment/luxon/">moment.github.io/luxon</a></li>
 		<li><a href="https://github.com/iamkun/dayjs/">day.js.org</a></li>
+		<li><a href="https://github.com/TypeCellOS/BlockNote">blocknotejs.org</a></li>
 	</ul>
 </details>
 
