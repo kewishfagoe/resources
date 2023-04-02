@@ -308,6 +308,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/jlevy/the-art-of-command-line">The Art of Command Line</a></li>
 		<li><a href="https://www.youtube.com/watch?v=-Wi-Fip_il4">What Is ARIA Even For?</a></li>
 		<li><a href="https://github.com/ngrok/webhooks.fyi">webhooks.fyi</a></li>
+		<li><a href="https://web.dev/source-maps/">What are source maps?</a></li>
 	</ul>
 </details>
 
