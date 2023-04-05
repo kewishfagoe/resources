@@ -859,6 +859,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/kevquirk/simple.css">simplecss.org</a></li>
 		<li><a href="https://www.ripple-ui.com/">ripple-ui.com</a></li>
 		<li><a href="https://github.com/sailboatui/sailboatui">sailboatui.com</a></li>
+		<li><a href="https://github.com/alfiejones/theme-toggles">toggles.dev</a></li>
 	</ul>
 </details>
 
