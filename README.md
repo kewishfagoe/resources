@@ -648,6 +648,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://fs.blog/why-write/">Why Write?</a></li>
         <li><a href="https://www.smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/">A Case Study Of Migrating A Headless CMS System</a></li>
         <li><a href="https://www.joshwcomeau.com/react/common-beginner-mistakes/">Common Beginner Mistakes with React</a></li>
+        <li><a href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/">Prompt Engineering</a></li>
 	</ul>
 </details>
 
