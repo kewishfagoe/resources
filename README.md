@@ -515,6 +515,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://bite-sized-a11y.com/">bite-sized-a11y.com</a></li>
 		<li><a href="https://github.com/system-fonts/modern-font-stacks">modernfontstacks.com</a></li>
 		<li><a href="https://whatdoesthiscodedo.com/">whatdoesthiscodedo.com</a></li>
+		<li><a href="https://www.passkeys.io/">passkeys.io</a></li>
+		<li><a href="https://passkeys.dev/">passkeys.dev</a></li>
 	</ul>
 </details>
 
