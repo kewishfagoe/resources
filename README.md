@@ -715,6 +715,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://ecograder.com/">ecograder.com</a></li>
 		<li><a href="https://wearemotto.com/">wearemotto.com</a></li>
 		<li><a href="https://lightshiprv.com/">lightshiprv.com</a></li>
+		<li><a href="https://okcclabs.com/">okcclabs.com</a></li>
 	</ul>
 </details>
 
