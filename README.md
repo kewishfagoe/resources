@@ -653,6 +653,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.joshwcomeau.com/react/common-beginner-mistakes/">Common Beginner Mistakes with React</a></li>
         <li><a href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/">Prompt Engineering</a></li>
         <li><a href="https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/">Laying Out a Print Book With CSS</a></li>
+        <li><a href="https://anthonyhobday.com/sideprojects/saferules/">Visual design rules you can safely follow every time</a></li>
 	</ul>
 </details>
 
