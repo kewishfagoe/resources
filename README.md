@@ -1220,6 +1220,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 			</ul>
 		</li>
 		<li><a href="https://wpturbo.dev/generators/">WordPress Generators</a></li>
+		<li><a href="https://wordpress.org/plugins/tablepress/">WordPress TablePress</a></li>
 	</ul>
 </details>
 
