@@ -652,6 +652,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.smashingmagazine.com/2023/03/vue-case-study-migrating-headless-cms-system/">A Case Study Of Migrating A Headless CMS System</a></li>
         <li><a href="https://www.joshwcomeau.com/react/common-beginner-mistakes/">Common Beginner Mistakes with React</a></li>
         <li><a href="https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/">Prompt Engineering</a></li>
+        <li><a href="https://iangmcdowell.com/blog/posts/laying-out-a-book-with-css/">Laying Out a Print Book With CSS</a></li>
 	</ul>
 </details>
 
