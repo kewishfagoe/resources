@@ -178,6 +178,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://browser.engineering/">Web Browser Engineering by Pavel Panchekha & Chris Harrelson</a></li>
 		<li><a href="https://linuxfromscratch.org/">Linux From Scratch</a></li>
 		<li><a href="https://www.karanpratapsingh.com/courses/system-design">System Design</a></li>
+		<li><a href="https://karpathy.ai/zero-to-hero.html">Neural Networks: Zero to Hero</a></li>
 	</ul>
 </details>
 
