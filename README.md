@@ -1012,6 +1012,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://screenspan.net/fallback">Fallback Font Generator</a></li>
 		<li><a href="https://rubjo.github.io/victor-mono/">Victor Mono Font</a></li>
 		<li><a href="https://github.com/github/mona-sans">Mona Sans Font</a></li>
+		<li><a href="https://github.com/arrowtype/shantell-sans">shantellsans.com</a></li>
 	</ul>
 </details>
 
