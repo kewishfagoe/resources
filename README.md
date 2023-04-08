@@ -657,6 +657,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://anthonyhobday.com/sideprojects/saferules/">Visual design rules you can safely follow every time</a></li>
         <li><a href="https://alex.miller.garden/grid-world/">Grid World</a></li>
         <li><a href="https://www.scottohara.me/blog/2023/03/24/search-element.html">The search element</a></li>
+        <li><a href="https://svarden.se/post/the-worlds-most-satisfying-toggle">The world’s most satisfying toggle</a></li>
 	</ul>
 </details>
 
