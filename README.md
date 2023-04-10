@@ -659,6 +659,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.scottohara.me/blog/2023/03/24/search-element.html">The search element</a></li>
         <li><a href="https://svarden.se/post/the-worlds-most-satisfying-toggle">The world’s most satisfying toggle</a></li>
         <li><a href="https://every.to/p/a-short-history-of-artificial-intelligence">A Short History of Artificial Intelligence</a></li>
+        <li><a href="https://uxplanet.org/designing-a-wellness-app-while-nothing-seems-to-be-well-7f967114d52f">Designing a Wellness App</a></li>
 	</ul>
 </details>
 
@@ -1154,7 +1155,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/iamkun/dayjs/">day.js.org</a></li>
 		<li><a href="https://github.com/TypeCellOS/BlockNote">blocknotejs.org</a></li>
 		<li><a href="https://github.com/feathersjs/feathers">feathersjs.com</a></li>
-		<li><a href="https://docus.dev/">docus.dev</a></li>
+		<li><a href="https://github.com/nuxt-themes/docus">docus.dev</a></li>
 	</ul>
 </details>
 
