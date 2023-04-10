@@ -662,6 +662,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://uxplanet.org/designing-a-wellness-app-while-nothing-seems-to-be-well-7f967114d52f">Designing a Wellness App</a></li>
         <li><a href="https://zapier.com/blog/thinking-big/">Thinking Big</a></li>
         <li><a href="https://zapier.com/blog/rebuild-work-habits/">How to rebuild your work habits from scratch</a></li>
+        <li><a href="https://zapier.com/blog/ai-in-engineering/">AI in engineering</a></li>
 	</ul>
 </details>
 
