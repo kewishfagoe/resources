@@ -759,6 +759,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://blog.aloni.org/posts/proper-use-of-git-tags/">Proper use of Git tags</a></li>
 		<li><a href="https://martinjoo.dev/35-eloquent-recipes">35 Laravel Eloquent Recipes</a></li>
 		<li><a href="https://www.aleksandrhovhannisyan.com/blog/limiting-memory-usage-in-wsl-2/">Limiting Memory Usage in WSL 2</a></li>
+		<li><a href="https://www.adhamdannaway.com/blog/ui-design/16-ui-design-rules">16 little UI design rules that make a big impact</a></li>
 	</ul>
 </details>
 
