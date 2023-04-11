@@ -730,6 +730,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://lightshiprv.com/">lightshiprv.com</a></li>
 		<li><a href="https://okcclabs.com/">okcclabs.com</a></li>
 		<li><a href="https://www.darkmodedesign.com/">darkmodedesign.com</a></li>
+		<li><a href="https://minimal.gallery/">minimal.gallery</a></li>
 	</ul>
 </details>
 
