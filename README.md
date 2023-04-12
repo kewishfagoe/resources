@@ -665,6 +665,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://zapier.com/blog/rebuild-work-habits/">How to rebuild your work habits from scratch</a></li>
         <li><a href="https://zapier.com/blog/ai-in-engineering/">AI in engineering</a></li>
         <li><a href="https://annhandley.com/the-fun-parts-of-writing/">How to Turn Editing Into the Best Part of Writing</a></li>
+        <li><a href="https://longform.asmartbear.com/predict-the-future/">Navigating the unpredictability of everything</a></li>
 	</ul>
 </details>
 
