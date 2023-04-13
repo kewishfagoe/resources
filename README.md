@@ -666,6 +666,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://zapier.com/blog/ai-in-engineering/">AI in engineering</a></li>
         <li><a href="https://annhandley.com/the-fun-parts-of-writing/">How to Turn Editing Into the Best Part of Writing</a></li>
         <li><a href="https://longform.asmartbear.com/predict-the-future/">Navigating the unpredictability of everything</a></li>
+        <li><a href="https://spectrum.ieee.org/memory-safe-programming-languages">The Move to Memory-Safe Programming</a></li>
 	</ul>
 </details>
 
