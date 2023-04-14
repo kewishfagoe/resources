@@ -667,6 +667,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://annhandley.com/the-fun-parts-of-writing/">How to Turn Editing Into the Best Part of Writing</a></li>
         <li><a href="https://longform.asmartbear.com/predict-the-future/">Navigating the unpredictability of everything</a></li>
         <li><a href="https://spectrum.ieee.org/memory-safe-programming-languages">The Move to Memory-Safe Programming</a></li>
+        <li><a href="https://www.zachleat.com/web/styling-web-components/">3 Methods for Scoped Styles in Web Components That Work Everywhere</a></li>
 	</ul>
 </details>
 
