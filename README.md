@@ -668,6 +668,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://longform.asmartbear.com/predict-the-future/">Navigating the unpredictability of everything</a></li>
         <li><a href="https://spectrum.ieee.org/memory-safe-programming-languages">The Move to Memory-Safe Programming</a></li>
         <li><a href="https://www.zachleat.com/web/styling-web-components/">3 Methods for Scoped Styles in Web Components That Work Everywhere</a></li>
+        <li><a href="https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/">How generative AI is changing the way developers work</a></li>
 	</ul>
 </details>
 
