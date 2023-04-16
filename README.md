@@ -1177,6 +1177,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/TypeCellOS/BlockNote">blocknotejs.org</a></li>
 		<li><a href="https://github.com/feathersjs/feathers">feathersjs.com</a></li>
 		<li><a href="https://github.com/nuxt-themes/docus">docus.dev</a></li>
+		<li><a href="https://github.com/pilcrowOnPaper/lucia">lucia-auth.com</a></li>
 	</ul>
 </details>
 
