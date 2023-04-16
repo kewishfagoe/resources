@@ -977,6 +977,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://typescale.com/">typescale.com</a></li>
         <li><a href="https://github.com/julien040/gut">gut-cli.dev</a></li>
         <li><a href="https://github.com/evanw/thumbhash">evanw.github.io/thumbhash</a></li>
+        <li><a href="https://github.com/TabbyML/tabby">Tabby</a></li>
 	</ul>
 </details>
 
