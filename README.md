@@ -519,6 +519,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.passkeys.io/">passkeys.io</a></li>
 		<li><a href="https://passkeys.dev/">passkeys.dev</a></li>
 		<li><a href="https://tweek.so/">tweek.so</a></li>
+		<li><a href="https://boredreading.com/">boredreading.com</a></li>
 	</ul>
 </details>
 
