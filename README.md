@@ -671,6 +671,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.zachleat.com/web/styling-web-components/">3 Methods for Scoped Styles in Web Components That Work Everywhere</a></li>
         <li><a href="https://github.blog/2023-04-14-how-generative-ai-is-changing-the-way-developers-work/">How generative AI is changing the way developers work</a></li>
         <li><a href="https://www.reuters.com/graphics/HEALTH-SLEEP/mopakyjmnpa/">Journey into sleep</a></li>
+        <li><a href="https://gk3fyi.substack.com/p/the-cost-of-craft">The Cost of Craft</a></li>
 	</ul>
 </details>
 
