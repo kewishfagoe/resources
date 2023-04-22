@@ -1186,6 +1186,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/nuxt-themes/docus">docus.dev</a></li>
 		<li><a href="https://github.com/pilcrowOnPaper/lucia">lucia-auth.com</a></li>
 		<li><a href="https://github.com/pixijs/pixijs">pixijs.com</a></li>
+		<li><a href="https://github.com/hakimel/reveal.js">revealjs.com</a></li>
 	</ul>
 </details>
 
