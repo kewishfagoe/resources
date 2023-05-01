@@ -1270,6 +1270,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://wordpress.org/plugins/tablepress/">WordPress TablePress</a></li>
 		<li><a href="https://shufflehound.com/lemmony/">lemmony.shufflehound.com</a></li>
 		<li><a href="https://wordpress.org/plugins/seriously-simple-podcasting/">Seriously Simple Podcasting Plugin</a></li>
+		<li><a href="https://wordpress.org/plugins/falcon/">Falcon</a></li>
 	</ul>
 </details>
 
