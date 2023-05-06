@@ -1088,6 +1088,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/BraveUX/for-the-badge">forthebadge.com</a></li>
 		<li><a href="https://realfavicongenerator.net/">realfavicongenerator.net</a></li>
 		<li><a href="https://www.favicon.software/">favicon.software</a></li>
+		<li><a href="https://github.com/Vectopus/Atlas-icons-font">atlasicons.vectopus.com</a></li>
 	</ul>
 </details>
 
