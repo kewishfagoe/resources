@@ -522,6 +522,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://boredreading.com/">boredreading.com</a></li>
 		<li><a href="https://github.com/sdras/career-ladders">career-ladders.dev/engineering/</a></li>
 		<li><a href="https://www.patterns.dev/resources">patterns.dev/resources</a></li>
+		<li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook</a></li>
 	</ul>
 </details>
 
