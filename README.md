@@ -676,6 +676,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://gk3fyi.substack.com/p/the-cost-of-craft">The Cost of Craft</a></li>
         <li><a href="https://react.gg/visualized">React, Visualized</a></li>
         <li><a href="https://samwho.dev/load-balancing/">Load Balancing</a></li>
+        <li><a href="https://cims.nyu.edu/~sbowman/eightthings.pdf">Eight Things to Know about Large Language Models</a></li>
 	</ul>
 </details>
 
