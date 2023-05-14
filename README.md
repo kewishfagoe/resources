@@ -909,6 +909,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Database</summary>
 	<ul>
 		<li><a href="https://github.com/pocketbase/pocketbase">pocketbase.io</a></li>
+		<li><a href="https://github.com/rqlite/rqlite">rqlite.io</a></li>
 	</ul>
 </details>
 
