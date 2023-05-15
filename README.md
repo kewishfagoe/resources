@@ -678,6 +678,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://react.gg/visualized">React, Visualized</a></li>
         <li><a href="https://samwho.dev/load-balancing/">Load Balancing</a></li>
         <li><a href="https://cims.nyu.edu/~sbowman/eightthings.pdf">Eight Things to Know about Large Language Models</a></li>
+        <li><a href="http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html">Release Early, Release Often</a></li>
 	</ul>
 </details>
 
