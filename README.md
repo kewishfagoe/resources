@@ -1197,6 +1197,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/hakimel/reveal.js">revealjs.com</a></li>
 		<li><a href="https://github.com/johannschopplich/unlazy/">unlazy.byjohann.dev</a></li>
 		<li><a href="https://github.com/vuetifyjs/vuetify">vuetifyjs.com</a></li>
+		<li><a href="https://github.com/pmndrs/zustand">zustand-demo.pmnd.rs</a></li>
 	</ul>
 </details>
 
