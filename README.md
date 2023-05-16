@@ -1245,6 +1245,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://whatwhat.app">WhatWhat - Translation App</a></li>
 		<li><a href="https://github.com/Klocman/Bulk-Crap-Uninstaller">bcuninstaller.com</a></li>
 		<li><a href="https://hibitsoft.ir/Uninstaller.html">HiBit Uninstaller</a></li>
+		<li><a href="https://github.com/kimai/kimai">kimai.org</a></li>
 	</ul>
 </details>
 
