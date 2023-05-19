@@ -523,6 +523,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/sdras/career-ladders">career-ladders.dev/engineering/</a></li>
 		<li><a href="https://www.patterns.dev/resources">patterns.dev/resources</a></li>
 		<li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook</a></li>
+		<li><a href="https://www.perplexity.ai">perplexity.ai</a></li>
 	</ul>
 </details>
 
@@ -1247,6 +1248,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/Klocman/Bulk-Crap-Uninstaller">bcuninstaller.com</a></li>
 		<li><a href="https://hibitsoft.ir/Uninstaller.html">HiBit Uninstaller</a></li>
 		<li><a href="https://github.com/kimai/kimai">kimai.org</a></li>
+		<li><a href="https://hemingwayapp.com/">hemingwayapp.com</a></li>
 	</ul>
 </details>
 
