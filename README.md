@@ -1077,6 +1077,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://tokens.layoutit.com/">Design Tokens Generator</a></li>
 		<li><a href="https://chrisburnell.com/clamp-calculator/">clamp() Calculator</a></li>
 		<li><a href="https://shaper.design/">shaper.design</a></li>
+		<li><a href="https://layout.bradwoods.io/">layout.bradwoods.io</a></li>
 	</ul>
 </details>
 
