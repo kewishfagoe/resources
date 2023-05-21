@@ -525,6 +525,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.patterns.dev/resources">patterns.dev/resources</a></li>
 		<li><a href="https://github.com/openai/openai-cookbook">OpenAI Cookbook</a></li>
 		<li><a href="https://www.perplexity.ai">perplexity.ai</a></li>
+		<li><a href="https://uptime.is/">uptime.is</a></li>
 	</ul>
 </details>
 
