@@ -681,6 +681,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://cims.nyu.edu/~sbowman/eightthings.pdf">Eight Things to Know about Large Language Models</a></li>
         <li><a href="http://www.catb.org/~esr/writings/cathedral-bazaar/cathedral-bazaar/ar01s04.html">Release Early, Release Often</a></li>
         <li><a href="http://www.paulgraham.com/talk.html">Write Like You Talk</a></li>
+        <li><a href="https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff">How to use AI to do practical stuff</a></li>
 	</ul>
 </details>
 
