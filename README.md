@@ -997,6 +997,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://github.com/TabbyML/tabby">Tabby</a></li>
         <li><a href="https://beamanalytics.io/">beamanalytics.io</a></li>
         <li><a href="https://github.com/yoavbls/pretty-ts-errors">yoavbls.pretty-ts-errors</a></li>
+        <li><a href="https://github.com/plopjs/plop">plopjs.com</a></li>
 	</ul>
 </details>
 
