@@ -911,6 +911,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/sailboatui/sailboatui">sailboatui.com</a></li>
 		<li><a href="https://github.com/alfiejones/theme-toggles">toggles.dev</a></li>
 		<li><a href="https://github.com/MarsX-dev/floatui">floatui.com</a></li>
+		<li><a href="https://github.com/saadeghi/daisyui">daisyui.com</a></li>
 	</ul>
 </details>
 
