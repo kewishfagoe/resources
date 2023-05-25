@@ -1261,6 +1261,8 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://hibitsoft.ir/Uninstaller.html">HiBit Uninstaller</a></li>
 		<li><a href="https://github.com/kimai/kimai">kimai.org</a></li>
 		<li><a href="https://hemingwayapp.com/">hemingwayapp.com</a></li>
+		<li><a href="https://bitwarden.com/">bitwarden.com</a></li>
+		<li><a href="https://github.com/keepassxreboot/keepassxc">keepassxc.org</a></li>
 	</ul>
 </details>
 
