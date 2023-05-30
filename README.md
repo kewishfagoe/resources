@@ -1216,6 +1216,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/pmndrs/zustand">zustand-demo.pmnd.rs</a></li>
 		<li><a href="https://github.com/tanstack/query">tanstack.com</a></li>
 		<li><a href="https://github.com/lucaong/minisearch">lucaong.github.io/minisearch</a></li>
+		<li><a href="https://github.com/cloudcannon/pagefind">pagefind.app</a></li>
 	</ul>
 </details>
 
