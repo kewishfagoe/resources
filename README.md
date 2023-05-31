@@ -1107,6 +1107,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://realfavicongenerator.net/">realfavicongenerator.net</a></li>
 		<li><a href="https://www.favicon.software/">favicon.software</a></li>
 		<li><a href="https://github.com/Vectopus/Atlas-icons-font">atlasicons.vectopus.com</a></li>
+		<li><a href="https://github.com/danklammer/bytesize-icons">danklammer.com/bytesize-icons</a></li>
 	</ul>
 </details>
 
