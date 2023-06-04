@@ -686,6 +686,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.oneusefulthing.org/p/how-to-use-ai-to-do-practical-stuff">How to use AI to do practical stuff</a></li>
         <li><a href="https://tylercipriani.com/blog/2023/04/22/better-1on1s/">Towards better 1-on-1s</a></li>
         <li><a href="https://scale.com/blog/text-universal-interface">Text Is the Universal Interface</a></li>
+        <li><a href="https://registerspill.thorstenball.com/p/making-a-plan">Making a plan</a></li>
 	</ul>
 </details>
 
