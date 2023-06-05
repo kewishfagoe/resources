@@ -848,6 +848,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://www.npmjs.com/package/depcheck">depcheck</a></li>
 		<li><a href="https://github.com/BurntSushi/ripgrep">ripgrep (rg)</a></li>
 		<li><a href="https://github.com/streetsidesoftware/cspell">cspell.org</a></li>
+		<li><a href="https://github.com/curl/trurl">curl.se/trurl</a></li>
 	</ul>
 </details>
 
