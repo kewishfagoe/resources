@@ -888,6 +888,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://csshero.org/mesher/">csshero.org/mesher</a></li>
 		<li><a href="https://gradicol.vercel.app">gradicol.vercel.app</a></li>
 		<li><a href="https://gradientspace.vercel.app/">gradientspace.vercel.app</a></li>
+		<li><a href="https://gradient.style/">gradient.style</a></li>
 	</ul>
 </details>
 
