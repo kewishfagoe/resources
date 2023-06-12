@@ -1066,6 +1066,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/github/mona-sans">Mona Sans Font</a></li>
 		<li><a href="https://github.com/arrowtype/shantell-sans">shantellsans.com</a></li>
 		<li><a href="https://fonty.io/">fonty.io</a></li>
+		<li><a href="https://github.com/intel/intel-one-mono">Intel One Mono Typeface</a></li>
 	</ul>
 </details>
 
