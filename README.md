@@ -762,6 +762,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://bowndsranches.com/">bowndsranches.com</a></li>
 		<li><a href="https://floor796.com/">floor796.com</a></li>
 		<li><a href="https://ncase.me/door/">ncase.me/door</a></li>
+		<li><a href="https://archives.design/">archives.design</a></li>
 	</ul>
 </details>
 
