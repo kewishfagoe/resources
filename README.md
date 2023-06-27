@@ -1279,6 +1279,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://bitwarden.com/">bitwarden.com</a></li>
 		<li><a href="https://github.com/keepassxreboot/keepassxc">keepassxc.org</a></li>
 		<li><a href="https://github.com/koreader/koreader">koreader.rocks</a></li>
+		<li><a href="https://github.com/hainguyents13/mechvibes/">Mechvibes</a></li>
 	</ul>
 </details>
 
