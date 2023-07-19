@@ -1016,6 +1016,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://github.com/Kong/insomnia">insomnia.rest</a></li>
         <li><a href="https://hoppscotch.io/">hoppscotch.io</a></li>
         <li><a href="https://github.com/httpie/desktop">httpie.io</a></li>
+        <li><a href="https://paw.cloud/pricing">paw.cloud</a></li>
 	</ul>
 </details>
 
