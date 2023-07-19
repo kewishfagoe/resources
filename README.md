@@ -1014,6 +1014,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://github.com/plopjs/plop">plopjs.com</a></li>
         <li><a href="https://github.com/rangav/thunder-client-support">thunderclient.com</a></li>
         <li><a href="https://github.com/Kong/insomnia">insomnia.rest</a></li>
+        <li><a href="https://hoppscotch.io/">hoppscotch.io</a></li>
 	</ul>
 </details>
 
