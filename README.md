@@ -1306,7 +1306,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://tools.pingdom.com/">Pingdom Website Speed Test</a></li>
 		<li><a href="https://www.builder.io/c/performance-insights">builder.io Performance Insights</a></li>
 		<li><a href="https://github.com/nucliweb/webperf-snippets">Web Performance Snippets</a></li>
-		<li><a href="https://esm.sh/">esm.sh</a></li>
+		<li><a href="https://github.com/esm-dev/esm.sh">esm.sh</a></li>
 	</ul>
 </details>
 
