@@ -135,6 +135,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
     <summary>Web</summary>
 	<ul>
 		<li><a href="https://almanac.httparchive.org/en/2022/">Web Almanac</a></li>
+		<li><a href="https://github.com/bigskysoftware/hypermedia-systems">hypermedia.systems</a></li>
 	</ul>
 </details>
 
