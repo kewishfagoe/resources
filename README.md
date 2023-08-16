@@ -925,6 +925,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/MarsX-dev/floatui">floatui.com</a></li>
 		<li><a href="https://github.com/saadeghi/daisyui">daisyui.com</a></li>
 		<li><a href="https://github.com/shadcn/ui">ui.shadcn.com</a></li>
+		<li><a href="https://github.com/marklawlor/nativewind">nativewind.dev</a></li>
 	</ul>
 </details>
 
