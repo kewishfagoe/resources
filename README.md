@@ -692,6 +692,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://scale.com/blog/text-universal-interface">Text Is the Universal Interface</a></li>
         <li><a href="https://registerspill.thorstenball.com/p/making-a-plan">Making a plan</a></li>
         <li><a href="https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/">The growing pains of database architecture</a></li>
+        <li><a href="https://fedmentor.dev/posts/font-size-px/">Why font-size must NEVER be in pixels</a></li>
 	</ul>
 </details>
 
