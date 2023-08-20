@@ -1025,6 +1025,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://github.com/httpie/desktop">httpie.io</a></li>
         <li><a href="https://paw.cloud/pricing">paw.cloud</a></li>
         <li><a href="https://github.com/lissy93/web-check">web-check.as93.net</a></li>
+        <li><a href="https://github.com/makeplane/plane">plane.so</a></li>
 	</ul>
 </details>
 
