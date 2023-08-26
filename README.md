@@ -767,6 +767,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://ncase.me/door/">ncase.me/door</a></li>
 		<li><a href="https://archives.design/">archives.design</a></li>
 		<li><a href="https://marier.design/">Valery Marier</a></li>
+		<li><a href="https://optical.toys/">optical.toys</a></li>
 	</ul>
 </details>
 
