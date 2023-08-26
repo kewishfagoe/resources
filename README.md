@@ -1027,6 +1027,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://github.com/lissy93/web-check">web-check.as93.net</a></li>
         <li><a href="https://github.com/makeplane/plane">plane.so</a></li>
         <li><a href="https://github.com/rameshvarun/blog-cells">rameshvarun.github.io/blog-cells/</a></li>
+        <li><a href="https://github.com/continuedev/continue">continue.dev</a></li>
 	</ul>
 </details>
 
