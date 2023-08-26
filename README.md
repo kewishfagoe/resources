@@ -1029,6 +1029,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://github.com/makeplane/plane">plane.so</a></li>
         <li><a href="https://github.com/rameshvarun/blog-cells">rameshvarun.github.io/blog-cells/</a></li>
         <li><a href="https://github.com/continuedev/continue">continue.dev</a></li>
+        <li><a href="https://www.easyful.com/">easyful.com</a></li>
 	</ul>
 </details>
 
