@@ -531,6 +531,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://uptime.is/">uptime.is</a></li>
 		<li><a href="https://c4model.com/">c4model.com</a></li>
 		<li><a href="https://speed.cloudflare.com/">speed.cloudflare.com</a></li>
+		<li><a href="https://www.pdftool.org/en">pdftool.org</a></li>
 	</ul>
 </details>
 
