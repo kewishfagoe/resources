@@ -771,6 +771,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://archives.design/">archives.design</a></li>
 		<li><a href="https://marier.design/">Valery Marier</a></li>
 		<li><a href="https://optical.toys/">optical.toys</a></li>
+		<li><a href="https://noclip.website/">noclip.website</a></li>
 	</ul>
 </details>
 
