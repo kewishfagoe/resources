@@ -121,6 +121,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://eloquentjavascript.net/">Eloquent JavaScript</a></li>
 		<li><a href="https://github.com/getify/You-Dont-Know-JS">You Don't Know JavaScript</a></li>
 		<li><a href="https://exploringjs.com/es6/">Exploring ES6</a></li>
+		<li><a href="https://github.com/gibbok/typescript-book">The Concise TypeScript Book</a></li>
 	</ul>
 </details>
 
