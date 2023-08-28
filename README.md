@@ -1050,6 +1050,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/rough-stuff/rough">Rough.js</a></li>
 		<li><a href="https://okso.app/">okso.app</a></li>
 		<li><a href="https://github.com/terrastruct/d2">d2lang.com</a></li>
+		<li><a href="https://github.com/CatsJuice/svg-drawing">draw.oooo.so</a></li>
 	</ul>
 </details>
 
