@@ -776,6 +776,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://noclip.website/">noclip.website</a></li>
 		<li><a href="https://collected.li/">collected.li</a></li>
 		<li><a href="https://godly.website/">godly.website</a></li>
+		<li><a href="https://elysium.thebenezer.com/">elysium.thebenezer.com</a></li>
 	</ul>
 </details>
 
