@@ -1315,6 +1315,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://codewith.mu/">codewith.mu</a></li>
 		<li><a href="https://github.com/khoj-ai/khoj">khoj.dev</a></li>
 		<li><a href="https://github.com/organicmaps/organicmaps">organicmaps.app</a></li>
+		<li><a href="https://diskanalyzer.com/">WizTree - Disk Space Analyzer</a></li>
 	</ul>
 </details>
 
