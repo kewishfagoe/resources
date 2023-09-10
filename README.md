@@ -866,6 +866,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/BurntSushi/ripgrep">ripgrep (rg)</a></li>
 		<li><a href="https://github.com/streetsidesoftware/cspell">cspell.org</a></li>
 		<li><a href="https://github.com/curl/trurl">curl.se/trurl</a></li>
+		<li><a href="https://github.com/jasonmccreary/git-trim">git-trim</a></li>
 	</ul>
 </details>
 
