@@ -1074,6 +1074,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/AXeL-dev/distract-me-not">Distract Me Not</a></li>
 		<li><a href="https://augmentedsteam.com/">augmentedsteam.com</a></li>
 		<li><a href="https://github.com/fregante/GhostText">GhostText</a></li>
+		<li><a href="https://chrome.google.com/webstore/detail/boomerang-soap-rest-clien/eipdnjedkpcnlmmdfdkgfpljanehloah/related">boomerangapi.com</a></li>
 	</ul>
 </details>
 
