@@ -911,6 +911,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://gradient.style/">gradient.style</a></li>
 		<li><a href="https://uicolors.app/create">uicolors.app</a></li>
 		<li><a href="https://www.oddcontrast.com/">oddcontrast.com</a></li>
+		<li><a href="https://github.com/kepano/flexoki">stephango.com/flexoki</a></li>
 	</ul>
 </details>
 
