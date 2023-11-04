@@ -1266,6 +1266,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/aidenybai/million">million.dev</a></li>
 		<li><a href="https://github.com/youzan/vant">vant-ui.github.io/vant</a></li>
 		<li><a href="https://github.com/radix-vue/radix-vue">Radix Vue</a></li>
+		<li><a href="https://github.com/ngneat/transloco">ngneat.github.io/transloco</a></li>
 	</ul>
 </details>
 
