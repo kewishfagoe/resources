@@ -868,6 +868,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/curl/trurl">curl.se/trurl</a></li>
 		<li><a href="https://github.com/jasonmccreary/git-trim">git-trim</a></li>
 		<li><a href="https://localhost.run">localhost.run</a></li>
+		<li><a href="https://github.com/pkgxdev/pkgx">pkgx.sh</a></li>
 	</ul>
 </details>
 
