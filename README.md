@@ -534,6 +534,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://speed.cloudflare.com/">speed.cloudflare.com</a></li>
 		<li><a href="https://www.pdftool.org/en">pdftool.org</a></li>
 		<li><a href="https://webglossary.info/">webglossary.info</a></li>
+		<li><a href="https://github.com/conventional-commits/conventionalcommits.org">conventionalcommits.org</a></li>
 	</ul>
 </details>
 
