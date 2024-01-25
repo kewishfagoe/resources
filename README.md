@@ -536,6 +536,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://webglossary.info/">webglossary.info</a></li>
 		<li><a href="https://github.com/conventional-commits/conventionalcommits.org">conventionalcommits.org</a></li>
 		<li><a href="https://gitlab.com/conventionalcomments/conventionalcomments.gitlab.io">conventionalcomments.org</a></li>
+		<li><a href="https://www.betterstories.org/">betterstories.org</a></li>
 	</ul>
 </details>
 
