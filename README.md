@@ -702,6 +702,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
         <li><a href="https://www.figma.com/blog/how-figma-scaled-to-multiple-databases/">The growing pains of database architecture</a></li>
         <li><a href="https://fedmentor.dev/posts/font-size-px/">Why font-size must NEVER be in pixels</a></li>
         <li><a href="https://longform.asmartbear.com/great-strategy/">What makes a strategy great</a></li>
+        <li><a href="https://jonyablonski.com/articles/2024/the-cost-of-personalization/">The Cost of Personalization</a></li>
 	</ul>
 </details>
 
