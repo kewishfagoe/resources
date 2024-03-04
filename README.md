@@ -890,6 +890,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/medusajs/medusa">medusajs.com</a></li>
 		<li><a href="https://github.com/getkirby/kirby">getkirby.com</a></li>
 		<li><a href="https://github.com/TypiCMS/Base">TypiCMS</a></li>
+		<li><a href="https://github.com/StaticJsCMS/static-cms">staticcms.org</a></li>
 	</ul>
 </details>
 
