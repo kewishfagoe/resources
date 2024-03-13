@@ -538,6 +538,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://gitlab.com/conventionalcomments/conventionalcomments.gitlab.io">conventionalcomments.org</a></li>
 		<li><a href="https://www.betterstories.org/">betterstories.org</a></li>
 		<li><a href="https://www.wireframe-examples.com/">wireframe-examples.com</a></li>
+		<li><a href="https://github.com/lindylearn/aboutideasnow">aboutideasnow.com</a></li>
 	</ul>
 </details>
 
