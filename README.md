@@ -788,6 +788,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://deadsimplesites.com/">deadsimplesites.com</a></li>
 		<li><a href="https://www.navbar.gallery/">navbar.gallery</a></li>
 		<li><a href="https://www.404s.design/">404s.design</a></li>
+		<li><a href="https://www.designspells.com/">designspells.com</a></li>
 	</ul>
 </details>
 
