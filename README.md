@@ -1338,6 +1338,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://github.com/organicmaps/organicmaps">organicmaps.app</a></li>
 		<li><a href="https://diskanalyzer.com/">WizTree - Disk Space Analyzer</a></li>
 		<li><a href="https://ghostwriter.kde.org/">ghostwriter - Markdown Writer</a></li>
+		<li><a href="https://github.com/rnwood/smtp4dev">smtp4dev</a></li>
 	</ul>
 </details>
 
