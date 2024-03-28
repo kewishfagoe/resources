@@ -1120,6 +1120,7 @@ A collection of resources/tools/courses/explanations and everything else I've co
 		<li><a href="https://fonty.io/">fonty.io</a></li>
 		<li><a href="https://github.com/intel/intel-one-mono">Intel One Mono Typeface</a></li>
 		<li><a href="https://github.com/eigilnikolajsen/commit-mono">commitmono.com</a></li>
+		<li><a href="https://fonts.google.com/specimen/Inclusive+Sans">oliviaking.com/inclusive-sans</a></li>
 	</ul>
 </details>
 
